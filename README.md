@@ -12,10 +12,9 @@ An Autohotkey script suite to make life easier for Windows users with several en
 - Google Chrome (5 custom shortcuts)
 - Brave Browser (5 custom shortcuts)
 
-- Additional template code included in  script allows you to launch / toggle programs using `WIN+(number key)` or `WIN+SHIFT+(letter key)` - You will need to edit the script to add in these hotkey shortcuts for your specific programs. Detailed instructions for customizing this are included in the comments within the script file and can be used as a reference while editing the script.
+- Additional template code included in  script allows you to launch / toggle programs using `WIN+(number key)` or `WIN+SHIFT+(letter key)` - You will need to edit the script to activate these blocks of code for your specific programs. Detailed instructions for customizing this feature are included in the script file comments can be referenced while editing the script.
 
-
-**NOTE:** The program specific keyboard shortcuts are only enabled while the corresponding program window is active.
+Once, you have edited the script to launch/toggle specific programsThese program specific keyboard shortcuts will only be enabled while the corresponding program window is active.
 
 
 
