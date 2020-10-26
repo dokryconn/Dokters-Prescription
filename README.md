@@ -9,6 +9,7 @@ The `Dokter’s Prescription.EXE` script enables various shortcut functions that
 Running the `Dokter’s Prescription.EXE` file will launch the script as designed with all default shortcut functions activated. 
 
 You can suspend the script functions by pressing **[CTRL+ALT+SHIFT+PAUSE]**.
+
 You can press resume the script by pressing **[CTRL+ALT+SHIFT+PAUSE]** again.
 
 Once the .EXE script runs, a folder will be created called `Dok’s Rx Cabinet`
