@@ -52,9 +52,9 @@ The “Dok’s Rx” folder within the “Dok’s Rx Cabinet” contains:
 
 - **The icon files for the “Dokter’s Prescription” script.**
 
-- You can reference the “Dok’s Rx Guide.xls” spreadsheet for a complete list of all default functions that are included within the script. 
+You can reference the “Dok’s Rx Guide.xls” spreadsheet for a complete list of all default functions that are included within the script. 
 
-- The "App Launch Shortcuts” sub-folder within "Dok’s Rx Cabinet\Dok’s Rx" is a location to store any program shortcuts for the program launch/toggle hotkeys within the script. You can use the file location of the program shortcuts to edit these sections of the raw .AHK version of the script.
+The "App Launch Shortcuts” sub-folder within "Dok’s Rx Cabinet\Dok’s Rx" is a location to store any program shortcuts for the program launch/toggle hotkeys within the script. You can use the file location of the program shortcuts to edit these sections of the raw .AHK version of the script.
 
 For example, applications that are downloaded from the Microsoft Store are not located in the standard program location on your hard drive. These programs are usually nested within the WindowsApps folder. In most cases, if you attempt the run the programs directly from their file location, they will not launch as expected. For this, you can create a program shortcut for these applications. The program shortcuts you create should be moved into the "App Launch Shortcuts."
 
@@ -66,8 +66,8 @@ The “Over The Counter” folder is used to store additional scripts that can b
 
 This folder contains the following optional scripts:
 
--- "Ableton Takeover" - ** Launch while running "Dokter's Prescription" with [CTRL+ALT+SHIFT+A] 
--- "Power & Sleep Hotkeys" - ** Launch while running "Dokter's Prescription" with [CTRL+ALT+SHIFT+P] 
+- **"Ableton Takeover" - ** Launch while running "Dokter's Prescription" with [CTRL+ALT+SHIFT+A]**
+- **"Power & Sleep Hotkeys" - ** Launch while running "Dokter's Prescription" with [CTRL+ALT+SHIFT+P]** 
 
 - The “Ableton Takeover” script suspends certain program processes for specified programs while the Ableton Live window is active and resumes the program processes once the Ableton Live window is no longer active.
 
