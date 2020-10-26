@@ -35,20 +35,22 @@ The "Dok's Rx Cabinet" folder includes additional scripts that can be launched s
 
 - **[CTRL+ALT+SHIFT+R]**
 
-...these additional scripts can also be launched manually without hotkeys and used independently from the "Dokter's Prescription" script.
+These additional packaged scripts can of course be launched manually without using these hotkeys and can be used independently ran without the "Dokter's Prescription" script.
 
-** NOTE:  If the “Dok’s Rx Cabinet” folder is not kept within the same location that you are running the “Dokter’s Prescription” script from, the script may run into a harmless error when a hotkey is pressed and is unable to locate the associated file stored within the “Dok’s Rx Cabinet” folder. If the "Dok's Rx Cabinet" folder gets deleted or moved you can simply recreate it by launching the “Dokter’s Prescription.EXE” file again. Re-launching the "Dokter's Prescription" script will not overwrite any packaged files in "Dok's Rx Cabinet" if they already exist. In other words, any changes that you have made to the .AHK scripts within "Dok's Rx Cabinet" will not be lost when re-launching "Dokter's Prescription.EXE"
+** NOTE:  If the “Dok’s Rx Cabinet” folder is not kept within the same location that you are running the “Dokter’s Prescription.EXE” script from, the script may run into a harmless error when a hotkey is pressed and is unable to locate the associated file stored within the “Dok’s Rx Cabinet” folder. If the "Dok's Rx Cabinet" folder gets deleted or moved you can simply recreate it by launching the “Dokter’s Prescription.EXE” file again. Re-launching the "Dokter's Prescription" script will not overwrite any packaged files in "Dok's Rx Cabinet" if they already exist. In other words, any changes that you have made to the .AHK scripts within "Dok's Rx Cabinet" will not be lost when re-launching "Dokter's Prescription.EXE"
 
 
 
 #	The “Dok’s Rx” folder
 
 The “Dok’s Rx” folder within the “Dok’s Rx Cabinet” contains:
--- The “Dok’s Rx Guide.xls” spreadsheet
+- **The “Dok’s Rx Guide.xls” spreadsheet**
 (Includes full index of script functions and additional tabs to reference native program hotkeys)
--- The “App Launch Shortcuts” folder 
+
+- **The “App Launch Shortcuts” folder**
 (Used for storing created program shortcut files for launching/toggling apps that were installed by Microsoft Store)
--- The icon files for the “Dokter’s Prescription” script.
+
+- **The icon files for the “Dokter’s Prescription” script.**
 
 - You can reference the “Dok’s Rx Guide.xls” spreadsheet for a complete list of all default functions that are included within the script. 
 
