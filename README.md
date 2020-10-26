@@ -19,9 +19,9 @@ These program specific keyboard shortcuts are only enabled while the correspondi
 
 
 
-You can suspend the script functions by pressing **`[CTRL+ALT+SHIFT+PAUSE]`**.
+You can suspend the script functions by pressing **`[CTRL+ALT+SHIFT+PAUSE]`**
 
-You can resume the script by pressing `[CTRL+ALT+SHIFT+PAUSE]` again.
+You can resume the script by pressing **`[CTRL+ALT+SHIFT+PAUSE]`** again
 
 Once the `Dokter's Prescription.EXE` script is launched, a companion folder will be created called `Dok’s Rx Cabinet`
 
@@ -33,13 +33,13 @@ The `Dok’s Rx Cabinet` folder is created when `Dokter’s Prescription.EXE` is
 
 The `Dok's Rx Cabinet` folder includes additional scripts that can be launched separately with hotkeys while running the **Dokter's Prescription** script:
 
-- **Launch "Ableton Takeover" script: [CTRL+ALT+SHIFT+A]**
+- **Launch "Ableton Takeover" script: `[CTRL+ALT+SHIFT+A]`**
 
 
-- **Launch "Power & Sleep Hotkeys" script: [CTRL+ALT+SHIFT+P]**
+- **Launch "Power & Sleep Hotkeys" script: `[CTRL+ALT+SHIFT+P]`**
 
 
-- **Launch "Research Chemicals" script: [CTRL+ALT+SHIFT+R]**
+- **Launch "Research Chemicals" script: `[CTRL+ALT+SHIFT+R]`**
 
 These additional packaged scripts can of course be launched manually without using these hotkeys and can be used independently ran without the "Dokter's Prescription" script.
 
@@ -72,8 +72,8 @@ The `Over The Counter` folder is used to store additional scripts that can be ra
 
 This folder contains the following optional scripts:
 
-- **Ableton Takeover** Launch while running **Dokter's Prescription** with [CTRL+ALT+SHIFT+A]
-- **"Power & Sleep Hotkeys** Launch while running **Dokter's Prescription** with [CTRL+ALT+SHIFT+P]
+- **Ableton Takeover** Launch while running **Dokter's Prescription** with `**[CTRL+ALT+SHIFT+A]**`
+- **"Power & Sleep Hotkeys** Launch while running **Dokter's Prescription** with `**[CTRL+ALT+SHIFT+P]**`
 
 - The **Ableton Takeover** script suspends certain program processes for specified programs while the Ableton Live window is active and resumes the program processes once the Ableton Live window is no longer active.
 
