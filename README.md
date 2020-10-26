@@ -26,14 +26,14 @@ The "Dok's Rx Cabinet" folder includes additional scripts that can be launched s
 - **[CTRL+ALT+SHIFT+A]**
 
 
-- **Launch "Power & Sleep Hotkeys" script:**
+**Launch "Power & Sleep Hotkeys" script:**
 
 - **[CTRL+ALT+SHIFT+P]**
 
 
 **Launch "Research Chemicals" script:**
 
-**[CTRL+ALT+SHIFT+R]**
+- **[CTRL+ALT+SHIFT+R]**
 
 ...these additional scripts can also be launched manually without hotkeys and used independently from the "Dokter's Prescription" script.
 
