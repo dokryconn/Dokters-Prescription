@@ -4,24 +4,24 @@ An Autohotkey script suite to make life easier for Windows users with several en
 
 #	The `Dokter’s Prescription.EXE` script
 
-`Dokter’s Prescription.EXE` enables several Windows shortcuts and shortcuts for spedific programs such as:
+`Dokter’s Prescription.EXE` enables several shortcuts for Windows and spedific programs such as:
 
-- **Ableton Live**
+- **Ableton Live** (
 - Spotify
 - Google Chrome
 - Brave Browser 
+- Windows (
 
-**NOTE:** The keyboard shortcuts within this script that are program specific are only enabled while the corresponding program window is active.
+**NOTE:** The program specific keyboard shortcuts are only enabled while the corresponding program window is active.
 
 
 
-Running the `Dokter’s Prescription.EXE` file will launch the script as designed with all default shortcut functions activated. 
 
 You can suspend the script functions by pressing **[CTRL+ALT+SHIFT+PAUSE]**.
 
-You can press resume the script by pressing **[CTRL+ALT+SHIFT+PAUSE]** again.
+You can resume the script by pressing **[CTRL+ALT+SHIFT+PAUSE]** again.
 
-Once the .EXE script runs, a folder will be created called `Dok’s Rx Cabinet`
+Once the `Dokter's Prescription.EXE` script is launched, a companion folder will be created called `Dok’s Rx Cabinet`
 
 
 
