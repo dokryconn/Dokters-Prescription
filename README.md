@@ -1,10 +1,19 @@
 # Dokter's Prescription
-An Autohotkey script suite to make life easier for Windows users with an elaborate focus for Ableton Live users.
+An Autohotkey script suite to make life easier for Windows users with several enhanced key commands for Ableton Live users.
 
 
 #	The `Dokter’s Prescription.EXE` script
 
-`Dokter’s Prescription.EXE` enables several shortcuts for Windows as well as other spedific programs such as Ableton Live, Spotify, Google Chrome, and Brave Browser. The program specific keyboard shortcuts within this script are only enabled while the specific program window is active. There 
+`Dokter’s Prescription.EXE` enables several Windows shortcuts and shortcuts for spedific programs such as:
+
+- **Ableton Live**
+- Spotify
+- Google Chrome
+- Brave Browser 
+
+**NOTE:** The keyboard shortcuts within this script that are program specific are only enabled while the corresponding program window is active.
+
+
 
 Running the `Dokter’s Prescription.EXE` file will launch the script as designed with all default shortcut functions activated. 
 
