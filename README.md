@@ -4,7 +4,7 @@ An Autohotkey script suite to make things easier for all Windows users with focu
 
 #	The `Dokter’s Prescription.EXE` script
 
-The `Dokter’s Prescription.EXE` script enables various shortcut functions that have been configured using Autohotkey code including hotkeys, mouse clicks, and a few other functions that make things a bit easier.
+`Dokter’s Prescription.EXE` enables several shortcuts for Windows as well as other spedific programs such as Ableton Live, Spotify, Google Chrome, and Brave Browser. The program specific keyboard shortcuts within this script are only enabled while the specific program window is active. There 
 
 Running the `Dokter’s Prescription.EXE` file will launch the script as designed with all default shortcut functions activated. 
 
