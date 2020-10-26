@@ -15,7 +15,7 @@ Once the .EXE script runs, a folder will be created called `Dok’s Rx Cabinet`
 
 
 
-#	The “Dok’s Rx Cabinet” folder
+#	The `Dok’s Rx Cabinet` folder
 
 The “Dok’s Rx Cabinet” folder is created when `Dokter’s Prescription.EXE` is launched. The folder will be created in the same folder of the .EXE file. This folder is the main directory for all additional scripts and associated files for the “Dokter’s Prescription.EXE” script.
 
@@ -35,7 +35,7 @@ These additional packaged scripts can of course be launched manually without usi
 
 
 
-#	The “Dok’s Rx” folder
+#	The `Dok’s Rx` folder
 
 The `Dok’s Rx` folder within the `Dok’s Rx Cabinet` folder contains:
 - **The `Dok’s Rx Guide.xls` spreadsheet**
