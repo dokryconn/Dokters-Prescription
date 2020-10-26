@@ -18,9 +18,9 @@ Once the .EXE script runs, a folder will be created called `Dok’s Rx Cabinet`
 
 #	The `Dok’s Rx Cabinet` folder
 
-The “Dok’s Rx Cabinet” folder is created when `Dokter’s Prescription.EXE` is launched. The folder will be created in the same folder of the .EXE file. This folder is the main directory for all additional scripts and associated files for the “Dokter’s Prescription.EXE” script.
+The `Dok’s Rx Cabinet` folder is created when `Dokter’s Prescription.EXE` is launched. The folder will be created in the same folder of the .EXE file. This folder is the main directory for all additional scripts and associated files for the `Dokter’s Prescription.EXE` script.
 
-The `Dok's Rx Cabinet` folder includes additional scripts that can be launched separately with hotkeys while running the "Dokter's Prescription" script:
+The `Dok's Rx Cabinet` folder includes additional scripts that can be launched separately with hotkeys while running the **Dokter's Prescription** script:
 
 - **Launch "Ableton Takeover" script: [CTRL+ALT+SHIFT+A]**
 
