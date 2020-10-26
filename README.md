@@ -21,13 +21,13 @@ The “Dok’s Rx Cabinet” folder is created when “Dokter’s Prescription.E
 
 The "Dok's Rx Cabinet" folder includes additional scripts that can be launched separately with hotkeys while running the "Dokter's Prescription" script.
 
-LAUNCH "Ableton Takeover" script:
+- LAUNCH "Ableton Takeover" script:
 [CTRL+ALT+SHIFT+A]
 
-LAUNCH "Power & Sleep Hotkeys" script:
+- LAUNCH "Power & Sleep Hotkeys" script:
 [CTRL+ALT+SHIFT+P]
 
-LAUNCH "Research Chemicals" script:
+- LAUNCH "Research Chemicals" script:
 [CTRL+ALT+SHIFT+R]
 
 ...these additional scripts can also be launched manually without hotkeys and used independently from the "Dokter's Prescription" script.
@@ -135,4 +135,5 @@ This script is 100% free for all to use, manipulate, distribute, and/or incinera
 Peace,
 
 - Dokter RyConn
+
 https://paypal.me/DokRyConn
