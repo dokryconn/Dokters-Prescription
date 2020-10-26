@@ -19,9 +19,9 @@ These program specific keyboard shortcuts are only enabled while the correspondi
 
 
 
-You can suspend the script functions by pressing **[CTRL+ALT+SHIFT+PAUSE]**.
+You can suspend the script functions by pressing **`[CTRL+ALT+SHIFT+PAUSE]`**.
 
-You can resume the script by pressing **[CTRL+ALT+SHIFT+PAUSE]** again.
+You can resume the script by pressing `[CTRL+ALT+SHIFT+PAUSE]` again.
 
 Once the `Dokter's Prescription.EXE` script is launched, a companion folder will be created called `Dok’s Rx Cabinet`
 
