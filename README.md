@@ -12,6 +12,10 @@ An Autohotkey script suite to make life easier for Windows users with several en
 - Google Chrome (5 custom shortcuts)
 - Brave Browser (5 custom shortcuts)
 
+- Additional template coding included in the script sllows you to launch / toggle programs
+
+(edit script to add these functions for your specific programs.
+
 
 **NOTE:** The program specific keyboard shortcuts are only enabled while the corresponding program window is active.
 
