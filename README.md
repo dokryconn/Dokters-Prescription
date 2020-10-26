@@ -9,7 +9,7 @@ The “Dokter’s Prescription.EXE” script enables various shortcut functions 
 Running the “Dokter’s Prescription.EXE” file will launch the script as designed with all default shortcut functions activated. 
 
 You can suspend the script functions by pressing [CTRL+ALT+SHIFT+PAUSE]
-You can press [CTRL+ALT+SHIFT+PAUSE] again to resume the script.
+You can press **[CTRL+ALT+SHIFT+PAUSE]** again to resume the script.
 
 Once the .EXE script runs, a folder will be created called “Dok’s Rx Cabinet.” 
 
@@ -21,14 +21,19 @@ The “Dok’s Rx Cabinet” folder is created when “Dokter’s Prescription.E
 
 The "Dok's Rx Cabinet" folder includes additional scripts that can be launched separately with hotkeys while running the "Dokter's Prescription" script.
 
-- LAUNCH "Ableton Takeover" script:
-[CTRL+ALT+SHIFT+A]
+**Launch "Ableton Takeover" script:**
 
-- LAUNCH "Power & Sleep Hotkeys" script:
-[CTRL+ALT+SHIFT+P]
+- **[CTRL+ALT+SHIFT+A]**
 
-- LAUNCH "Research Chemicals" script:
-[CTRL+ALT+SHIFT+R]
+
+- **Launch "Power & Sleep Hotkeys" script:**
+
+- **[CTRL+ALT+SHIFT+P]**
+
+
+**Launch "Research Chemicals" script:**
+
+**[CTRL+ALT+SHIFT+R]**
 
 ...these additional scripts can also be launched manually without hotkeys and used independently from the "Dokter's Prescription" script.
 
