@@ -33,21 +33,17 @@ Reference the `Dok's Rx Guide.xls` spreadsheet for the complete list of **Launch
 
 #	The `Dok’s Rx Cabinet` folder
 
-The `Dok's Rx Cabinet` folder contains the associated files and scripts that are reference by the `Dokter's Prescription.EXE` script.
+The `Dok's Rx Cabinet` folder contains the associated files and scripts that are referenced by the `Dokter's Prescription.EXE` and `Dok's Rx (Raw).AHK` scripts.
 
-The `Dok's Rx Cabinet` folder includes the following scripts that can be launched by hotkeys while running the **Dokter's Prescription** script:
+The following scripts are included in the`Dok's Rx Cabinet` folder:
 
-- **Launch "Ableton Takeover" script: `[CTRL+ALT+SHIFT+A]`**
-
-
-- **Launch "Power & Sleep Hotkeys" script: `[CTRL+ALT+SHIFT+P]`**
-
-
-- **Launch "Research Chemicals" script: `[CTRL+ALT+SHIFT+R]`**
+- **Ableton Takeover**
+- **Launch "Power & Sleep Hotkeys**
+- **Research Chemicals**
 
 These additional packaged scripts can of course be launched manually from `Dok's Rx Cabinet` without hotkeys and used independently without the "Dokter's Prescription" script running.
 
-*If the “Dok’s Rx Cabinet” folder is not kept within the same location that you are running the `Dokter’s Prescription.EXE` script from, the script may run into a harmless error when a hotkey is pressed and is unable to locate the associated file stored within the `Dok’s Rx Cabinet` folder. If the `Dok's Rx Cabinet` folder gets deleted or moved you can simply recreate it by launching the “Dokter’s Prescription.EXE” file again. Re-launching the `Dokter's Prescription.EXE` script will not overwrite any packaged files in `Dok's Rx Cabinet` if they already exist. In other words, any changes that you have made to the .AHK scripts within `Dok's Rx Cabinet` will not be lost when re-launching `Dokter's Prescription.EXE`*
+*If the “Dok’s Rx Cabinet” folder is not kept within the same location that you are running the `Dokter’s Prescription.EXE` script from, the script may run into an error if a hotkey is pressed and the script is unable to locate the associated file within the `Dok’s Rx Cabinet` folder. In regard to this, if the `Dok's Rx Cabinet` folder gets moved or deleted, you can simply recreate it by launching the “Dokter’s Prescription.EXE” file again. Re-launching the `Dokter's Prescription.EXE` script will not overwrite any existing packaged files in `Dok's Rx Cabinet`. In other words, any changes that you have made to files within `Dok's Rx Cabinet` will not be lost by re-launching `Dokter's Prescription.EXE`*
 
 
 
