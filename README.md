@@ -92,12 +92,12 @@ Reference the `Ableton Takeover README.txt` file for more info and the complete 
  
 - **The "Power & Sleep Hotkeys.EXE" script:**
   - Enables hotkeys to sleep, hibernate, restart, or shutdown your PC. 
-  - **Sleep PC** - **`CTRL+ALT+SHIFT+ESC`**
-  - **Resart PC** - **`CTRL+ALT+SHIFT+F5`**
-  - **Hibernate PC** - **`CTRL+ALT+SHIFT+F9`**
-  - **Shutdown PC** - **`CTRL+ALT+SHIFT+F12`**
+  - **Sleep PC** - **`[CTRL+ALT+SHIFT+ESC]`**
+  - **Resart PC** - **`[CTRL+ALT+SHIFT+F5]`**
+  - **Hibernate PC** - **`[CTRL+ALT+SHIFT+F9]`**
+  - **Shutdown PC** - **`[CTRL+ALT+SHIFT+F12]`**
   - **Launch Script** while running **Dokter's Prescription** - **`[CTRL+ALT+SHIFT+P]`**
-  - **Exit Script** this script by pressing **`CTRL+ALT+SHIFT+HOME`**
+  - **Exit Script** this script by pressing **`[CTRL+ALT+SHIFT+HOME]`**
 
 An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Counter\Power & Sleep` for optional customizing. Although the .EXE version of **Power & Sleep Hotkeys** includes the hotkeys shown above, you can edit this script to adjust the hotkeys for your preference. (See the "**Customizing the scripts**" section below.)
 
