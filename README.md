@@ -16,16 +16,16 @@ A script suite to make life easier for Windows and **Ableton Live** users.
 
 *Program-specific shortcuts are only enabled while the corresponding program window is active.*
 
-- **Suspend/Resume Script** - **`[CTRL+ALT+SHIFT+PAUSE]`**.
+  - **Suspend/Resume Script** - **`[CTRL+ALT+SHIFT+PAUSE]`**.
 
-- **Exit Script** - **`[CTRL+ALT+SHIFT+END]`**
+  - **Exit Script** - **`[CTRL+ALT+SHIFT+END]`**
 
 _*See the **"Customizing Scripts"** section below, for instructions on customizing all default shortcuts included in this script._
 
 
 ## Optional* "Dokter’s Prescription" shortcuts
 
-_*See the "Customizing Scripts" section below, for instructions on activating the following optional shortcuts:_
+_*See the **"Customizing Scripts"** section below, for instructions on activating the following optional shortcuts:_
 
 - **A-Z Launch/Toggle Programs** - These shortcuts are __disabled by default__ but can be customized to your prefernce by editing the **`Dok's Rx (Raw).AHK`** script. These shortcuts will launch a specified program if it is not currently running, **OR** toggle the program window if the program is currently running, using the following hotkeys:
   - **`[WIN+SHIFT+** *letter key* **]`**
