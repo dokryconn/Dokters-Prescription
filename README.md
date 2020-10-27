@@ -89,13 +89,12 @@ An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Cou
 Reference the included `“Ableton Takeover README.txt”` for more info and a list of the default program processes included in the .EXE version of this script.
  
 - The **`Power & Sleep Hotkeys.EXE`** script:
-  - **Launch Script** while running **Dokter's Prescription** with **`[CTRL+ALT+SHIFT+P]`**
-   
-  - **Sleep PC** by pressing:
-    - **`CTRL+ALT+SHIFT+ESC`**
-  - **Resart PC** by pressing **`CTRL+ALT+SHIFT+F5`**
-  - **Hibernate PC** by pressing **`CTRL+ALT+SHIFT+F9`**
-  - **Shutdown PC** by pressing **`CTRL+ALT+SHIFT+F12`**
+  - **Launch Script** while running **Dokter's Prescription** - **`[CTRL+ALT+SHIFT+P]`**
+  
+  - **Sleep PC** - **`CTRL+ALT+SHIFT+ESC`**
+  - **Resart PC** - **`CTRL+ALT+SHIFT+F5`**
+  - **Hibernate PC** - **`CTRL+ALT+SHIFT+F9`**
+  - **Shutdown PC** - **`CTRL+ALT+SHIFT+F12`**
   
   - **Exit Script** this script by pressing **`CTRL+ALT+SHIFT+HOME`**
 
