@@ -126,8 +126,6 @@ The `Research Chemicals` folder contains the `Research Chemicals.AHK` script and
 
 ## Customizing the **Dokter's Prescription** script
 
-**NOTE:** By default, the `Dokter's Prescription.EXE` script includes **Launch/Toggle Programs** shortcuts that are **setup for my preferred programs and file locations**. You will most likely want to customize these shortcuts for ***your own specific programs*** by editing the included `Dok's Rx (Raw).AHK` version of the script. All of the specific default **Launch/Toggle Programs** shortcuts have been deactivated in the `Dok's Rx (Raw).AHK` version of the script to keep it in clean, "template code" format. Additionally, there are detailed instruction comments within the `Dok's Rx (Raw).AHK` file to help with editing / customizing.
-
 1. Ensure that the Autohotkey software is installed on your computer - https://autohotkey.com/
 2. Open the **`Dok's Rx (Raw).AHK`** file in the `Dok's Rx Cabinet\Dok's Rx`folder with any text editor such as `Notepad`; or a script editor such as `SciTE4Autohotkey`.
 3. Edit the script text for each shortcut feature as desired, following the instruction comments embedded within the script.
@@ -137,15 +135,16 @@ The `Research Chemicals` folder contains the `Research Chemicals.AHK` script and
 6. Move your new custom .EXE or .AHK script file into the same folder as the original `Dokter's Prescription.EXE` script file location.
 
 - Customizing the **Launch/Toggle Programss** shortcuts within `Dok's Rx (Raw).AHK`:
-There are several sections of deactivated "template code" within `Dok's Rx (Raw).AHK` for the "Launch/Toggle Programs" shortcuts, corresponding to each number, 0 through 9, and letters, A through Z. 
+
+**NOTE:** By default, the **Launch/Toggle Programs** shortcuts in **`Dok's Rx (Raw),AHK`** are deactivated to keep this portion of the script in a clean, "template code" format. There are detailed instruction comments within the **`Dok's Rx (Raw).AHK`** file to guide you through customizing the script for your personal needs.
 
   - These deactivated blocks of code can be activated by removing the `/*`and `*/` brackets for each hotkey shortcut. Once these blocks of code are activated, they allow you to Launch/Toggle Programs windows using `WIN+(number key)` and/or `WIN+SHIFT+(letter key)` as described previosuly above.
 
   - In addition to removing the comment brackets, you will need to replace portions of the "template code" with the **program name** and **file path** for each desired program. There are detailed instructions on how to customizing these features located in the actual script file via comments labled under: "PLEASE READ - ADJUST FOR YOUR OWN PROGRAMS:""
 
-*Make sure that your customized version of **Dokter's Presciprtion** is moved into the same folder location of the main `Dokter's Prescription.EXE` script to ensure that it will be able to reference the associated files in the `Dok's Rx Cabinet` folder appropriately.*
+*Make sure that your customized version of **`Dok's Rx (Raw).AHK`** script is moved into the same folder location of the original `Dokter's Prescription.EXE` script to ensure that it will be able to reference the associated files in the `Dok's Rx Cabinet` folder appropriately.*
 
-**NOTE:** *The `Dok’s Rx (Raw).AHK` copy of the script does not include the sections of code that installs the `Dok's Rx Cabinet` folder. You can always launch the original `Dokter's Prescription.EXE` file to have the `Dok's Rx Cabinet` folder installed. Re-installing the `Dok's Rx Cabinet` folder will never overwrite any existing files within `Dok's Rx Cabinet` so it should never cause harm to any files that you have made changes to in this folder*
+**NOTE:** *The `Dok’s Rx (Raw).AHK` copy of the script does not include the sections of code that install the `Dok's Rx Cabinet` folder. You can always launch the original `Dokter's Prescription.EXE` file to re-install  the `Dok's Rx Cabinet` folder if needed. If you need to re-install a single file or folder to `Dok's Rx Cabinet`, re-installing the `Dok's Rx Cabinet` folder will never overwrite any existing files within `Dok's Rx Cabinet` and should never harm any files that have saved changes.*
 
 ## Customizing the **Ableton Takeover** script
 
