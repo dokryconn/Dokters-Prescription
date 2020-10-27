@@ -20,13 +20,11 @@ An Autohotkey script suite to make life easier for Windows users with special fo
 
 `WIN+SHIFT+(letter key)` - (i.e. `WIN+SHIFT+A`, `WIN+SHIFT+B`, `WIN+SHIFT+C`)
 
-**NOTE:** By default, `Dokter's Prescription.EXE` includes shortcuts that are specific to my preferred programs and file locations. You can reference the default **Launch/Toggle Programs** configurations that come inside of `Dokter's Prescription.EXE` by reviewing the included `Dok's Rx Guide.xls` spreadsheet. You will most likely want to customize these shortcuts for your own specific programs. You can easily do this by editing the `Dok's Rx Script (Raw).AHK` script. (See "Editing the `Dok's Rx Script (Raw).AHK`script" below for more info.)
+**NOTE:** By default, `Dokter's Prescription.EXE` includes program launch/toggle keyboard shortcuts that are specific to my preferred programs and file locations. You can reference the default programs used that come included within `Dokter's Prescription.EXE` by reviewing the included `Dok's Rx Guide.xls` spreadsheet. You will most likely want to customize these shortcuts for your own specific programs. You can easily do this by editing the `Dok's Rx Script (Raw).AHK` script. (See "Editing the `Dok's Rx Script (Raw).AHK`script" section below for more info.)
 
-Once you have customized the shortcuts within `Dok's Rx Script (Raw).AHK`, you may compile it into a .EXE file by right-clicking the .AHK file and selecting "Compile Script." 
+Once you have customized the launch/toggle program shortcuts within `Dok's Rx Script (Raw).AHK`, you can compile it into a .EXE file by right-clicking the .AHK file and selecting "Compile Script." 
 
-This will create a .EXE version of the script that you can run on computers without Autohotkey installed. You can also replace the original `Dokter's Prescription.EXE` file with your newcustomized and compiled script.
-
-See "Editing the `Dok's Rx Script (Raw).AHK`script" below for more info.
+This will create an .EXE version of the script that  can run on computers without Autohotkey installed. Finally, you can replace the original `Dokter's Prescription.EXE` file with your new customized and compiled script. (Make sure your new compiled script is moved to the same folder location of the original `Dokter's Prescription.EXE` and launched from there - this ensures the new .EXE script will link to the associated files in `Dok's Rx Cabinet` appropriately.
 
 - **Suspend/Resume `Dokter's Prescription.EXE`** - **`[CTRL+ALT+SHIFT+PAUSE]`**
 
