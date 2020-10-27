@@ -54,7 +54,7 @@ The `Dok’s Rx` folder contains the following items related to  **`Dokter's Pre
 - **The "Dok’s Rx Guide.xls" spreadsheet**
   - Includes full index of script functions and additional workbook tabs to reference some native hotkeys for additional programs.
 
-- The **"App Launch Shortcuts"** folder
+- **The "App Launch Shortcuts" folder**
   - Used for storing created program shortcut files for launching/toggling apps that were installed by Microsoft Store.
   
 *The `App Launch Shortcuts` sub-folder within `Dok’s Rx Cabinet\Dok’s Rx` is a location to keep program shortcuts for the "program launch/toggle" optional template code within the **Dokter's Prescription** script.*
