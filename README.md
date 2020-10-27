@@ -1,5 +1,5 @@
 # Dokter's Prescription
-An elaborate suite of scripts to make life easier for Windows and **Ableton Live** users.
+A script suite to make life easier for Windows and **Ableton Live** users.
 
 
 ##	Default "Dokter’s Prescription" shortcuts
