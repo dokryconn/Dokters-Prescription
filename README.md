@@ -12,9 +12,9 @@ An Autohotkey script suite to make life easier for Windows and **Ableton Live** 
   - **Brave Browser** - 5 custom shortcuts
   - **Windows** - 15 custom shortcuts
 
-**NOTE:** The program-specific keyboard shortcuts are only enabled while the corresponding program window is active.
+Reference the **`Dok's Rx Guide.xls`** spreadsheet for a complete list of keyboard shortcuts included in `Dokter's Prescription.EXE`.
 
-You can reference all default shortcuts that come with the `Dokter's Prescription.EXE` script in the `Dok's Rx Guide.xls` spreadsheet.
+*The program-specific keyboard shortcuts are only enabled while the corresponding program window is active.*
 
 - **Launch/Toggle Program** - These shortcuts allow you to launch/toggle specific programs using the following types of keyboard shortcuts:
 
