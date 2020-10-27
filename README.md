@@ -20,15 +20,11 @@ A script suite to make life easier for Windows and **Ableton Live** users.
 
 _*See the "Customizing Scripts" section below, for instructions on how to enable the following optional shortcuts:_
 
-- **A-Z Launch/Toggle Programs** - These shortcuts are __disabled by default__ but can be customized to your prefernce by editing the **`Dok's Rx (Raw).AHK`** script. 
-
-  - These shortcuts will launch the specified program if it is not currently running, **OR** toggle the program window if the program is currently running.
+- **A-Z Launch/Toggle Programs** - These shortcuts are __disabled by default__ but can be customized to your prefernce by editing the **`Dok's Rx (Raw).AHK`** script. These shortcuts will launch a specified program if it is not currently running, **OR** toggle the program window if the program is currently running.
   - **`[WIN+SHIFT+** *letter key* **]`**
     - i.e. **`[WIN+SHIFT+A]`**; **`[WIN+SHIFT+B]`**; **`[WIN+SHIFT+C]`**; etc.
 
-- **0-9 Launch/Toggle Programs** - These shortcuts are __disabled by default__ but can be customized to your personal prefernce by editing the **`Dok's Rx (Raw).AHK`** script.
-
-  - These shortcuts will launch the specified program if it is not currently running, **OR** toggle the program window if the program is currently running.
+- **0-9 Launch/Toggle Programs** - These shortcuts are __disabled by default__ but can be customized to your personal prefernce by editing the **`Dok's Rx (Raw).AHK`** script. These shortcuts will launch a specified program if it is not currently running, **OR** toggle the program window if the program is currently running.
   - **`[WIN+** *number key* **]`**
     - i.e. **`[WIN+1]`**; **`[WIN+2]`**; **`[WIN+3]`**; etc.
 
