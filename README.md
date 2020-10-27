@@ -8,11 +8,11 @@ A script suite to make life easier for Windows and **Ableton Live** users.
 
 **NOTE: For the complete list of keyboard shortcuts, reference the included `Dok's Rx Guide.xls` spreadsheet**
 
-  - **Ableton Live** - 47 custom shortcuts
-  - **Spotify** - 7 custom shortcuts
-  - **Google Chrome** - 5 custom shortcuts
-  - **Brave Browser** - 5 custom shortcuts
-  - **Windows** - 15 custom shortcuts
+  - **Ableton Live** - 47 custom keyboard shortcuts
+  - **Spotify** - 9 custom keyboard shortcuts
+  - **Google Chrome** - 5 custom keyboard shortcuts
+  - **Brave Browser** - 5 custom keyboard shortcuts
+  - **Windows** - 15 custom keyboard shortcuts
   
 *Program-specific shortcuts are only enabled while the corresponding program window is active.*
 
@@ -109,10 +109,10 @@ An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Cou
 
 
 # The "Research Chemicals" folder
-The `Research Chemicals` folder contains the `Research Chemicals.AHK` script and associated tray icons.
+The `Research Chemicals` folder contains the `Research Chemicals.AHK` script and associated tray icons. The `Research Chemicals.AHK` script is a “testing script” to be used for Autohotkey script development. (Includes Autohotkey's "Window Spy" tool in the tray menu)
 
 ## The "Research Chemicals.AHK" script:
- - An Autohotkey “testing script” for Autohotkey script development. You can edit this script with functions that you would like to test but do not want to incorporate into your main script.
+ - You can edit this script with functions that you would like to test but do not want to incorporate into your main Autohotkey script.
  - **Display test message - `[CTRL+ALT+SHIFT+T]`**
  - **Identify mouse cursor coordinates - `[CTRL+ALT+SHIFT+C]`**
  - **Launch Script** while running **Dokter's Prescription** - `**[CTRL+ALT+SHIFT+R]**`
