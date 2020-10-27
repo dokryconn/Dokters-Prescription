@@ -60,7 +60,7 @@ You can reference the `Dok’s Rx Guide.xls` spreadsheet for a complete list of 
 
 The `App Launch Shortcuts` sub-folder within `Dok’s Rx Cabinet\Dok’s Rx` is a location to keep program shortcuts for the "program launch/toggle" optional template code within the **Dokter's Prescription** script. 
 
-For example, applications that are downloaded from the Microsoft Store are not located in the standard program location. These programs are usually nested within `C:\Program Files\WindowsApps`. In most cases, if you attempt the run the programs directly from their file location, they will not launch properly. For these instances, create a program shortcut for these applications and move it into the `App Launch Shortcuts` folder.
+For example, programs that are downloaded from the Microsoft Store are not located in the standard program location. These programs are usually nested within `C:\Program Files\WindowsApps`. Typically, if you attempt the run the programs directly from their native file location, they will not launch properly. For these instances, you can create a program shortcut for these applications and move it into the `App Launch Shortcuts` folder.
 
 i.e. Using the filepath: 
 - `"%A_WorkingDir%\Dok's Rx\App Launch Shortcuts\Microsoft To Do"`
@@ -145,7 +145,7 @@ While customizing the **Doketer's Prescription** script, you can also use the `D
 
 # Donate
 
-This script is **100% free** to use, manipulate, distribute, or incinerate, however, I've included a link for **donations** below - if you find that `Dokter's Prescription` is useful for you, make a small donation (if you can).
+This script is **100% free** to use, manipulate, distribute, or incinerate but I've included a link for **donations** below - if you find that `Dokter's Prescription` is useful for you, make a small donation. (or just enjoy it for free!)
 
 Peace,
 
