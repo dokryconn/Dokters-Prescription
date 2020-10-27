@@ -14,7 +14,7 @@ An Autohotkey script suite to make life easier for Windows users with special fo
 
 **NOTE:** The program-specific keyboard shortcuts are only enabled while the corresponding program window is active.
 
-- **Launch/Toggle Programs** - These features allow you to launch/toggle specified programs using these groups of keyboard shortcuts:
+- **Launch/Toggle Programs** - These features allow you to launch/toggle specified programs using these kinds of keyboard shortcuts:
 
 `WIN+(number key)` - (i.e. `WIN+1`, `WIN+2`, `WIN+3`, etc..)
 
