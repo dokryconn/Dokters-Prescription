@@ -174,7 +174,9 @@ There are several sections of deactivated "template code" within `Dok's Rx (Raw)
 
 # Donate
 
-This script is **100% free** to use, manipulate, distribute, or incinerate but I've included a link for **donations** below - If you find that **Dokter's Prescription** is useful for you, consider making a small donation. (or just enjoy it for free!)
+This script is **100% free** to use, manipulate, distribute, or incinerate but I've included a link for **donations** below.
+
+If you find that **Dokter's Prescription** is useful for you, consider making a small donation. (or just enjoy it for free!)
 
 Peace,
 
