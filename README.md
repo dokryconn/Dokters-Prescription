@@ -33,7 +33,7 @@ An Autohotkey script suite to make life easier for Windows and **Ableton Live** 
 
 
 #	The `Dok’s Rx Cabinet` folder
-The `Dok's Rx Cabinet` folder contains the associated files and scripts that are referenced by the `Dokter's Prescription.EXE` and `Dok's Rx (Raw).AHK` scripts.
+The `Dok's Rx Cabinet` folder contains the folders for associated scripts/files referenced by the `Dokter's Prescription.EXE` and `Dok's Rx (Raw).AHK` scripts.
 
 The following scripts are included in the`Dok's Rx Cabinet` folder:
 
@@ -49,7 +49,7 @@ These additional packaged scripts can of course be launched manually from `Dok's
 
 #	The `Dok’s Rx` folder
 The `Dok’s Rx` folder contains the following items related to  **`Dokter's Prescription.EXE`** and **`Dok's Rx (Raw).AHK`**:
-- The icon files referenced by the the **`Dok's Rx (Raw).AHK`** script.
+- Icon files referenced by the the **`Dok's Rx (Raw).AHK`** script.
 
 - **The `Dok’s Rx Guide.xls` spreadsheet**
   - Includes full index of script functions and additional workbook tabs to reference some native hotkeys for additional programs.
@@ -62,13 +62,15 @@ The `Dok’s Rx` folder contains the following items related to  **`Dokter's Pre
 *For example, programs that are downloaded from the Microsoft Store are not located in the standard program location. These programs are usually nested within `C:\Program Files\WindowsApps`. Typically, if you attempt the run the programs directly from their native file location, they will not launch properly. For these instances, you can create a program shortcut for these applications and move it into the `App Launch Shortcuts` folder.*
 
 *i.e. Using the filepath:* 
-- `"%A_WorkingDir%\Dok's Rx\App Launch Shortcuts\Microsoft To Do"`
+`"%A_WorkingDir%\Dok's Rx\App Launch Shortcuts\Microsoft To Do"`
 
 *instead of:* 
 
-- `"C:\Program Files\WindowsApps\Microsoft.Todos_2.28.32802.0_x64__8wekyb3d8bbwe\ToDo.exe"`
+`"C:\Program Files\WindowsApps\Microsoft.Todos_2.28.32802.0_x64__8wekyb3d8bbwe\ToDo.exe"`
 
-
+- The `Dok's Rx (Raw).AHK`script:
+  - This can be used for customizing the **Dokter's Prescription** script to meet your desired preferences.
+  - See the "**Customizing the scripts**" section below for more info about this.
 
 #	The `Over The Counter` folder
 The `Over The Counter` folder contains additional scripts referenced by **`Dokter's Prescription.EXE`** and **`Dok's Rx (Raw).AHK`**. These scripts can also be launched and used independently without the **`Dokter's Prescription.EXE`** or **`Dok's Rx (Raw).AHK`** running. This folder contains:
