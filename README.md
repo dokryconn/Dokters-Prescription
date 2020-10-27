@@ -22,12 +22,13 @@ An Autohotkey script suite to make life easier for Windows users with special fo
 
 **NOTE:** By default, `Dokter's Prescription.EXE` includes program launch/toggle shortcuts that are **specific for my preferred programs and file locations**. You can reference the programs used that are included by default within `Dokter's Prescription.EXE` with the included `Dok's Rx Guide.xls` spreadsheet. You will most likely want to customize these shortcuts for ***your own specific programs***. You can easily do this by editing the `Dok's Rx Script (Raw).AHK` script. (See "Editing the `Dok's Rx Script (Raw).AHK`script" section below for more info).
 
-Once you have customized the **Launch/Toggle Program** shortcuts within `Dok's Rx Script (Raw).AHK`, you can compile it into a .EXE file by right-clicking the .AHK file and selecting "Compile Script." This will create an .EXE version of the script that  can run on computers without Autohotkey installed. 
+Once you have customized the **Launch/Toggle Program** shortcuts within `Dok's Rx Script (Raw).AHK`, you can compile it into an .EXE file by right-clicking the .AHK file and selecting "Compile Script." This will create an .EXE version of the script that will be able to run on computers that do not have the Autohotkey software installed. 
 
-Finally, you can replace the original `Dokter's Prescription.EXE` file with your new customized/compiled .EXE script. (Make sure your new compiled script is kept in the same folder location of the original `Dokter's Prescription.EXE` and launched from there - this will ensure that the new .EXE script will link to the associated files in `Dok's Rx Cabinet` appropriately.
+Finally, you can replace the original `Dokter's Prescription.EXE` file with your new customized/compiled .EXE script. (Make sure your new compiled .EXE script is moved into the same folder location of the original `Dokter's Prescription.EXE` to ensure that the new .EXE script links to the associated files in `Dok's Rx Cabinet` appropriately.
 
-You can **Suspend / Resume** `Dokter's Prescription.EXE` by pressing **`[CTRL+ALT+SHIFT+PAUSE]`**.
+You can **Suspend / Resume** all features of `Dokter's Prescription.EXE` by pressing **`[CTRL+ALT+SHIFT+PAUSE]`**.
 
+You can **Exit** this script by pressing **`[CTRL+ALT+SHIFT+END]`**
 
 
 #	The `Dok’s Rx Cabinet` folder
