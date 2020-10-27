@@ -28,7 +28,7 @@ An Autohotkey script suite to make life easier for Windows and **Ableton Live** 
 
 - **Exit Script** - **`[CTRL+ALT+SHIFT+END]`**
 
-*See the "**Customizing the scripts**" section below, for details on how to customize every feature of this script*
+*See the "**Customizing the scripts**" section below, for details on how to customize every feature of this script.*
 
 
 
