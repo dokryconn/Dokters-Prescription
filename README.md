@@ -91,7 +91,8 @@ Reference the included `“Ableton Takeover README.txt”` for more info and a l
 - The **`Power & Sleep Hotkeys.EXE`** script:
   - **Launch Script** while running **Dokter's Prescription** with **`[CTRL+ALT+SHIFT+P]`**
    
-  - **Sleep PC** by pressing **`CTRL+ALT+SHIFT+ESC`**
+  - **Sleep PC** by pressing:
+    - **`CTRL+ALT+SHIFT+ESC`**
   - **Resart PC** by pressing **`CTRL+ALT+SHIFT+F5`**
   - **Hibernate PC** by pressing **`CTRL+ALT+SHIFT+F9`**
   - **Shutdown PC** by pressing **`CTRL+ALT+SHIFT+F12`**
