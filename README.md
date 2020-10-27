@@ -22,6 +22,7 @@ A script suite to make life easier for Windows and **Ableton Live** users.
 
 _*See the **"Customizing Scripts"** section below, for instructions on customizing all default shortcuts included in this script._
 
+### Ableton Live shortcuts
 
 ## Optional* "Dokter’s Prescription" shortcuts
 
