@@ -6,11 +6,11 @@ An Autohotkey script suite to make life easier for Windows users with special fo
 
 `Dokter’s Prescription.EXE` enables several shortcuts for Windows and spedific programs such as:
 
-- **Ableton Live** - **47** custom shortcuts
-- Spotify - **7** custom shortcuts
-- Google Chrome - **5** custom shortcuts
-- Brave Browser - **5** custom shortcuts
-- Windows - **15** custom shortcuts
+- **Ableton Live** - 47 custom shortcuts
+- **Spotify** - 7 custom shortcuts
+- **Google Chrome** - 5 custom shortcuts
+- **Brave Browser** - 5 custom shortcuts
+- **Windows** - 5 custom shortcuts
 
 **NOTE:** The program-specific keyboard shortcuts are only enabled while the corresponding program window is active.
 
