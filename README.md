@@ -104,7 +104,7 @@ An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Cou
  - **Launch Script** while running **Dokter's Prescription** - **`[CTRL+ALT+SHIFT+P]`**
  - **Exit Script** this script by pressing **`[CTRL+ALT+SHIFT+HOME]`**
 
-An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Counter\Power & Sleep` for optional customizing. Although the .EXE version of **Power & Sleep Hotkeys** includes the hotkeys shown above, you can edit this script to adjust the hotkeys for your preference. (See the "**Customizing Scripts**" section below.)
+An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Counter\Power & Sleep` for optional customizing. Although the .EXE version of **Power & Sleep Hotkeys** includes the hotkeys shown above, you can edit this script to adjust the hotkeys for your personal preference. (See the "**Customizing Scripts**" section below.)
 
 
 
