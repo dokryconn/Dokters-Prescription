@@ -4,7 +4,7 @@ An Autohotkey script suite to make life easier for Windows users with special fo
 
 #	The `Dokter’s Prescription` script
 
-`Dokter’s Prescription.EXE` enables several shortcuts for Windows and spedific programs such as:
+`Dokter’s Prescription.EXE` enables several different shortcuts for Windows and spedific programs such as:
 
 - **Ableton Live** - 47 custom shortcuts
 - **Spotify** - 7 custom shortcuts
