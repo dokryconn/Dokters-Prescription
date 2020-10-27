@@ -24,9 +24,9 @@ Reference the **`Dok's Rx Guide.xls`** spreadsheet for the complete list of keyb
 
 Reference the `Dok's Rx Guide.xls` spreadsheet for the complete list of **Launch/Toggle Program** shortcuts included by default in `Dokter's Prescription.EXE`.
 
-- **Suspend/Resume** all features of `Dokter's Prescription.EXE` by toggling with **`[CTRL+ALT+SHIFT+PAUSE]`**.
+- **Suspend/Resume Script** - **`[CTRL+ALT+SHIFT+PAUSE]`**.
 
-- **Exit** this script by pressing **`[CTRL+ALT+SHIFT+END]`**
+- **Exit Script** - **`[CTRL+ALT+SHIFT+END]`**
 
 *See the "**Customizing the scripts**" section below, for details on how to customize features of this script*
 
