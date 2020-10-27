@@ -16,7 +16,7 @@ An Autohotkey script suite to make life easier for Windows and **Ableton Live** 
 *The program-specific keyboard shortcuts are only enabled while the corresponding program window is active.*
 
 
-- **Launch/Toggle Program** - These shortcuts allow you to launch/toggle specific programs using the following types of keyboard shortcuts:
+- **A-Z and 0-9 Launch/Toggle Program** - These shortcuts allow you to launch/toggle specific programs using the following types of keyboard shortcuts:
 
   - **WIN+** *number key* (i.e. **WIN+1**; **WIN+2**; **WIN+3**; etc.)
 
