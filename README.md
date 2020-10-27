@@ -23,15 +23,13 @@ You can suspend the script functions by pressing **`[CTRL+ALT+SHIFT+PAUSE]`**.
 
 You can resume the script by pressing **`[CTRL+ALT+SHIFT+PAUSE]`** again.
 
-When `Dokter's Prescription.EXE` is launched, the `Dok's Rx Cabinet` folder will be created.
-
 
 
 #	The `Dok’s Rx Cabinet` folder
 
-The `Dok’s Rx Cabinet` folder is created when `Dokter’s Prescription.EXE` is launched. The folder will be created in the same folder of the .EXE file. This folder is the main directory for all additional scripts and associated files for the `Dokter’s Prescription.EXE` script.
+The `Dok’s Rx Cabinet` folder is created when `Dokter’s Prescription.EXE` is launched. The `Dok's Rx Cabinet` folder is the main directory for all additional scripts/files associated with the **Dokter’s Prescription** script.
 
-The `Dok's Rx Cabinet` folder includes additional scripts that can be launched separately with hotkeys while running the **Dokter's Prescription** script:
+The `Dok's Rx Cabinet` folder includes the following scripts that can be launched with hotkeys while running the **Dokter's Prescription** script:
 
 - **Launch "Ableton Takeover" script: `[CTRL+ALT+SHIFT+A]`**
 
@@ -41,7 +39,7 @@ The `Dok's Rx Cabinet` folder includes additional scripts that can be launched s
 
 - **Launch "Research Chemicals" script: `[CTRL+ALT+SHIFT+R]`**
 
-These additional packaged scripts can of course be launched manually without using these hotkeys and can be used independently ran without the "Dokter's Prescription" script.
+These additional packaged scripts can of course be launched manually without using these hotkeys and independently ran without the "Dokter's Prescription" script.
 
 **NOTE:**  If the “Dok’s Rx Cabinet” folder is not kept within the same location that you are running the `Dokter’s Prescription.EXE` script from, the script may run into a harmless error when a hotkey is pressed and is unable to locate the associated file stored within the `Dok’s Rx Cabinet` folder. If the `Dok's Rx Cabinet` folder gets deleted or moved you can simply recreate it by launching the “Dokter’s Prescription.EXE” file again. Re-launching the `Dokter's Prescription.EXE` script will not overwrite any packaged files in `Dok's Rx Cabinet` if they already exist. In other words, any changes that you have made to the .AHK scripts within `Dok's Rx Cabinet` will not be lost when re-launching `Dokter's Prescription.EXE`
 
@@ -49,20 +47,20 @@ These additional packaged scripts can of course be launched manually without usi
 
 #	The `Dok’s Rx` folder
 
-The `Dok’s Rx` folder within the `Dok’s Rx Cabinet` folder contains:
+The `Dok’s Rx` folder is stored within `Dok’s Rx Cabinet`; this folder contains:
 - **The `Dok’s Rx Guide.xls` spreadsheet**
 (Includes full index of script functions and additional tabs to reference native program hotkeys)
 
-- **The `App Launch Shortcuts` folder**
+- The **`App Launch Shortcuts`** folder
 (Used for storing created program shortcut files for launching/toggling apps that were installed by Microsoft Store)
 
-- **The icon files for the `Dokter’s Prescription.AHK` script.**
+- The icon files for the **`Dokter’s Prescription.AHK`** script.
 
 You can reference the `Dok’s Rx Guide.xls` spreadsheet for a complete list of all default functions that are included within the script. 
 
-The `App Launch Shortcuts` sub-folder within `Dok’s Rx Cabinet\Dok’s Rx` is a location to store any program shortcuts for the program launch/toggle hotkeys within the script. You can use the file location of the program shortcuts to edit these sections of the raw .AHK version of the script.
+The `App Launch Shortcuts` sub-folder within `Dok’s Rx Cabinet\Dok’s Rx` is a location to store program shortcuts for the "program launch/toggle" optional template code within the **Dokter's Prescription** script. 
 
-For example, applications that are downloaded from the Microsoft Store are not located in the standard program location on your hard drive. These programs are usually nested within the `WindowsApps` folder. In most cases, if you attempt the run the programs directly from their file location, they will not launch as expected. For this, you can create a program shortcut for these applications. The program shortcuts you create should be moved into the `App Launch Shortcuts`
+For example, applications that are downloaded from the Microsoft Store are not located in the standard program location on your hard drive. These programs are usually nested within the `WindowsApps` folder. In most cases, if you attempt the run the programs directly from their file location, they will not launch as expected. For this, you can create a program shortcut for these applications. The program shortcuts you create should be moved into the `App Launch Shortcuts` (i.e. using the file path: `"%A_WorkingDir\Dok's Rx Cabinet\Dok's Rx\App Launch Shortcuts\Microsoft To Do"` instead of `"C:\Program Files\WindowsApps\Microsoft.Todos_2.28.32802.0_x64__8wekyb3d8bbwe\ToDo.exe"`
 
 
 
