@@ -123,7 +123,7 @@ This folder contains the `The Matrix.EXE` script package which is nearly identic
 
 #	Editing the `Dok's Rx Script (Raw).AHK`script
 
-You can make changes to the default script functions, by editing the raw .AHK copy of this script, which is located in:
+You can make changes to the default script functions, by editing the raw .AHK copy of this script:
 
 `Dok’s Rx Cabinet\Dok’s Rx\Dok’s Rx Script (Raw).AHK`
 
@@ -139,9 +139,9 @@ The `Dok’s Rx Script (Raw).AHK` file will not install or launch any of the pac
 
 #	Additional Notes:
 
-The **Dokter's Prescription** script contains a mix of simple, useful functions and includes detailed comments within the code to help you understand the different script functions. You can simply reference the comments within the script to help customize everything for your specific needs.
+The **Dokter's Prescription** script contains a variety of simple, useful functions and includes detailed comments within the code to help you understand the script functions to help you customize it to meet your preference. You can simply reference the comments within the .AHK script file to help guide you through customizing everything for your specific needs.
 
-You can also use the `Dok’s Rx Guide.xls` spreadsheet file as a template to track any specific changes that you have made while editing the script.
+While customizing the **Doketer's Prescription** script, you can also use the `Dok’s Rx Guide.xls` spreadsheet file as a template to track any specific changes that you have made while editing the script.
 
 # Donate
 
