@@ -135,7 +135,8 @@ This folder contains the `The Matrix.EXE` script package which is nearly identic
 
 
 
-#	Editing the `Dok's Rx (Raw).AHK`, `Ableton Takeover.AHK`, and `Power & Sleep Hotkeys`scripts
+#	Customizing the scripts with the raw .AHK files
+## `Dok's Rx (Raw).AHK`, `Ableton Takeover.AHK`, and `Power & Sleep Hotkeys`scripts
 
 You can make changes to the default script functions, by editing the raw .AHK copies of these scripts:
 
