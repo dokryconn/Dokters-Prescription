@@ -80,9 +80,9 @@ The `Dok’s Rx` folder contains the following items related to  **`Dokter's Pre
 The `Over The Counter` folder contains additional scripts referenced by **`Dokter's Prescription.EXE`** and **`Dok's Rx (Raw).AHK`**. These scripts can also be launched and used independently without the **`Dokter's Prescription.EXE`** or **`Dok's Rx (Raw).AHK`** running. This folder contains:
 
 - The **`Ableton Takeover.EXE`** script:
-  - `Ableton Takeover.EXE` suspends certain program processes for specified programs while the Ableton Live window is active and resumes the program processes once the Ableton Live window is no longer active.
-  - Launch this script while running **Dokter's Prescription** by pressing **`[CTRL+ALT+SHIFT+A]`**
-  - Exit this script by pressing **`CTRL+ALT+SHIFT+DEL`**
+  - **`Ableton Takeover.EXE` suspends certain program processes** for specified programs while the Ableton Live window is active and **resumes the program processes** once the Ableton Live window is no longer active.
+  - **Launch Script** while running **Dokter's Prescription** - **`[CTRL+ALT+SHIFT+A]`**
+  - **Exit Script** - **`CTRL+ALT+SHIFT+DEL`**
 
 An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Counter\Ableton Takeover` for optional customizing. Although the .EXE version of **Ableton Takeover** includes a *decent* list of *common* programs, you can edit this script to include the program processes that are typically running while you are using Ableton Live. (See "Customizing the scripts" section below.)
 
