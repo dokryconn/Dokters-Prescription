@@ -2,7 +2,7 @@
 An Autohotkey script suite to make life easier for Windows and **Ableton Live** users.
 
 
-#	The "Dokter’s Prescription.EXE" script
+##	The "Dokter’s Prescription.EXE" script
 - The "Dokter’s Prescription.EXE" script enables several different shortcuts for Windows, Ableton Live, and other specific programs:
 
   - **Ableton Live** - 47 custom shortcuts
@@ -33,9 +33,9 @@ An Autohotkey script suite to make life easier for Windows and **Ableton Live** 
 
 
 #	The "Dok’s Rx Cabinet" folder
-The `Dok's Rx Cabinet` folder contains the folders for associated scripts/files referenced by the `Dokter's Prescription.EXE` and `Dok's Rx (Raw).AHK` scripts.
+The `Dok's Rx Cabinet` folder contains sub-folders for associated scripts/files referenced by the `Dokter's Prescription.EXE` and `Dok's Rx (Raw).AHK` scripts.
 
-The following additional scripts are included within the`Dok's Rx Cabinet` folders:
+The following additional scripts are stored within the`Dok's Rx Cabinet` folders:
 
 - **Ableton Takeover**
 - **Power & Sleep Hotkeys**
@@ -48,7 +48,7 @@ These additional packaged scripts can of course be launched manually from `Dok's
 
 
 #	The "Dok’s Rx" folder
-The `Dok’s Rx` folder contains the following items related to  **`Dokter's Prescription.EXE`** and **`Dok's Rx (Raw).AHK`**:
+The `Dok’s Rx` folder contains the following items referenced by the  **`Dokter's Prescription.EXE`** and **`Dok's Rx (Raw).AHK`** scripts:
 
 - **The "Dok’s Rx Guide.xls" spreadsheet**
   - Includes full index of script functions and additional workbook tabs to reference some native hotkeys for additional programs.
