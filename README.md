@@ -49,7 +49,6 @@ These additional packaged scripts can of course be launched manually from `Dok's
 
 #	The `Dok’s Rx` folder
 The `Dok’s Rx` folder contains the following items related to  **`Dokter's Prescription.EXE`** and **`Dok's Rx (Raw).AHK`**:
-- **Icon files referenced by the the "Dok's Rx (Raw).AHK" script.**
 
 - **The "Dok’s Rx Guide.xls" spreadsheet**
   - Includes full index of script functions and additional workbook tabs to reference some native hotkeys for additional programs.
@@ -72,6 +71,10 @@ The `Dok’s Rx` folder contains the following items related to  **`Dokter's Pre
 - **The "Dok's Rx (Raw).AHK" script:**
   - This can be used for customizing the **Dokter's Prescription** script to meet your desired preferences.
   - See the "**Customizing the scripts**" section below for more info about this.
+
+- **Icon files referenced by the the "Dok's Rx (Raw).AHK" script.**
+
+
 
 #	The "Over The Counter" folder
 The `Over The Counter` folder contains additional scripts referenced by **`Dokter's Prescription.EXE`** and **`Dok's Rx (Raw).AHK`**. These scripts can also be launched and used independently without the **`Dokter's Prescription.EXE`** or **`Dok's Rx (Raw).AHK`** running. This folder contains:
