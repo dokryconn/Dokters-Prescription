@@ -18,9 +18,9 @@ Reference the **`Dok's Rx Guide.xls`** spreadsheet for the complete list of keyb
 
 - **Launch/Toggle Program** - These shortcuts allow you to launch/toggle specific programs using the following types of keyboard shortcuts:
 
-  - **WIN+(number key)** (i.e. **WIN+1**, **WIN+2**, **WIN+3**, etc..)
+  - **WIN+***number key* (i.e. **WIN+1**, **WIN+2**, **WIN+3**, etc..)
 
-  - **WIN+SHIFT+(letter key)** (i.e. **WIN+SHIFT+A**, **WIN+SHIFT+B**, **WIN+SHIFT+C**)
+  - **WIN+**SHIFT+*letter key* (i.e. **WIN+SHIFT+A**, **WIN+SHIFT+B**, **WIN+SHIFT+C**)
 
 Reference the `Dok's Rx Guide.xls` spreadsheet for the complete list of **Launch/Toggle Program** shortcuts included by default in `Dokter's Prescription.EXE`.
 
