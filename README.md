@@ -11,7 +11,7 @@ An Autohotkey script suite to make life easier for Windows and **Ableton Live** 
   - **Brave Browser** - 5 custom shortcuts
   - **Windows** - 15 custom shortcuts
 
-Reference the **`Dok's Rx Guide.xls`** spreadsheet for the complete list of keyboard shortcuts included in `Dokter's Prescription.EXE`.
+**Reference the **`Dok's Rx Guide.xls`** spreadsheet for the complete list of keyboard shortcuts included in `Dokter's Prescription.EXE`.**
 
 *The program-specific keyboard shortcuts are only enabled while the corresponding program window is active.*
 
@@ -22,7 +22,7 @@ Reference the **`Dok's Rx Guide.xls`** spreadsheet for the complete list of keyb
 
   - **WIN+SHIFT+** *letter key* (i.e. **WIN+SHIFT+A**; **WIN+SHIFT+B**; **WIN+SHIFT+C**; etc.)
 
-Reference the `Dok's Rx Guide.xls` spreadsheet for the complete list of **Launch/Toggle Program** shortcuts included by default in `Dokter's Prescription.EXE`.
+**Reference the `Dok's Rx Guide.xls` spreadsheet for the complete list of **Launch/Toggle Program** shortcuts included by default in `Dokter's Prescription.EXE`.**
 
 - **Suspend/Resume Script** - **`[CTRL+ALT+SHIFT+PAUSE]`**.
 
@@ -33,7 +33,6 @@ Reference the `Dok's Rx Guide.xls` spreadsheet for the complete list of **Launch
 
 
 #	The `Dok’s Rx Cabinet` folder
-
 The `Dok's Rx Cabinet` folder contains the associated files and scripts that are referenced by the `Dokter's Prescription.EXE` and `Dok's Rx (Raw).AHK` scripts.
 
 The following scripts are included in the`Dok's Rx Cabinet` folder:
@@ -49,7 +48,6 @@ These additional packaged scripts can of course be launched manually from `Dok's
 
 
 #	The `Dok’s Rx` folder
-
 The `Dok’s Rx` folder contains the following items related to  **`Dokter's Prescription.EXE`** and **`Dok's Rx (Raw).AHK`**:
 - The icon files referenced by the the **`Dok's Rx (Raw).AHK`** script.
 
@@ -73,20 +71,21 @@ The `Dok’s Rx` folder contains the following items related to  **`Dokter's Pre
 
 
 #	The `Over The Counter` folder
-
 The `Over The Counter` folder contains additional scripts referenced by **`Dokter's Prescription.EXE`** and **`Dok's Rx (Raw).AHK`**. These scripts can also be launched and used independently without the **`Dokter's Prescription.EXE`** or **`Dok's Rx (Raw).AHK`** running. This folder contains:
 
 - The **`Ableton Takeover.EXE`** script:
-  - **`Ableton Takeover.EXE` suspends certain program processes** of specified programs while the Ableton Live window is **active** and **resumes the program processes** once the Ableton Live window is **not active**.
+  - Suspends program processes of specified programs while the Ableton Live window is active and resumes the program processes once the Ableton Live window is not active.
   - **Launch Script** while running **Dokter's Prescription** - **`[CTRL+ALT+SHIFT+A]`**
   - **Exit Script** - **`CTRL+ALT+SHIFT+DEL`**
 
+Reference the `Ableton Takeover README.txt` for more info and the complete list of default program processes included in the .EXE version of this script.
+
 An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Counter\Ableton Takeover` for optional customizing. Although the .EXE version of **Ableton Takeover** includes a *decent* list of *common* programs, you can edit this script to include the program processes that are typically running while you are using Ableton Live. (See "Customizing the scripts" section below.)
 
-Reference the included `“Ableton Takeover README.txt”` for more info and a list of the default program processes included in the .EXE version of this script.
+Reference the `Ableton Takeover README.txt` file for more info and the complete list of default program processes included in the .EXE version of this script.
  
 - The **`Power & Sleep Hotkeys.EXE`** script:
-  
+  - Enables hotkeys to sleep, hibernate, restart, or shutdown your PC. 
   - **Sleep PC** - **`CTRL+ALT+SHIFT+ESC`**
   - **Resart PC** - **`CTRL+ALT+SHIFT+F5`**
   - **Hibernate PC** - **`CTRL+ALT+SHIFT+F9`**
@@ -96,19 +95,13 @@ Reference the included `“Ableton Takeover README.txt”` for more info and a l
 
 An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Counter\Power & Sleep` for optional customizing. Although the .EXE version of **Power & Sleep Hotkeys** includes the hotkeys shown above, you can edit this script to adjust the hotkeys for your preference. (See the "**Customizing the scripts**" section below.)
 
-Reference the included `“Ableton Takeover README.txt”` for more information and a specific list of the default programs included in the .EXE version of this script.
-
-
-- The **“Power & Sleep Hotkeys”** script assigns hotkeys to sleep, hibernate, restart, or shutdown your PC.  
-
 
 
 # The `Research Chemicals` folder
-
-The `The Research Chemicals` folder within the contains the `Research Chemicals.AHK` script and associated tray icons.
+The `Research Chemicals` folder contains the `Research Chemicals.AHK` script and associated tray icons.
 
 - The **`Research Chemicals.AHK`** script:
-  - The `Research Chemicals.AHK` script is an Autohotkey “testing script” for Autohotkey script development. You can edit this script with functions that you would like to test but do not want to incorporate into your main script.
+  - An Autohotkey “testing script” for Autohotkey script development. You can edit this script with functions that you would like to test but do not want to incorporate into your main script.
   - **Display test message - `[CTRL+ALT+SHIFT+T]`**
   - **Identify mouse cursor coordinates - `[CTRL+ALT+SHIFT+C]`**
   - **Launch Script** while running **Dokter's Prescription** - `**[CTRL+ALT+SHIFT+R]**`
@@ -121,29 +114,27 @@ The `The Research Chemicals` folder within the contains the `Research Chemicals.
 
 
 #	The `The Matrix` folder
-
 This folder contains the `The Matrix.EXE` script package which is nearly identical to the Live Enhancement Script (LES) via https://enhancementsuite.me/ but with a few adjustments to the Windows tray icon and tray menu items, all within the theme of the 1999 film, The Matrix. Take the red pill. 
 
 
 
 #	Customizing the scripts
-You can customize the any of the default script functions, by editing the raw .AHK files for these scripts. 
-
+You can customize any default script functions by editing the raw .AHK files of each script. 
 
 ## Customizing the **Dokter's Prescription** script
 
-By default, the `Dokter's Prescription.EXE` script includes **Launch/Toggle Program** shortcuts that are **setup for my preferred programs and file locations**. You will most likely want to customize these shortcuts for ***your own specific programs*** by editing the included `Dok's Rx (Raw).AHK` version of the script. All of the specific default **Launch/Toggle Program** shortcuts have been deactivated in the `Dok's Rx (Raw).AHK` version of the script to keep it in clean, "template code" format. Additionally, there are detailed instruction comments within the `Dok's Rx (Raw).AHK` file to help with editing / customizing.
+**NOTE:** By default, the `Dokter's Prescription.EXE` script includes **Launch/Toggle Program** shortcuts that are **setup for my preferred programs and file locations**. You will most likely want to customize these shortcuts for ***your own specific programs*** by editing the included `Dok's Rx (Raw).AHK` version of the script. All of the specific default **Launch/Toggle Program** shortcuts have been deactivated in the `Dok's Rx (Raw).AHK` version of the script to keep it in clean, "template code" format. Additionally, there are detailed instruction comments within the `Dok's Rx (Raw).AHK` file to help with editing / customizing.
 
 1. Ensure that the Autohotkey software is installed on your computer - https://autohotkey.com/
 2. Open the **`Dok's Rx (Raw).AHK`** in the `Dok's Rx Cabinet\Dok's Rx`folder with any text editor such as `Notepad`; or a script editor such as `SciTE4Autohotkey`.
 3. Edit the script text for each shortcut feature as desired, following the instruction comments embedded within the script.
 4. Save your customized changes to the .AHK script file.
-5. You can either use your customized script by simply launching your saved .AHK file or alternatively, you can compile your script to an .EXE file by right-clicking the .AHK file in "File Explorer" and selecting "Compile Script" from the menu options.
-  - *This will create an .EXE version of the script that will be able to run on computers that do not have the Autohotkey software installed.*
-6. **Lastly, you can move your new, customized .EXE or .AHK script file into the same folder as the main `Dokter's Prescription.EXE` script file.**
+5. Use your customized script by simply launching your saved .AHK file or alternatively, you can compile it into an .EXE file by right-clicking the saved .AHK file and selecting **"Compile Script"**.
+    - *This will create an .EXE version of the script that will be able to run on computers that do not have the Autohotkey software installed.*
+6. Move your new custom .EXE or .AHK script file into the same folder as the `Dokter's Prescription.EXE` script file location.
 
 - Customizing the **Launch/Toggle Programs** shortcuts within `Dok's Rx (Raw).AHK`:
-There are several blocks of deactivated "template code" included within `Dok's Rx (Raw).AHK` for these shortcuts. 
+There are several sections of deactivated "template code" included within `Dok's Rx (Raw).AHK` for the "Launch/Toggle Program" shortcuts for each number 0 through 9, and A through Z. 
 
   - These deactivated blocks of code can be activated by removing the `/*`and `*/` brackets for each hotkey shortcut. Once these blocks of code are activated, they allow you to launch/toggle program windows using `WIN+(number key)` and/or `WIN+SHIFT+(letter key)` as described previosuly above.
 
