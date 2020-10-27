@@ -178,10 +178,10 @@ This script is **100% free** to use, manipulate, distribute, or incinerate but I
 
 If you find that **Dokter's Prescription** is useful for you, consider making a small donation. (or just enjoy it for free!)
 
+**https://paypal.me/DokRyConn**
+
 # 
 
 Peace,
 
 **Dokter RyConn**
-
-**https://paypal.me/DokRyConn**
