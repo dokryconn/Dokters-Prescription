@@ -60,7 +60,7 @@ If the “Dok’s Rx Cabinet” folder is not kept within the same location that
 The `Dok’s Rx` folder is stored within `Dok’s Rx Cabinet`; this folder contains:
 - **The `Dok’s Rx Guide.xls` spreadsheet**
 
---  Includes full index of script functions and additional workbook tabs to reference some  native hotkeys for additional programs)
+  - Includes full index of script functions and additional workbook tabs to reference some  native hotkeys for additional programs)
 
 - The **`App Launch Shortcuts`** folder
 (Used for storing created program shortcut files for launching/toggling apps that were installed by Microsoft Store)
