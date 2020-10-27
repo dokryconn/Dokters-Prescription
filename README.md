@@ -14,9 +14,9 @@ A script suite to make life easier for Windows and **Ableton Live** users.
   
 *Program-specific shortcuts are only enabled while the corresponding program window is active.*
   
-**Reference the `Dok's Rx Guide.xls` spreadsheet for the complete list of keyboard shortcuts included in `Dokter's Prescription.EXE`**
+**NOTE: For the complete list of keyboard shortcuts included, reference the `Dok's Rx Guide.xls` spreadsheet**
 
-- **Suspend/Resume Script** - **`[CTRL+ALT+SHIFT+PAUSE]`**
+- **Suspend / Resume Script** - **`[CTRL+ALT+SHIFT+PAUSE]`**
 
 - **Exit Script** - **`[CTRL+ALT+SHIFT+END]`**
 
