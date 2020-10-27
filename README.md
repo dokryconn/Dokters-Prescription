@@ -23,7 +23,7 @@ You can suspend the script functions by pressing **`[CTRL+ALT+SHIFT+PAUSE]`**
 
 You can resume the script by pressing **`[CTRL+ALT+SHIFT+PAUSE]`** again
 
-When `Dokter's Prescription.EXE` is launched, a the `Dok's Rx Cabinet` folder will be created.
+When `Dokter's Prescription.EXE` is launched, the `Dok's Rx Cabinet` folder will be created.
 
 
 
@@ -85,7 +85,7 @@ Reference the `“Ableton Takeover README.txt”` for more information and a spe
 
 
 - The **“Power & Sleep Hotkeys”** script assigns hotkeys to sleep, hibernate, or shutdown your PC.  
-See the “Power & Sleep Hotkeys README.txt” for more information.
+See the `Power & Sleep Hotkeys README.txt` for more information.
 
 
 
@@ -94,19 +94,19 @@ See the “Power & Sleep Hotkeys README.txt” for more information.
 
 The `The Research Chemicals` folder within the `Dok’s Rx Cabinet` folder contains the `Research Chemicals.AHK` script and associated icons.
 
-- **Research Chemicals** - ** Launch while running **"Dokter's Prescription"** with **[CTRL+ALT+SHIFT+R]**
+- **Research Chemicals** - ** Launch while running **"Dokter's Prescription"** with `**[CTRL+ALT+SHIFT+R]**`
 
 The purpose of the `Research Chemicals.AHK` script is to have a “test script” readily available for Autohotkey script development/testing. Autohotkey will need to be installed on your computer to run this script. You can edit this script with Autohotkey functions that you would like to test but do not want to commit into your main running script.
 
 By default, the only functions included in the Research Chemicals script are:
 
-**LAUNCH  A TEST MESSAGE BOX: [CTRL+ALT+SHIFT+T]**
+**LAUNCH  A TEST MESSAGE BOX: `[CTRL+ALT+SHIFT+T]`**
 
-**IDENTIFY CURSOR POSITION: [CTRL+ALT+SHIFT+C]**
+**IDENTIFY CURSOR POSITION: `[CTRL+ALT+SHIFT+C]`**
 
-**EXIT SCRIPT: [CTRL+ALT+SHIFT+DEL]**
+**EXIT SCRIPT: `[CTRL+ALT+SHIFT+DEL]`**
 
-**SAVE AND RELOAD SCRIPT: [CTRL+S]**
+**SAVE AND RELOAD SCRIPT: `[CTRL+S]`**
 
 
 
@@ -116,9 +116,9 @@ This folder contains the `The Matrix.EXE` script package which is nearly identic
 
 
 
-#	Editing the `ok's Rx Script (Raw).AHK`script
+#	Editing the `Dok's Rx Script (Raw).AHK`script
 
-You can make changes to the default script functions, by editing the raw .AHK copy of this script, which is under:
+You can make changes to the default script functions, by editing the raw .AHK copy of this script, which is located in:
 
 `Dok’s Rx Cabinet\Dok’s Rx\Dok’s Rx Script (Raw).AHK`
 
@@ -145,4 +145,4 @@ This script is **100% free** for all to use, manipulate, distribute, and/or inci
 
 **Dokter RyConn**
 
-**https://paypal.me/DokRyConn**
+`**https://paypal.me/DokRyConn**`
