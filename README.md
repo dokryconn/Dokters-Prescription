@@ -138,8 +138,7 @@ The **Dokter's Prescription** script contains a mix of simple, useful functions 
 
 You can also use the `Dok’s Rx Guide.xls` spreadsheet file as a template to track any specific changes that you have made while editing the script.
 
-This script is **100% free** for all to use, manipulate, distribute, and/or incinerate. I am a beginner with the Autohotkey language but it is a lot of fun creating shortcuts and enhancing the overall system experience.
-
+This script is **100% free** for all to use, manipulate, distribute, and/or incinerate but I have included a link for donations below - if you find that `Dokter's Prescription` is useful for you.
 
 Peace,
 
