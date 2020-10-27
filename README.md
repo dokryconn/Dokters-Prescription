@@ -69,14 +69,14 @@ The `Dok’s Rx` folder contains the following items related to  **`Dokter's Pre
 
 `"C:\Program Files\WindowsApps\Microsoft.Todos_2.28.32802.0_x64__8wekyb3d8bbwe\ToDo.exe"`
 
-- The `Dok's Rx (Raw).AHK`script:
+- **The `Dok's Rx (Raw).AHK`script:**
   - This can be used for customizing the **Dokter's Prescription** script to meet your desired preferences.
   - See the "**Customizing the scripts**" section below for more info about this.
 
 #	The `Over The Counter` folder
 The `Over The Counter` folder contains additional scripts referenced by **`Dokter's Prescription.EXE`** and **`Dok's Rx (Raw).AHK`**. These scripts can also be launched and used independently without the **`Dokter's Prescription.EXE`** or **`Dok's Rx (Raw).AHK`** running. This folder contains:
 
-- The **`Ableton Takeover.EXE`** script:
+- **The `Ableton Takeover.EXE` script:**
   - Suspends program processes of specified programs while the Ableton Live window is active and resumes the program processes once the Ableton Live window is not active.
   - **Launch Script** while running **Dokter's Prescription** - **`[CTRL+ALT+SHIFT+A]`**
   - **Exit Script** - **`CTRL+ALT+SHIFT+DEL`**
@@ -87,7 +87,7 @@ An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Cou
 
 Reference the `Ableton Takeover README.txt` file for more info and the complete list of default program processes included in the .EXE version of this script.
  
-- The **`Power & Sleep Hotkeys.EXE`** script:
+- **The `Power & Sleep Hotkeys.EXE` script:**
   - Enables hotkeys to sleep, hibernate, restart, or shutdown your PC. 
   - **Sleep PC** - **`CTRL+ALT+SHIFT+ESC`**
   - **Resart PC** - **`CTRL+ALT+SHIFT+F5`**
