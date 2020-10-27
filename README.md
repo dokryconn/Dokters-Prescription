@@ -18,9 +18,9 @@ You can reference all default shortcuts that come with the `Dokter's Prescriptio
 
 - **Launch/Toggle Program** - These shortcuts allow you to launch/toggle specific programs using the following types of keyboard shortcuts:
 
-**WIN+(number key)** (i.e. **WIN+1**, **WIN+2**, **WIN+3**, etc..)
+  - **WIN+(number key)** (i.e. **WIN+1**, **WIN+2**, **WIN+3**, etc..)
 
-**WIN+SHIFT+(letter key)** (i.e. **WIN+SHIFT+A**, **WIN+SHIFT+B**, **WIN+SHIFT+C**)
+  - **WIN+SHIFT+(letter key)** (i.e. **WIN+SHIFT+A**, **WIN+SHIFT+B**, **WIN+SHIFT+C**)
 
 **NOTE:** *By default, `Dokter's Prescription.EXE` includes **Launch/Toggle Program** shortcuts that are **specific for my preferred programs and file locations**. You can reference the default programs that come  with the `Dokter's Prescription.EXE` script in the `Dok's Rx Guide.xls` spreadsheet. You will most likely want to customize these shortcuts for ***your own specific programs***. You can easily do this by editing the `Dok's Rx (Raw).AHK` script located in the `Dok's Rx Cabinet\Dok's Rx` folder.*
 
