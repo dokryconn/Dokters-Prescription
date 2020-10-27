@@ -23,10 +23,8 @@ Reference the **`Dok's Rx Guide.xls`** spreadsheet for the complete list of keyb
   - **WIN+SHIFT+(letter key)** (i.e. **WIN+SHIFT+A**, **WIN+SHIFT+B**, **WIN+SHIFT+C**)
 
 Reference the `Dok's Rx Guide.xls` spreadsheet for the complete list of **Launch/Toggle Program** shortcuts included by default in `Dokter's Prescription.EXE`.
-
-
-
-*(See the section, "Customizing the .AHK scripts" below for more info on).*
+<br>
+*See the section, "Customizing the .AHK scripts" below for more info on how to customize features of this script*
 
 - **Suspend/Resume** all features of `Dokter's Prescription.EXE` by toggling with **`[CTRL+ALT+SHIFT+PAUSE]`**.
 
