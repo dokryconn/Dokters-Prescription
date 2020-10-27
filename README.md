@@ -128,7 +128,7 @@ The `Research Chemicals` folder contains the `Research Chemicals.AHK` script and
 ## Customizing the **Dokter's Prescription** script
 
 1. Ensure that the Autohotkey software is installed on your computer - https://autohotkey.com/
-2. Open the **`Dok's Rx (Raw).AHK`** file in the `Dok's Rx Cabinet\Dok's Rx`folder with any text editor such as `Notepad`; or a script editor such as `SciTE4Autohotkey`.
+2. Open the **`Dok's Rx (Raw).AHK`** file in the `Dok's Rx Cabinet\Dok's Rx`folder with any text editor such as "Notepad"; or a script editor such as "SciTE4Autohotkey."
 3. Edit the script text for each shortcut feature as desired, following the instruction comments embedded within the script.
 4. Save your customized changes to the .AHK script file.
 5. Use your customized script by simply launching your saved .AHK file or alternatively, you can compile it into an .EXE file by right-clicking the saved .AHK file and selecting **"Compile Script"**.
@@ -150,7 +150,7 @@ The `Research Chemicals` folder contains the `Research Chemicals.AHK` script and
 ## Customizing the **Ableton Takeover** script
 
 1. Ensure that the Autohotkey software is installed on your computer - https://autohotkey.com/
-2. Open the **`Ableton Takeover.AHK`** file in the `Dok's Rx Cabinet\Over The Counter\Ableton Takeover`folder with any text editor such as `Notepad`; or a script editor such as `SciTE4Autohotkey`.
+2. Open the **`Ableton Takeover.AHK`** file in the `Dok's Rx Cabinet\Over The Counter\Ableton Takeover`folder with any text editor such as "Notepad"; or a script editor such as "SciTE4Autohotkey."
 3. Edit the script text to include/exclude any specific program process names, following the instructions within the `Ableton Takeover README.txt` file.
 4. Save your customized changes to the .AHK script file.
 5. Use your customized script by simply launching your saved .AHK file or alternatively, you can compile it into an .EXE file by right-clicking the saved .AHK file and selecting **"Compile Script"**.
@@ -160,7 +160,7 @@ The `Research Chemicals` folder contains the `Research Chemicals.AHK` script and
 ## Customizing the **Power & Sleep Hotkeys** script
 
 1. Ensure that the Autohotkey software is installed on your computer - https://autohotkey.com/
-2. Open the **`Power & Sleep Hotkeys.AHK`** file in the `Dok's Rx Cabinet\Over The Counter\Power & Sleep` folder with any text editor such as `Notepad`; or a script editor such as `SciTE4Autohotkey`.
+2. Open the **`Power & Sleep Hotkeys.AHK`** file in the `Dok's Rx Cabinet\Over The Counter\Power & Sleep` folder with any text editor such as "Notepad"; or a script editor such as "SciTE4Autohotkey."
 3. Edit the script text to adjust the hotkey commands to meet your desired preferences, following the instructions within the `Power & Sleep Hotkeys README.txt` file.
 4. Save your customized changes to the .AHK script file.
 5. Use your customized script by simply launching your saved .AHK file or alternatively, you can compile it into an .EXE file by right-clicking the saved .AHK file and selecting **"Compile Script"**.
@@ -170,7 +170,7 @@ The `Research Chemicals` folder contains the `Research Chemicals.AHK` script and
 ## Customizing the **Research Chemicals** script
 
 1. Ensure that the Autohotkey software is installed on your computer - https://autohotkey.com/
-2. Open the **`Research Chemicals.AHK`** file in the `Dok's Rx Cabinet\Research Chemicals` folder with any text editor such as `Notepad`; or a script editor such as `SciTE4Autohotkey`.
+2. Open the **`Research Chemicals.AHK`** file in the `Dok's Rx Cabinet\Research Chemicals` folder with any text editor such as "Notepad"; or a script editor such as "SciTE4Autohotkey."
 3. Edit the script text to include any Autohotkey functions that you would like to test.
 4. Save your customized changes to the original `Research Chemicals.AHK` script file.
 5. You're done. :)
