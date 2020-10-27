@@ -16,7 +16,7 @@ An Autohotkey script suite to make life easier for Windows and **Ableton Live** 
 
 *The program-specific keyboard shortcuts are only enabled while the corresponding program window is active.*
 
-## Optional "Dokter’s Prescription" script shortcuts
+## Optional "Dokter’s Prescription" shortcuts
 
 See the **"Customizing the scripts"** section below, for instructions on how to enable the following optional shortcuts:
 
