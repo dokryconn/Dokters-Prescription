@@ -106,7 +106,7 @@ An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Cou
 # The "Research Chemicals" folder
 The `Research Chemicals` folder contains the `Research Chemicals.AHK` script and associated tray icons.
 
-## The "Research Chemicals.AHK script:
+## The "Research Chemicals.AHK" script:
  - An Autohotkey “testing script” for Autohotkey script development. You can edit this script with functions that you would like to test but do not want to incorporate into your main script.
  - **Display test message - `[CTRL+ALT+SHIFT+T]`**
  - **Identify mouse cursor coordinates - `[CTRL+ALT+SHIFT+C]`**
