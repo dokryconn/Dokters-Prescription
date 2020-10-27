@@ -35,7 +35,7 @@ An Autohotkey script suite to make life easier for Windows and **Ableton Live** 
 #	The `Dok’s Rx Cabinet` folder
 The `Dok's Rx Cabinet` folder contains the folders for associated scripts/files referenced by the `Dokter's Prescription.EXE` and `Dok's Rx (Raw).AHK` scripts.
 
-The following scripts are included in the`Dok's Rx Cabinet` folder:
+The following additional scripts are included within the`Dok's Rx Cabinet` folders:
 
 - **Ableton Takeover**
 - **Power & Sleep Hotkeys**
@@ -115,12 +115,6 @@ The `Research Chemicals` folder contains the `Research Chemicals.AHK` script and
 
 
 
-
-#	The `The Matrix` folder
-This folder contains the `The Matrix.EXE` script package which is nearly identical to the Live Enhancement Script (LES) via https://enhancementsuite.me/ but with a few adjustments to the Windows tray icon and tray menu items, all within the theme of the 1999 film, The Matrix. Take the red pill. 
-
-
-
 #	Customizing the scripts
 You can customize any default script functions by editing the raw .AHK files of each script. 
 
@@ -129,15 +123,15 @@ You can customize any default script functions by editing the raw .AHK files of 
 **NOTE:** By default, the `Dokter's Prescription.EXE` script includes **Launch/Toggle Program** shortcuts that are **setup for my preferred programs and file locations**. You will most likely want to customize these shortcuts for ***your own specific programs*** by editing the included `Dok's Rx (Raw).AHK` version of the script. All of the specific default **Launch/Toggle Program** shortcuts have been deactivated in the `Dok's Rx (Raw).AHK` version of the script to keep it in clean, "template code" format. Additionally, there are detailed instruction comments within the `Dok's Rx (Raw).AHK` file to help with editing / customizing.
 
 1. Ensure that the Autohotkey software is installed on your computer - https://autohotkey.com/
-2. Open the **`Dok's Rx (Raw).AHK`** in the `Dok's Rx Cabinet\Dok's Rx`folder with any text editor such as `Notepad`; or a script editor such as `SciTE4Autohotkey`.
+2. Open the **`Dok's Rx (Raw).AHK`** file in the `Dok's Rx Cabinet\Dok's Rx`folder with any text editor such as `Notepad`; or a script editor such as `SciTE4Autohotkey`.
 3. Edit the script text for each shortcut feature as desired, following the instruction comments embedded within the script.
 4. Save your customized changes to the .AHK script file.
 5. Use your customized script by simply launching your saved .AHK file or alternatively, you can compile it into an .EXE file by right-clicking the saved .AHK file and selecting **"Compile Script"**.
     - *This will create an .EXE version of the script that will be able to run on computers that do not have the Autohotkey software installed.*
-6. Move your new custom .EXE or .AHK script file into the same folder as the `Dokter's Prescription.EXE` script file location.
+6. Move your new custom .EXE or .AHK script file into the same folder as the original `Dokter's Prescription.EXE` script file location.
 
 - Customizing the **Launch/Toggle Programs** shortcuts within `Dok's Rx (Raw).AHK`:
-There are several sections of deactivated "template code" included within `Dok's Rx (Raw).AHK` for the "Launch/Toggle Program" shortcuts for each number 0 through 9, and A through Z. 
+There are several sections of deactivated "template code" within `Dok's Rx (Raw).AHK` for the "Launch/Toggle Program" shortcuts, corresponding to each number, 0 through 9, and letters, A through Z. 
 
   - These deactivated blocks of code can be activated by removing the `/*`and `*/` brackets for each hotkey shortcut. Once these blocks of code are activated, they allow you to launch/toggle program windows using `WIN+(number key)` and/or `WIN+SHIFT+(letter key)` as described previosuly above.
 
@@ -149,26 +143,35 @@ There are several sections of deactivated "template code" included within `Dok's
 
 ## Customizing the **Ableton Takeover** script
 
-By default, the `Ableton takeover.AHK` script includes **Launch/Toggle Program** shortcuts that are **setup for my preferred programs and file locations**. You will most likely want to customize these shortcuts for ***your own specific programs*** by editing the included `Dok's Rx (Raw).AHK` version of the script. All of the specific default **Launch/Toggle Program** shortcuts have been deactivated in the `Dok's Rx (Raw).AHK` version of the script to keep it in clean, "template code" format. Additionally, there are detailed instruction comments within the `Dok's Rx (Raw).AHK` file to help with editing / customizing.
+1. Ensure that the Autohotkey software is installed on your computer - https://autohotkey.com/
+2. Open the **`Ableton Takeover.AHK`** file in the `Dok's Rx Cabinet\Over The Counter\Ableton Takeover`folder with any text editor such as `Notepad`; or a script editor such as `SciTE4Autohotkey`.
+3. Edit the script text to include/exclude any specific program process names, following the instructions within the `Ableton Takeover README.txt` file.
+4. Save your customized changes to the .AHK script file.
+5. Use your customized script by simply launching your saved .AHK file or alternatively, you can compile it into an .EXE file by right-clicking the saved .AHK file and selecting **"Compile Script"**.
+  - *This will create an .EXE version of the script that will be able to run on computers that do not have the Autohotkey software installed.*
+6. Move your new custom .EXE or .AHK script file into the same folder as the original `Ableton Takeover.EXE` script file location.
+
+## Customizing the **Power & Sleep Hotkeys** script
 
 1. Ensure that the Autohotkey software is installed on your computer - https://autohotkey.com/
-2. Open the **`Dok's Rx (Raw).AHK`** in the `Dok's Rx Cabinet\Dok's Rx`folder with any text editor such as `Notepad`; or a script editor such as `SciTE4Autohotkey`.
-3. Edit the script text for each shortcut feature as desired, following the instruction comments embedded within the script.
+2. Open the **`Power & Sleep Hotkeys.AHK`** file in the `Dok's Rx Cabinet\Over The Counter\Power & Sleep` folder with any text editor such as `Notepad`; or a script editor such as `SciTE4Autohotkey`.
+3. Edit the script text to adjust the hotkey commands to meet your desired preferences, following the instructions within the `Power & Sleep Hotkeys README.txt` file.
 4. Save your customized changes to the .AHK script file.
-5. You can either use your customized script by simply launching your saved .AHK file or alternatively, you can compile your script to an .EXE file by right-clicking the .AHK file in "File Explorer" and selecting "Compile Script" from the menu options.
+5. Use your customized script by simply launching your saved .AHK file or alternatively, you can compile it into an .EXE file by right-clicking the saved .AHK file and selecting **"Compile Script"**.
   - *This will create an .EXE version of the script that will be able to run on computers that do not have the Autohotkey software installed.*
-6. **Lastly, you can move your new, customized .EXE or .AHK script file into the same folder as the main `Dokter's Prescription.EXE` script file.**
+6. Move your new custom .EXE or .AHK script file into the same folder as the original `Power & Sleep Hotkeys.EXE` script file location.
 
+## Customizing the **Research Chemicals** script
 
-#	Additional Notes:
-
-The **Dokter's Prescription** script contains a variety of simple, useful functions and includes detailed comments within the code to help you understand the script functions, in hopes to help you customize it to your preference.
-
-While customizing the **Doketer's Prescription** script, you can also use the `Dok’s Rx Guide.xls` spreadsheet file as a template to track any specific changes that you have made while editing the script.
+1. Ensure that the Autohotkey software is installed on your computer - https://autohotkey.com/
+2. Open the **`Research Chemicals.AHK`** file in the `Dok's Rx Cabinet\Research Chemicals` folder with any text editor such as `Notepad`; or a script editor such as `SciTE4Autohotkey`.
+3. Edit the script text to include any Autohotkey functions that you would like to test.
+4. Save your customized changes to the original `Research Chemicals.AHK` script file.
+5. You're done. :)
 
 # Donate
 
-This script is **100% free** to use, manipulate, distribute, or incinerate but I've included a link for **donations** below - if you find that `Dokter's Prescription` is useful for you, make a small donation. (or just enjoy it for free!)
+This script is **100% free** to use, manipulate, distribute, or incinerate but I've included a link for **donations** below - If you find that **Dokter's Prescription** is useful for you, consider making a small donation. (or just enjoy it for free!)
 
 Peace,
 
