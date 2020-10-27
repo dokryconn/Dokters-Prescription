@@ -19,7 +19,7 @@ The program-specific keyboard shortcuts are only enabled while the corresponding
 
 
 
-You can suspend the script functions by pressing **`[CTRL+ALT+SHIFT+PAUSE]`.**
+You can suspend the script functions by pressing **`[CTRL+ALT+SHIFT+PAUSE]`**.
 
 You can resume the script by pressing **`[CTRL+ALT+SHIFT+PAUSE]`** again.
 
