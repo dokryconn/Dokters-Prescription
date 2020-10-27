@@ -3,7 +3,6 @@ An Autohotkey script suite to make life easier for Windows and **Ableton Live** 
 
 
 #	The `Dokter’s Prescription.EXE` script
-## Feature list for `Dokter's Prescription.EXE`:
 - The `Dokter’s Prescription.EXE` script enables several different shortcuts for Windows, **Ableton Live** and other specific programs:
 
   - **Ableton Live** - 47 custom shortcuts
