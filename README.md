@@ -4,13 +4,13 @@ An Autohotkey script suite to make life easier for Windows users with special fo
 
 #	The `Dokter’s Prescription.EXE` script
 
-`Dokter’s Prescription.EXE` enables various kinds of shortcuts for Windows, **Ableton Live** and a few other specific programs:
+- The `Dokter’s Prescription.EXE` script enables various kinds of shortcuts for Windows, **Ableton Live** and a few other specific programs:
 
-- **Ableton Live** - 47 custom shortcuts
-- **Spotify** - 7 custom shortcuts
-- **Google Chrome** - 5 custom shortcuts
-- **Brave Browser** - 5 custom shortcuts
-- **Windows** - 15 custom shortcuts
+  - **Ableton Live** - 47 custom shortcuts
+  - **Spotify** - 7 custom shortcuts
+  - **Google Chrome** - 5 custom shortcuts
+  - **Brave Browser** - 5 custom shortcuts
+  - **Windows** - 15 custom shortcuts
 
 **NOTE:** The program-specific keyboard shortcuts are only enabled while the corresponding program window is active.
 
