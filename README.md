@@ -82,7 +82,7 @@ The `Over The Counter` folder contains additional scripts referenced by **`Dokte
 - **The "Ableton Takeover.EXE" script:**
   - Suspends program processes of specified programs while the Ableton Live window is active and resumes the program processes once the Ableton Live window is not active.
   - **Launch Script** while running **Dokter's Prescription** - **`[CTRL+ALT+SHIFT+A]`**
-  - **Exit Script** - **`CTRL+ALT+SHIFT+DEL`**
+  - **Exit Script** - **`[CTRL+ALT+SHIFT+DEL]`**
 
 Reference the `Ableton Takeover README.txt` for more info and the complete list of default program processes included in the .EXE version of this script.
 
