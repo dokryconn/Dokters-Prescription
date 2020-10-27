@@ -6,7 +6,7 @@ A script suite to make life easier for Windows and **Ableton Live** users.
 
 - The "Dokter’s Prescription.EXE" script enables several shortcuts for Windows, Ableton Live, and other specific programs:
 
-**NOTE: For the complete list of keyboard shortcuts included, reference the `Dok's Rx Guide.xls` spreadsheet**
+**NOTE: For the complete list of keyboard shortcuts, reference the included `Dok's Rx Guide.xls` spreadsheet**
 
   - **Ableton Live** - 47 custom shortcuts
   - **Spotify** - 7 custom shortcuts
