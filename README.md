@@ -60,7 +60,7 @@ _*See the **"Customizing Scripts"** section below, for instructions on activatin
   - **`[WIN+** *number key* **]`**
     - i.e. **`[WIN+1]`**; **`[WIN+2]`**; **`[WIN+3]`**; etc.
 
-
+- Hotsrings - Hotstrings are used for auto-typing strings of text by typing an abbreviated "hotstring." There are a few hotstring examples included in the `Dok's Rx (Raw).AHK` script. These hotstrings are __disabled by default__ but can be customized to your personal prefernce by editing the **`Dok's Rx (Raw).AHK`** script. 
 
 #	The "Dok’s Rx Cabinet" folder
 The `Dok's Rx Cabinet` folder contains sub-folders for associated scripts/files referenced by the `Dokter's Prescription.EXE` and `Dok's Rx (Raw).AHK` scripts.
@@ -160,13 +160,23 @@ The `Research Chemicals` folder contains the `Research Chemicals.AHK` script and
     - *This will create an .EXE version of the script that will be able to run on computers that do not have the Autohotkey software installed.*
 6. Move your new custom .EXE or .AHK script file into the same folder as the original `Dokter's Prescription.EXE` script file location.
 
-- Customizing the **Launch/Toggle Programss** shortcuts within `Dok's Rx (Raw).AHK`:
+- Customizing the **Launch/Toggle Programs** shortcuts within `Dok's Rx (Raw).AHK`:
 
 **NOTE:** By default, the **Launch/Toggle Programs** shortcuts in **`Dok's Rx (Raw),AHK`** are deactivated to keep this portion of the script in a clean, "template code" format. There are detailed instruction comments within the **`Dok's Rx (Raw).AHK`** file to guide you through customizing the script for your personal needs.
 
-  - These deactivated blocks of code can be activated by removing the `/*`and `*/` brackets for each hotkey shortcut. Once these blocks of code are activated, they allow you to Launch/Toggle Programs windows using `WIN+(number key)` and/or `WIN+SHIFT+(letter key)` as described previosuly above.
+  - These deactivated blocks of code can be activated by removing the `/*`and `*/` brackets for each **Launch/Toggle Programs** hotkey shortcut. 
 
-  - In addition to removing the comment brackets, you will need to replace portions of the "template code" with the **program name** and **file path** for each desired program. There are detailed instructions on how to customizing these features located in the actual script file via comments labled under: "PLEASE READ - ADJUST FOR YOUR OWN PROGRAMS:""
+  - In addition to removing the comment block brackets, you will need to replace portions of the "template code" with the **program name** and **file path** for each desired program. There are detailed instructions on how to customizing these features located in the actual script file via comments labled under: "PLEASE READ - ADJUST FOR YOUR OWN PROGRAMS:""
+
+Once these blocks of code are activated and edited to your personal preference, they will allow you to Launch/Toggle Programs windows using `WIN+(number key)` and/or `WIN+SHIFT+(letter key)` as described previosuly above.
+
+- Customizing the **Hotstrings** shortcuts within `Dok's Rx (Raw).AHK`:
+
+**NOTE:** By default, the **Hotstrings** in **`Dok's Rx (Raw),AHK`** are deactivated to keep this portion of the script in a clean, "template code" format.
+
+  - These deactivated blocks of code can be activated by removing the `/*`and `*/` brackets for each **Hotstring** shortcut.
+
+Once these blocks of code are activated and edited to your personal preference, you can trigger specific strings of text with the abbrevated "hotstring" that you have configured.
 
 *Make sure that your customized version of **`Dok's Rx (Raw).AHK`** script is moved into the same folder location of the original `Dokter's Prescription.EXE` script to ensure that it will be able to reference the associated files in the `Dok's Rx Cabinet` folder appropriately.*
 
