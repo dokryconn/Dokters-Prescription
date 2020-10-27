@@ -145,4 +145,4 @@ This script is **100% free** for all to use, manipulate, distribute, and/or inci
 
 **Dokter RyConn**
 
-`**https://paypal.me/DokRyConn**`
+**https://paypal.me/DokRyConn**
