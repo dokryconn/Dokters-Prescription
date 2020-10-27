@@ -15,14 +15,15 @@ An Autohotkey script suite to make life easier for Windows and **Ableton Live** 
 
 *The program-specific keyboard shortcuts are only enabled while the corresponding program window is active.*
 
+## Optional Shortcuts
 
-- **Launch/Toggle Programs (A-Z and 0-9)** - These shortcuts allow you to launch/toggle specific programs using the following types of keyboard shortcuts:
+- **Launch/Toggle Programs (A-Z and 0-9)** - These shortcuts are disabled by default but can be customized to meet your needs by editing the **`Dok's Rx (Raw).AHK`** script. These shortcuts will allow you to launch/toggle specific programs using the following types of keyboard shortcuts:
 
-  - **[WIN+SHIFT+** *letter key* **]** (i.e. **WIN+SHIFT+A**; **WIN+SHIFT+B**; **WIN+SHIFT+C**; etc.)
+  - **[WIN+SHIFT+** *letter key* **]**
+    - i.e. **WIN+SHIFT+A**; **WIN+SHIFT+B**; **WIN+SHIFT+C**; etc.
 
-  - **[WIN+** *number key* **]** (i.e. **WIN+1**; **WIN+2**; **WIN+3**; etc.)
-
-**Reference the Dok's Rx Guide.xls spreadsheet for the complete list of "Launch/Toggle Programs" shortcuts included by default in `Dokter's Prescription.EXE`.**
+  - **[WIN+** *number key* **]**
+    - i.e. **WIN+1**; **WIN+2**; **WIN+3**; etc.
 
 - **Suspend/Resume Script** - **`[CTRL+ALT+SHIFT+PAUSE]`**.
 
