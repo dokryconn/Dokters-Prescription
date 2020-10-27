@@ -11,7 +11,7 @@ An Autohotkey script suite to make life easier for Windows and **Ableton Live** 
   - **Brave Browser** - 5 custom shortcuts
   - **Windows** - 15 custom shortcuts
 
-Reference the **`Dok's Rx Guide.xls`** spreadsheet for a complete list of keyboard shortcuts included in `Dokter's Prescription.EXE`.
+Reference the **`Dok's Rx Guide.xls`** spreadsheet for the complete list of keyboard shortcuts included in `Dokter's Prescription.EXE`.
 
 *The program-specific keyboard shortcuts are only enabled while the corresponding program window is active.*
 
