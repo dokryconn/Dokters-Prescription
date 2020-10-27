@@ -2,7 +2,7 @@
 An Autohotkey script suite to make life easier for Windows users with several enhanced key commands for Ableton Live users.
 
 
-#	The `Dokter’s Prescription.EXE` script
+#	The `Dokter’s Prescription` script
 
 `Dokter’s Prescription.EXE` enables several shortcuts for Windows and spedific programs such as:
 
