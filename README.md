@@ -60,7 +60,7 @@ _*See the **"Customizing Scripts"** section below, for instructions on activatin
   - **`[WIN+** *number key* **]`**
     - i.e. **`[WIN+1]`**; **`[WIN+2]`**; **`[WIN+3]`**; etc.
 
-- Hotsrings - Hotstrings are used for auto-typing strings of text by typing an abbreviated "hotstring." There are a few hotstring examples included in the `Dok's Rx (Raw).AHK` script. These hotstrings are __disabled by default__ but can be customized to your personal prefernce by editing the **`Dok's Rx (Raw).AHK`** script. 
+- **Hotstrings** - These shortcuts are used for auto-typing strings of text by typing an abbreviated "hotstring." There are a few examples included in the `Dok's Rx (Raw).AHK` script. These hotstrings are __disabled by default__ but can be customized to your personal prefernce by editing the **`Dok's Rx (Raw).AHK`** script. 
 
 #	The "Dok’s Rx Cabinet" folder
 The `Dok's Rx Cabinet` folder contains sub-folders for associated scripts/files referenced by the `Dokter's Prescription.EXE` and `Dok's Rx (Raw).AHK` scripts.
