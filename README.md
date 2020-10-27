@@ -57,18 +57,15 @@ If the “Dok’s Rx Cabinet” folder is not kept within the same location that
 
 #	The `Dok’s Rx` folder
 
-The `Dok’s Rx` folder is stored within `Dok’s Rx Cabinet`; this folder contains:
-- **The `Dok’s Rx Guide.xls` spreadsheet**
+The `Dok’s Rx` folder contains the following items related to  **`Dokter's Prescription.EXE`** and **`Dok's Rx (Raw).AHK`**:
+- The icon files referenced by the the **`Dok's Rx (Raw).AHK`** script.
 
-  - Includes full index of script functions and additional workbook tabs to reference some  native hotkeys for additional programs)
+- **The `Dok’s Rx Guide.xls` spreadsheet**
+  - Includes full index of script functions and additional workbook tabs to reference some native hotkeys for additional programs.
 
 - The **`App Launch Shortcuts`** folder
-  - Used for storing created program shortcut files for launching/toggling apps that were installed by Microsoft Store
-
-- The icon files reference by the the **`Dok's Rx (Raw).AHK`** script.
-
-You can reference the `Dok’s Rx Guide.xls` spreadsheet for a complete list of all default functions that are included within the script. 
-
+  - Used for storing created program shortcut files for launching/toggling apps that were installed by Microsoft Store.
+  
 *The `App Launch Shortcuts` sub-folder within `Dok’s Rx Cabinet\Dok’s Rx` is a location to keep program shortcuts for the "program launch/toggle" optional template code within the **Dokter's Prescription** script.*
 
 *For example, programs that are downloaded from the Microsoft Store are not located in the standard program location. These programs are usually nested within `C:\Program Files\WindowsApps`. Typically, if you attempt the run the programs directly from their native file location, they will not launch properly. For these instances, you can create a program shortcut for these applications and move it into the `App Launch Shortcuts` folder.*
@@ -84,16 +81,20 @@ instead of:
 
 #	The `Over The Counter` folder
 
-The `Over The Counter` folder is used to store additional scripts that can be ran separately.
+The `Over The Counter` folder is used to store additional scripts referenced by **`Dokter's Prescription.EXE`** and **`Dok's Rx (Raw).AHK`**. These scripts can also be launched and used separately without the **`Dokter's Prescription.EXE`** or **`Dok's Rx (Raw).AHK`** running. This folder contains:
 
 This folder contains the following optional scripts:
 
-- The **Ableton Takeover** script:
-  - Launch while running **Dokter's Prescription** with **`[CTRL+ALT+SHIFT+A]`**
-- The **Power & Sleep Hotkeys** script:
+- The **`Ableton Takeover.EXE`** script:
+  - You can launch this script while running **Dokter's Prescription** by pressing **`[CTRL+ALT+SHIFT+A]`**
+  - **`Ableton Takeover.EXE`** suspends certain program processes for specified programs while the Ableton Live window is active and resumes the program processes once the Ableton Live window is no longer active.
+  
+ - The **`Ableton Takeover.AHK`** script:
+  - A raw copy of this AHK script is included for editing 
+ 
+- The **`Power & Sleep Hotkeys.EXE`** script:
   - Launch while running **Dokter's Prescription** with **`[CTRL+ALT+SHIFT+P]`**
-
-- The **Ableton Takeover** script suspends certain program processes for specified programs while the Ableton Live window is active and resumes the program processes once the Ableton Live window is no longer active.
+  
 
 The .EXE version of **Ableton Takeover** includes a "decent" list of "common" programs but should be edited to list specific programs based on which programs you typically have running specifically.
 
@@ -134,9 +135,9 @@ This folder contains the `The Matrix.EXE` script package which is nearly identic
 
 
 
-#	Editing the `Dok's Rx (Raw).AHK`script
+#	Editing the `Dok's Rx (Raw).AHK`, `Ableton Takeover.AHK`, and `Power & Sleep Hotkeys`scripts
 
-You can make changes to the default script functions, by editing the raw .AHK copy of this script:
+You can make changes to the default script functions, by editing the raw .AHK copies of these scripts:
 
 `Dok’s Rx Cabinet\Dok’s Rx\Dok’s Rx Script (Raw).AHK`
 
