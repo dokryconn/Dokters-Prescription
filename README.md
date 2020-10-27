@@ -33,7 +33,7 @@ You can **Exit** this script by pressing **`[CTRL+ALT+SHIFT+END]`**
 
 #	The `Dok’s Rx Cabinet` folder
 
-The `Dok’s Rx Cabinet` folder is created when `Dokter’s Prescription.EXE` is launched. The `Dok's Rx Cabinet` folder is the main directory for all additional scripts/files associated with the **Dokter’s Prescription** script.
+The `Dok’s Rx Cabinet` folder is created when `Dokter’s Prescription.EXE` is launched. The `Dok's Rx Cabinet` folder is the main directory for all additional scripts/files associated with the `**Dokter’s Prescription.EXE**` script.
 
 The `Dok's Rx Cabinet` folder includes the following scripts that can be launched with hotkeys while running the **Dokter's Prescription** script:
 
