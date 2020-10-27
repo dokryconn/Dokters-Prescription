@@ -22,7 +22,7 @@ An Autohotkey script suite to make life easier for Windows and **Ableton Live** 
 
   - **WIN+SHIFT+** *letter key* (i.e. **WIN+SHIFT+A**; **WIN+SHIFT+B**; **WIN+SHIFT+C**; etc.)
 
-**Reference the Dok's Rx Guide.xls spreadsheet for the complete list of **Launch/Toggle Programs** shortcuts included by default in `Dokter's Prescription.EXE`.**
+**Reference the Dok's Rx Guide.xls spreadsheet for the complete list of "Launch/Toggle Programs" shortcuts included by default in `Dokter's Prescription.EXE`.**
 
 - **Suspend/Resume Script** - **`[CTRL+ALT+SHIFT+PAUSE]`**.
 
