@@ -11,16 +11,16 @@ A script suite to make life easier for Windows and **Ableton Live** users.
   - **Google Chrome** - 5 custom shortcuts
   - **Brave Browser** - 5 custom shortcuts
   - **Windows** - 15 custom shortcuts
+  
+**Reference the `Dok's Rx Guide.xls` spreadsheet for the complete list of keyboard shortcuts included in `Dokter's Prescription.EXE`.**
+
+*Program-specific shortcuts are only enabled while the corresponding program window is active.*
 
 - **Suspend/Resume Script** - **`[CTRL+ALT+SHIFT+PAUSE]`**.
 
 - **Exit Script** - **`[CTRL+ALT+SHIFT+END]`**
 
-**Reference the `Dok's Rx Guide.xls` spreadsheet for the complete list of keyboard shortcuts included in `Dokter's Prescription.EXE`.**
-
-*The program-specific keyboard shortcuts are only enabled while the corresponding program window is active.*
-
-_*See the "Customizing Scripts" section below, for instructions on customizing all default shortcuts included in this script. 
+_*See the **"Customizing Scripts"** section below, for instructions on customizing all default shortcuts included in this script._
 
 
 ## Optional* "Dokter’s Prescription" shortcuts
