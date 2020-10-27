@@ -46,7 +46,7 @@ The following additional scripts are stored within the`Dok's Rx Cabinet` folders
 - **Power & Sleep Hotkeys**
 - **Research Chemicals**
 
-These additional packaged scripts can of course be launched manually from `Dok's Rx Cabinet` without hotkeys and used independently without the "Dokter's Prescription" script running.
+These additional packaged scripts can of course be launched manually from `Dok's Rx Cabinet` and used independently without the "Dokter's Prescription" script running.
 
 *If the “Dok’s Rx Cabinet” folder is not kept within the same location that you are running the `Dokter’s Prescription.EXE` script from, the script may run into an error if a hotkey is pressed and the script is unable to locate the associated file within the `Dok’s Rx Cabinet` folder. In regard to this, if the `Dok's Rx Cabinet` folder gets moved or deleted, you can simply recreate it by launching the “Dokter’s Prescription.EXE” file again. Re-launching the `Dokter's Prescription.EXE` script will not overwrite any existing packaged files in `Dok's Rx Cabinet`. In other words, any changes that you have made to files within `Dok's Rx Cabinet` will not be lost by re-launching `Dokter's Prescription.EXE`*
 
