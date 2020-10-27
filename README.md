@@ -83,8 +83,8 @@ The `Over The Counter` folder is used to store additional scripts that can be ra
 
 This folder contains the following optional scripts:
 
-- **Ableton Takeover** Launch while running **Dokter's Prescription** with `**[CTRL+ALT+SHIFT+A]**`
-- **"Power & Sleep Hotkeys** Launch while running **Dokter's Prescription** with `**[CTRL+ALT+SHIFT+P]**`
+- **Ableton Takeover** Launch while running **Dokter's Prescription** with **`[CTRL+ALT+SHIFT+A]`**
+- **Power & Sleep Hotkeys** Launch while running **Dokter's Prescription** with **`[CTRL+ALT+SHIFT+P]`**
 
 - The **Ableton Takeover** script suspends certain program processes for specified programs while the Ableton Live window is active and resumes the program processes once the Ableton Live window is no longer active.
 
