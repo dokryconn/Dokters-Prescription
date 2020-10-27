@@ -2,8 +2,8 @@
 An Autohotkey script suite to make life easier for Windows and **Ableton Live** users.
 
 
-##	The "Dokter’s Prescription.EXE" script
-- The "Dokter’s Prescription.EXE" script enables several different shortcuts for Windows, Ableton Live, and other specific programs:
+##	"Dokter’s Prescription.EXE" default shortcuts
+- The "Dokter’s Prescription.EXE" script enables several shortcuts for Windows, Ableton Live, and other specific programs:
 
   - **Ableton Live** - 47 custom shortcuts
   - **Spotify** - 7 custom shortcuts
@@ -15,7 +15,7 @@ An Autohotkey script suite to make life easier for Windows and **Ableton Live** 
 
 *The program-specific keyboard shortcuts are only enabled while the corresponding program window is active.*
 
-## Optional Shortcuts
+## Optional "Dokter’s Prescription.EXE" script
 
 - **Launch/Toggle Programs (A-Z and 0-9)** - These shortcuts are disabled by default but can be customized to meet your needs by editing the **`Dok's Rx (Raw).AHK`** script. These shortcuts will allow you to launch/toggle specific programs using the following types of keyboard shortcuts:
 
