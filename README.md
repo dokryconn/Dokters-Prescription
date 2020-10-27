@@ -49,7 +49,7 @@ These additional packaged scripts can of course be launched manually from `Dok's
 
 #	The `Dok’s Rx` folder
 The `Dok’s Rx` folder contains the following items related to  **`Dokter's Prescription.EXE`** and **`Dok's Rx (Raw).AHK`**:
-- Icon files referenced by the the **`Dok's Rx (Raw).AHK`** script.
+- **Icon files referenced by the the "Dok's Rx (Raw).AHK" script.**
 
 - **The "Dok’s Rx Guide.xls" spreadsheet**
   - Includes full index of script functions and additional workbook tabs to reference some native hotkeys for additional programs.
@@ -103,7 +103,7 @@ An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Cou
 # The `Research Chemicals` folder
 The `Research Chemicals` folder contains the `Research Chemicals.AHK` script and associated tray icons.
 
-- The **`Research Chemicals.AHK`** script:
+- **The "Research Chemicals.AHK script:**
   - An Autohotkey “testing script” for Autohotkey script development. You can edit this script with functions that you would like to test but do not want to incorporate into your main script.
   - **Display test message - `[CTRL+ALT+SHIFT+T]`**
   - **Identify mouse cursor coordinates - `[CTRL+ALT+SHIFT+C]`**
