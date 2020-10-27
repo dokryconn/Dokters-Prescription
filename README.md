@@ -39,7 +39,7 @@ The `Dok's Rx Cabinet` folder contains the associated files and scripts that are
 The following scripts are included in the`Dok's Rx Cabinet` folder:
 
 - **Ableton Takeover**
-- **Launch "Power & Sleep Hotkeys**
+- **Power & Sleep Hotkeys**
 - **Research Chemicals**
 
 These additional packaged scripts can of course be launched manually from `Dok's Rx Cabinet` without hotkeys and used independently without the "Dokter's Prescription" script running.
