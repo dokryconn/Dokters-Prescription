@@ -1,5 +1,5 @@
 # Dokter's Prescription
-An Autohotkey suite of scripts to make life easier for Windows users with several enhanced key commands for Ableton Live users.
+An Autohotkey suite of scripts to make life easier for Windows users with special focus for Ableton Live users.
 
 
 #	The `Dokter’s Prescription` script
