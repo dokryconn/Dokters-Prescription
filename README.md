@@ -2,7 +2,7 @@
 An Autohotkey script suite to make life easier for Windows and **Ableton Live** users.
 
 
-##	Default "Dokter’s Prescription.EXE" shortcuts
+##	Default "Dokter’s Prescription" shortcuts
 
 - The "Dokter’s Prescription.EXE" script enables several shortcuts for Windows, Ableton Live, and other specific programs:
 
@@ -16,7 +16,7 @@ An Autohotkey script suite to make life easier for Windows and **Ableton Live** 
 
 *The program-specific keyboard shortcuts are only enabled while the corresponding program window is active.*
 
-## Optional "Dokter’s Prescription.EXE" script shortcuts
+## Optional "Dokter’s Prescription" script shortcuts
 
 See the **"Customizing the scripts"** section below, for instructions on how to enable the following optional script shortcuts:
 
