@@ -16,13 +16,13 @@ An Autohotkey script suite to make life easier for Windows and **Ableton Live** 
 *The program-specific keyboard shortcuts are only enabled while the corresponding program window is active.*
 
 
-- **Launch/Toggle Program (A-Z and 0-9)** - These shortcuts allow you to launch/toggle specific programs using the following types of keyboard shortcuts:
+- **Launch/Toggle Programs (A-Z and 0-9)** - These shortcuts allow you to launch/toggle specific programs using the following types of keyboard shortcuts:
 
   - **WIN+** *number key* (i.e. **WIN+1**; **WIN+2**; **WIN+3**; etc.)
 
   - **WIN+SHIFT+** *letter key* (i.e. **WIN+SHIFT+A**; **WIN+SHIFT+B**; **WIN+SHIFT+C**; etc.)
 
-**Reference the Dok's Rx Guide.xls spreadsheet for the complete list of **Launch/Toggle Program** shortcuts included by default in `Dokter's Prescription.EXE`.**
+**Reference the Dok's Rx Guide.xls spreadsheet for the complete list of **Launch/Toggle Programs** shortcuts included by default in `Dokter's Prescription.EXE`.**
 
 - **Suspend/Resume Script** - **`[CTRL+ALT+SHIFT+PAUSE]`**.
 
@@ -120,7 +120,7 @@ You can customize any default script functions by editing the raw .AHK files of 
 
 ## Customizing the **Dokter's Prescription** script
 
-**NOTE:** By default, the `Dokter's Prescription.EXE` script includes **Launch/Toggle Program** shortcuts that are **setup for my preferred programs and file locations**. You will most likely want to customize these shortcuts for ***your own specific programs*** by editing the included `Dok's Rx (Raw).AHK` version of the script. All of the specific default **Launch/Toggle Program** shortcuts have been deactivated in the `Dok's Rx (Raw).AHK` version of the script to keep it in clean, "template code" format. Additionally, there are detailed instruction comments within the `Dok's Rx (Raw).AHK` file to help with editing / customizing.
+**NOTE:** By default, the `Dokter's Prescription.EXE` script includes **Launch/Toggle Programs** shortcuts that are **setup for my preferred programs and file locations**. You will most likely want to customize these shortcuts for ***your own specific programs*** by editing the included `Dok's Rx (Raw).AHK` version of the script. All of the specific default **Launch/Toggle Programs** shortcuts have been deactivated in the `Dok's Rx (Raw).AHK` version of the script to keep it in clean, "template code" format. Additionally, there are detailed instruction comments within the `Dok's Rx (Raw).AHK` file to help with editing / customizing.
 
 1. Ensure that the Autohotkey software is installed on your computer - https://autohotkey.com/
 2. Open the **`Dok's Rx (Raw).AHK`** file in the `Dok's Rx Cabinet\Dok's Rx`folder with any text editor such as `Notepad`; or a script editor such as `SciTE4Autohotkey`.
@@ -130,10 +130,10 @@ You can customize any default script functions by editing the raw .AHK files of 
     - *This will create an .EXE version of the script that will be able to run on computers that do not have the Autohotkey software installed.*
 6. Move your new custom .EXE or .AHK script file into the same folder as the original `Dokter's Prescription.EXE` script file location.
 
-- Customizing the **Launch/Toggle Programs** shortcuts within `Dok's Rx (Raw).AHK`:
-There are several sections of deactivated "template code" within `Dok's Rx (Raw).AHK` for the "Launch/Toggle Program" shortcuts, corresponding to each number, 0 through 9, and letters, A through Z. 
+- Customizing the **Launch/Toggle Programss** shortcuts within `Dok's Rx (Raw).AHK`:
+There are several sections of deactivated "template code" within `Dok's Rx (Raw).AHK` for the "Launch/Toggle Programs" shortcuts, corresponding to each number, 0 through 9, and letters, A through Z. 
 
-  - These deactivated blocks of code can be activated by removing the `/*`and `*/` brackets for each hotkey shortcut. Once these blocks of code are activated, they allow you to launch/toggle program windows using `WIN+(number key)` and/or `WIN+SHIFT+(letter key)` as described previosuly above.
+  - These deactivated blocks of code can be activated by removing the `/*`and `*/` brackets for each hotkey shortcut. Once these blocks of code are activated, they allow you to Launch/Toggle Programs windows using `WIN+(number key)` and/or `WIN+SHIFT+(letter key)` as described previosuly above.
 
   - In addition to removing the comment brackets, you will need to replace portions of the "template code" with the **program name** and **file path** for each desired program. There are detailed instructions on how to customizing these features located in the actual script file via comments labled under: "PLEASE READ - ADJUST FOR YOUR OWN PROGRAMS:""
 
