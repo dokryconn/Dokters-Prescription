@@ -79,10 +79,10 @@ The `Dok’s Rx` folder contains the following items related to  **`Dokter's Pre
 #	The "Over The Counter" folder
 The `Over The Counter` folder contains additional scripts referenced by **`Dokter's Prescription.EXE`** and **`Dok's Rx (Raw).AHK`**. These scripts can also be launched and used independently without the **`Dokter's Prescription.EXE`** or **`Dok's Rx (Raw).AHK`** running. This folder contains:
 
-- **The "Ableton Takeover.EXE" script:**
-  - Suspends program processes of specified programs while the Ableton Live window is active and resumes the program processes once the Ableton Live window is not active.
-  - **Launch Script** while running **Dokter's Prescription** - **`[CTRL+ALT+SHIFT+A]`**
-  - **Exit Script** - **`[CTRL+ALT+SHIFT+DEL]`**
+## The "Ableton Takeover.EXE" script:**
+ - Suspends program processes of specified programs while the Ableton Live window is active and resumes the program processes once the Ableton Live window is not active.
+ - **Launch Script** while running **Dokter's Prescription** - **`[CTRL+ALT+SHIFT+A]`**
+ - **Exit Script** - **`[CTRL+ALT+SHIFT+DEL]`**
 
 Reference the `Ableton Takeover README.txt` for more info and the complete list of default program processes included in the .EXE version of this script.
 
@@ -90,14 +90,14 @@ An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Cou
 
 Reference the `Ableton Takeover README.txt` file for more info and the complete list of default program processes included in the .EXE version of this script.
  
-- **The "Power & Sleep Hotkeys.EXE" script:**
-  - Enables hotkeys to sleep, hibernate, restart, or shutdown your PC. 
-  - **Sleep PC** - **`[CTRL+ALT+SHIFT+ESC]`**
-  - **Resart PC** - **`[CTRL+ALT+SHIFT+F5]`**
-  - **Hibernate PC** - **`[CTRL+ALT+SHIFT+F9]`**
-  - **Shutdown PC** - **`[CTRL+ALT+SHIFT+F12]`**
-  - **Launch Script** while running **Dokter's Prescription** - **`[CTRL+ALT+SHIFT+P]`**
-  - **Exit Script** this script by pressing **`[CTRL+ALT+SHIFT+HOME]`**
+## The "Power & Sleep Hotkeys.EXE" script:**
+ - Enables hotkeys to sleep, hibernate, restart, or shutdown your PC. 
+ - **Sleep PC** - **`[CTRL+ALT+SHIFT+ESC]`**
+ - **Resart PC** - **`[CTRL+ALT+SHIFT+F5]`**
+ - **Hibernate PC** - **`[CTRL+ALT+SHIFT+F9]`**
+ - **Shutdown PC** - **`[CTRL+ALT+SHIFT+F12]`**
+ - **Launch Script** while running **Dokter's Prescription** - **`[CTRL+ALT+SHIFT+P]`**
+ - **Exit Script** this script by pressing **`[CTRL+ALT+SHIFT+HOME]`**
 
 An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Counter\Power & Sleep` for optional customizing. Although the .EXE version of **Power & Sleep Hotkeys** includes the hotkeys shown above, you can edit this script to adjust the hotkeys for your preference. (See the "**Customizing the scripts**" section below.)
 
@@ -106,13 +106,13 @@ An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Cou
 # The "Research Chemicals" folder
 The `Research Chemicals` folder contains the `Research Chemicals.AHK` script and associated tray icons.
 
-- **The "Research Chemicals.AHK script:**
-  - An Autohotkey “testing script” for Autohotkey script development. You can edit this script with functions that you would like to test but do not want to incorporate into your main script.
-  - **Display test message - `[CTRL+ALT+SHIFT+T]`**
-  - **Identify mouse cursor coordinates - `[CTRL+ALT+SHIFT+C]`**
-  - **Launch Script** while running **Dokter's Prescription** - `**[CTRL+ALT+SHIFT+R]**`
-  - **Exit Script - `[CTRL+ALT+SHIFT+DEL]`**
-  - **Save and Reload Script - `[CTRL+S]`**
+## The "Research Chemicals.AHK script:**
+ - An Autohotkey “testing script” for Autohotkey script development. You can edit this script with functions that you would like to test but do not want to incorporate into your main script.
+ - **Display test message - `[CTRL+ALT+SHIFT+T]`**
+ - **Identify mouse cursor coordinates - `[CTRL+ALT+SHIFT+C]`**
+ - **Launch Script** while running **Dokter's Prescription** - `**[CTRL+ALT+SHIFT+R]**`
+ - **Exit Script - `[CTRL+ALT+SHIFT+DEL]`**
+ - **Save and Reload Script - `[CTRL+S]`**
 
 *The Autohotkey software will need to be installed on your computer to run this script, as there is no compiled .EXE version included due to the nature of it's intended usage.*
 
