@@ -28,7 +28,7 @@ Reference the `Dok's Rx Guide.xls` spreadsheet for the complete list of **Launch
 
 - **Exit** this script by pressing **`[CTRL+ALT+SHIFT+END]`**
 
-*See "**Customizing the scripts**" section below, for details on how to customize features of this script*
+*See the "**Customizing the scripts**" section below, for details on how to customize features of this script*
 
 
 
