@@ -71,12 +71,12 @@ You can reference the `Dok’s Rx Guide.xls` spreadsheet for a complete list of 
 
 *The `App Launch Shortcuts` sub-folder within `Dok’s Rx Cabinet\Dok’s Rx` is a location to keep program shortcuts for the "program launch/toggle" optional template code within the **Dokter's Prescription** script.*
 
-  - For example, programs that are downloaded from the Microsoft Store are not located in the standard program location. These programs are usually nested within `C:\Program Files\WindowsApps`. Typically, if you attempt the run the programs directly from their native file location, they will not launch properly. For these instances, you can create a program shortcut for these applications and move it into the `App Launch Shortcuts` folder.
+*For example, programs that are downloaded from the Microsoft Store are not located in the standard program location. These programs are usually nested within `C:\Program Files\WindowsApps`. Typically, if you attempt the run the programs directly from their native file location, they will not launch properly. For these instances, you can create a program shortcut for these applications and move it into the `App Launch Shortcuts` folder.*
 
 i.e. Using the filepath: 
 - `"%A_WorkingDir%\Dok's Rx\App Launch Shortcuts\Microsoft To Do"`
 
-instead of 
+instead of: 
 
 - `"C:\Program Files\WindowsApps\Microsoft.Todos_2.28.32802.0_x64__8wekyb3d8bbwe\ToDo.exe"`
 
@@ -88,8 +88,10 @@ The `Over The Counter` folder is used to store additional scripts that can be ra
 
 This folder contains the following optional scripts:
 
-- **Ableton Takeover** Launch while running **Dokter's Prescription** with **`[CTRL+ALT+SHIFT+A]`**
-- **Power & Sleep Hotkeys** Launch while running **Dokter's Prescription** with **`[CTRL+ALT+SHIFT+P]`**
+- The **Ableton Takeover** script:
+  - Launch while running **Dokter's Prescription** with **`[CTRL+ALT+SHIFT+A]`**
+- The **Power & Sleep Hotkeys** script:
+  - Launch while running **Dokter's Prescription** with **`[CTRL+ALT+SHIFT+P]`**
 
 - The **Ableton Takeover** script suspends certain program processes for specified programs while the Ableton Live window is active and resumes the program processes once the Ableton Live window is no longer active.
 
