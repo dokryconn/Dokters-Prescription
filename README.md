@@ -6,13 +6,13 @@ An Autohotkey script suite to make life easier for Windows users with special fo
 
 `Dokter’s Prescription.EXE` enables several shortcuts for Windows and spedific programs such as:
 
-- **Ableton Live** (**47** custom shortcuts)
-- Spotify (**7** custom shortcuts)
-- Google Chrome (**5** custom shortcuts)
-- Brave Browser (**5** custom shortcuts)
-- Windows (**15** custom shortcuts)
+- **Ableton Live** - **47** custom shortcuts
+- Spotify - **7** custom shortcuts
+- Google Chrome - **5** custom shortcuts
+- Brave Browser - **5** custom shortcuts
+- Windows - **15** custom shortcuts
 
-The program-specific keyboard shortcuts are only enabled while the corresponding program window is active.
+**NOTE:** The program-specific keyboard shortcuts are only enabled while the corresponding program window is active.
 
 - **Launch/Toggle Programs** - There are several blocks of deactivated "template code" included within the script. When these blocks of code are activated by removing the `/*`and `*/` brackets, they allow you to launch/toggle program windows using `WIN+(number key)` and/or `WIN+SHIFT+(letter key)` - In addition to removing the comment bracks to activate these blocks of code, you will need to replace pieces of the "template code" with the **program name** and **filepath** of the desired program. There are further detailed instructions for customizing this feature in the actual script file via comments labled: "PLEASE READ - ADJUST FOR YOUR OWN PROGRAMS:""
 
