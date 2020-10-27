@@ -56,7 +56,7 @@ These additional packaged scripts can of course be launched manually from `Dok's
 The `Dok’s Rx` folder contains the following items referenced by the  **`Dokter's Prescription.EXE`** and **`Dok's Rx (Raw).AHK`** scripts:
 
 - **The "Dok’s Rx Guide.xls" spreadsheet**
-  - Includes full index of script functions and additional workbook tabs to reference some native hotkeys for additional programs.
+  - Includes a full list of default script functions and includes additional workbook tabs for referencing native hotkeys for a few additional programs.
 
 - **The "App Launch Shortcuts" folder**
   - Used for storing created program shortcut files for launching/toggling apps that were installed by Microsoft Store.
@@ -93,8 +93,8 @@ Reference the `Ableton Takeover README.txt` for more info and the complete list 
 
 An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Counter\Ableton Takeover` for optional customizing. Although the .EXE version of **Ableton Takeover** includes a *decent* list of *common* programs, you can edit this script to include the program processes that are typically running while you are using Ableton Live. (See "Customizing Scripts" section below.)
 
-Reference the `Ableton Takeover README.txt` file for more info and the complete list of default program processes included in the .EXE version of this script.
- 
+
+
 ## The "Power & Sleep Hotkeys.EXE" script:
  - Enables hotkeys to sleep, hibernate, restart, or shutdown your PC. 
  - **Sleep PC** - **`[CTRL+ALT+SHIFT+ESC]`**
