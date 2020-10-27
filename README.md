@@ -4,7 +4,7 @@ An Autohotkey script suite to make life easier for Windows users with special fo
 
 #	The `Dokter’s Prescription.EXE` script
 
-`Dokter’s Prescription.EXE` enables several kinds of shortcuts for Windows and spedific programs. 
+`Dokter’s Prescription.EXE` enables several kinds of shortcuts for Windows and specific programs:
 
 - **Ableton Live** - 47 custom shortcuts
 - **Spotify** - 7 custom shortcuts
@@ -20,9 +20,9 @@ An Autohotkey script suite to make life easier for Windows users with special fo
 
 `WIN+SHIFT+(letter key)` - (i.e. `WIN+SHIFT+A`, `WIN+SHIFT+B`, `WIN+SHIFT+C`)
 
-**NOTE:** By default, `Dokter's Prescription.EXE` includes program launch/toggle shortcuts that are **specific for my preferred programs and file locations**. You can reference the programs used that are included by default within `Dokter's Prescription.EXE` with the included `Dok's Rx Guide.xls` spreadsheet. You will most likely want to customize these shortcuts for ***your own specific programs***. You can easily do this by editing the `Dok's Rx Script (Raw).AHK` script. (See "Editing the `Dok's Rx Script (Raw).AHK`script" section below for more info).
+**NOTE:** By default, `Dokter's Prescription.EXE` includes program launch/toggle shortcuts that are **specific for my preferred programs and file locations**. You can reference the default programs that are included within `Dokter's Prescription.EXE` in the `Dok's Rx Guide.xls` spreadsheet. You will most likely want to customize these shortcuts for ***your own specific programs***. You can easily do this by editing the `Dok's Rx (Raw).AHK` script. (See "Editing the `Dok's Rx (Raw).AHK`script" section below for more info).
 
-Once you have customized the **Launch/Toggle Program** shortcuts within `Dok's Rx Script (Raw).AHK`, you can compile it into an .EXE file by right-clicking the .AHK file and selecting "Compile Script." This will create an .EXE version of the script that will be able to run on computers that do not have the Autohotkey software installed. 
+Once you have customized the **Launch/Toggle Program** shortcuts within `Dok's Rx (Raw).AHK`, you can compile it into an .EXE file by right-clicking the .AHK file and selecting "Compile Script." This will create an .EXE version of the script that will be able to run on computers that do not have the Autohotkey software installed. 
 
 Finally, you can replace the original `Dokter's Prescription.EXE` file with your new customized/compiled .EXE script. (Make sure your new compiled .EXE script is moved into the same folder location of the original `Dokter's Prescription.EXE` to ensure that the new .EXE script links to the associated files in `Dok's Rx Cabinet` appropriately.
 
@@ -127,13 +127,13 @@ This folder contains the `The Matrix.EXE` script package which is nearly identic
 
 
 
-#	Editing the `Dok's Rx Script (Raw).AHK`script
+#	Editing the `Dok's Rx (Raw).AHK`script
 
 You can make changes to the default script functions, by editing the raw .AHK copy of this script:
 
 `Dok’s Rx Cabinet\Dok’s Rx\Dok’s Rx Script (Raw).AHK`
 
-- **Launch/Toggle Programs** - There are several blocks of deactivated "template code" included within `Dok's Rx Script (Raw).AHK`. These blocks of code can be activated by removing the `/*`and `*/` brackets for each block. When activated, they allow you to launch/toggle program windows using `WIN+(number key)` and/or `WIN+SHIFT+(letter key)` - In addition to removing the comment brackets, you will need to replace portions of the "template code" with the **program name** and **file path** for each desired program. There are detailed instructions on how to customizing these features located in the actual script file via comments labled under: "PLEASE READ - ADJUST FOR YOUR OWN PROGRAMS:""
+- **Launch/Toggle Programs** - There are several blocks of deactivated "template code" included within `Dok's Rx (Raw).AHK`. These blocks of code can be activated by removing the `/*`and `*/` brackets for each block. When activated, they allow you to launch/toggle program windows using `WIN+(number key)` and/or `WIN+SHIFT+(letter key)` - In addition to removing the comment brackets, you will need to replace portions of the "template code" with the **program name** and **file path** for each desired program. There are detailed instructions on how to customizing these features located in the actual script file via comments labled under: "PLEASE READ - ADJUST FOR YOUR OWN PROGRAMS:""
 
 **NOTE:** You will need Autohotkey installed on your computer to run the .AHK file as an active script. - https://www.autohotkey.com
 
