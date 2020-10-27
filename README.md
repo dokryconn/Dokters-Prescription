@@ -14,7 +14,7 @@ An Autohotkey script suite to make life easier for Windows users with several en
 
 The program-specific keyboard shortcuts are only enabled while the corresponding program window is active.
 
-- Additional template code included in  script allows you to launch / toggle programs using `WIN+(number key)` or `WIN+SHIFT+(letter key)` - You will need to edit the script to activate these blocks of code for your specific programs. Detailed instructions for customizing this feature are included in the script file comments can be referenced while editing the script. These program specific keyboard shortcuts will only be enabled while the corresponding program window is active.
+- Additional template code is included within the script which allows you to launch / toggle programs using `WIN+(number key)` or `WIN+SHIFT+(letter key)` - You will need to edit the script to activate these blocks of code for your specific programs. Detailed instructions for customizing this feature are included in the script file comments can be referenced while editing the script. These program specific keyboard shortcuts will only be enabled while the corresponding program window is active.
 
 
 
