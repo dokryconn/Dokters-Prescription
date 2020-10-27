@@ -2,31 +2,33 @@
 An Autohotkey script suite to make life easier for Windows users with special focus for **Ableton Live** users.
 
 
-#	The `Dokter’s Prescription` script
+#	The `Dokter’s Prescription.EXE` script
 
-`Dokter’s Prescription.EXE` enables several different shortcuts for Windows and spedific programs such as:
+`Dokter’s Prescription.EXE` enables several kinds of shortcuts for Windows and spedific programs. 
 
 - **Ableton Live** - 47 custom shortcuts
 - **Spotify** - 7 custom shortcuts
 - **Google Chrome** - 5 custom shortcuts
 - **Brave Browser** - 5 custom shortcuts
-- **Windows** - 5 custom shortcuts
+- **Windows** - 15 custom shortcuts
 
 **NOTE:** The program-specific keyboard shortcuts are only enabled while the corresponding program window is active.
 
-- **Launch/Toggle Programs** - There are several blocks of deactivated "template code" included within the script. When these blocks of code are activated by removing the `/*`and `*/` brackets, they allow you to launch/toggle program windows using `WIN+(number key)` and/or `WIN+SHIFT+(letter key)` - In addition to removing the comment bracks to activate these blocks of code, you will need to replace pieces of the "template code" with the **program name** and **filepath** of the desired program. There are further detailed instructions for customizing this feature in the actual script file via comments labled: "PLEASE READ - ADJUST FOR YOUR OWN PROGRAMS:""
+- **Launch/Toggle Programs** - These features allow you to launch/toggle specified programs using these groups of keyboard shortcuts:
 
-Enabling these features will assign program launch/toggle functions to these groups of keyboard shortcuts:
+`WIN+(number key)` - (i.e. `WIN+1`, `WIN+2`, `WIN+3`, etc..)
 
-`WIN+(number key)` (i.e. `WIN+1`, `WIN+2`, `WIN+3`, etc..)
+`WIN+SHIFT+(letter key)` - (i.e. `WIN+SHIFT+A`, `WIN+SHIFT+B`, `WIN+SHIFT+C`)
 
-`WIN+SHIFT+(letter key)` (i.e. `WIN+SHIFT+A`, `WIN+SHIFT+B`, `WIN+SHIFT+C`)
+**NOTE:** By default, `Dokter's Prescription.EXE` includes shortcuts that are specific to my preferred programs and file locations. You can reference the default **Launch/Toggle Programs** configurations that come inside of `Dokter's Prescription.EXE` by reviewing the included `Dok's Rx Guide.xls` spreadsheet. You will most likely want to customize these shortcuts for your own specific programs. You can easily do this by editing the `Dok's Rx Script (Raw).AHK` script. (See "Editing the `Dok's Rx Script (Raw).AHK`script" below for more info.)
 
+Once you have customized the shortcuts within `Dok's Rx Script (Raw).AHK`, you may compile it into a .EXE file by right-clicking the .AHK file and selecting "Compile Script." 
 
+This will create a .EXE version of the script that you can run on computers without Autohotkey installed. You can also replace the original `Dokter's Prescription.EXE` file with your newcustomized and compiled script.
 
-You can suspend the script functions by pressing **`[CTRL+ALT+SHIFT+PAUSE]`**.
+See "Editing the `Dok's Rx Script (Raw).AHK`script" below for more info.
 
-You can resume the script by pressing **`[CTRL+ALT+SHIFT+PAUSE]`** again.
+- **Suspend/Resume `Dokter's Prescription.EXE`** - **`[CTRL+ALT+SHIFT+PAUSE]`**
 
 
 
@@ -131,6 +133,8 @@ This folder contains the `The Matrix.EXE` script package which is nearly identic
 You can make changes to the default script functions, by editing the raw .AHK copy of this script:
 
 `Dok’s Rx Cabinet\Dok’s Rx\Dok’s Rx Script (Raw).AHK`
+
+- **Launch/Toggle Programs** - There are several blocks of deactivated "template code" included within `Dok's Rx Script (Raw).AHK`. These blocks of code can be activated by removing the `/*`and `*/` brackets for each block. When activated, they allow you to launch/toggle program windows using `WIN+(number key)` and/or `WIN+SHIFT+(letter key)` - In addition to removing the comment brackets, you will need to replace portions of the "template code" with the **program name** and **file path** for each desired program. There are detailed instructions on how to customizing these features located in the actual script file via comments labled under: "PLEASE READ - ADJUST FOR YOUR OWN PROGRAMS:""
 
 **NOTE:** You will need Autohotkey installed on your computer to run the .AHK file as an active script. - https://www.autohotkey.com
 
