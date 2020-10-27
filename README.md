@@ -61,7 +61,8 @@ The `Dok’s Rx` folder contains the following items related to  **`Dokter's Pre
 
 *For example, programs that are downloaded from the Microsoft Store are not located in the standard program location. These programs are usually nested within `C:\Program Files\WindowsApps`. Typically, if you attempt the run the programs directly from their native file location, they will not launch properly. For these instances, you can create a program shortcut for these applications and move it into the `App Launch Shortcuts` folder.*
 
-*i.e. Using the filepath:* 
+*i.e. Using the filepath:*
+
 `"%A_WorkingDir%\Dok's Rx\App Launch Shortcuts\Microsoft To Do"`
 
 *instead of:* 
