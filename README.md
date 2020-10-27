@@ -32,7 +32,7 @@ An Autohotkey script suite to make life easier for Windows and **Ableton Live** 
 
 
 
-#	The `Dok’s Rx Cabinet` folder
+#	The "Dok’s Rx Cabinet" folder
 The `Dok's Rx Cabinet` folder contains the folders for associated scripts/files referenced by the `Dokter's Prescription.EXE` and `Dok's Rx (Raw).AHK` scripts.
 
 The following additional scripts are included within the`Dok's Rx Cabinet` folders:
@@ -47,7 +47,7 @@ These additional packaged scripts can of course be launched manually from `Dok's
 
 
 
-#	The `Dok’s Rx` folder
+#	The "Dok’s Rx" folder
 The `Dok’s Rx` folder contains the following items related to  **`Dokter's Prescription.EXE`** and **`Dok's Rx (Raw).AHK`**:
 
 - **The "Dok’s Rx Guide.xls" spreadsheet**
@@ -103,7 +103,7 @@ An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Cou
 
 
 
-# The `Research Chemicals` folder
+# The "Research Chemicals" folder
 The `Research Chemicals` folder contains the `Research Chemicals.AHK` script and associated tray icons.
 
 - **The "Research Chemicals.AHK script:**
@@ -119,7 +119,6 @@ The `Research Chemicals` folder contains the `Research Chemicals.AHK` script and
 
 
 #	Customizing the scripts
-You can customize any default script functions by editing the raw .AHK files of each script. 
 
 ## Customizing the **Dokter's Prescription** script
 
