@@ -16,9 +16,9 @@ A script suite to make life easier for Windows and **Ableton Live** users.
 
 *The program-specific keyboard shortcuts are only enabled while the corresponding program window is active.*
 
-## Optional "Dokter’s Prescription" shortcuts
+## Optional_ "Dokter’s Prescription" shortcuts
 
-*See the **"Customizing the scripts"** section below, for instructions on how to enable the following optional shortcuts:*
+* *See the **"Customizing the scripts"** section below, for instructions on how to enable the following optional shortcuts:*
 
 - **A-Z Launch/Toggle Programs** - These shortcuts are __disabled by default__ but can be customized to your prefernce by editing the **`Dok's Rx (Raw).AHK`** script. These keyboard shortcuts will launch the specified program if it is not currently running, **OR** toggle the program window if the program is currently running.
 
