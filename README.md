@@ -28,11 +28,11 @@ _*See the **"Customizing Scripts"** section below, for instructions on customizi
 ### Windows shortcuts
 - Launch File Explorer ("C:\Users"):
 
-`[CTRL+TILDE]`
+  - `[CTRL+TILDE]`
 
 - Capture Screenshot:
 
-`[PRINTSCREEN]`
+  - `[PRINTSCREEN]`
 
 - Quit Program - `[WIN+Q]`
 - Close Window/Tab - `[WIN+W]`
