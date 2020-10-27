@@ -12,7 +12,7 @@ An Autohotkey script suite to make life easier for Windows users with special fo
   - **Brave Browser** - 5 custom shortcuts
   - **Windows** - 15 custom shortcuts
 
-**NOTE:** The program-specific keyboard shortcuts are only enabled while the corresponding program window is active.
+  - **NOTE:** The program-specific keyboard shortcuts are only enabled while the corresponding program window is active.
 
 You can reference all default shortcuts that come with the `Dokter's Prescription.EXE` script in the `Dok's Rx Guide.xls` spreadsheet.
 
