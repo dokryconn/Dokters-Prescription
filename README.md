@@ -20,7 +20,7 @@ An Autohotkey script suite to make life easier for Windows users with special fo
 
 `WIN+SHIFT+(letter key)` - (i.e. `WIN+SHIFT+A`, `WIN+SHIFT+B`, `WIN+SHIFT+C`)
 
-**NOTE:** By default, `Dokter's Prescription.EXE` includes program launch/toggle keyboard shortcuts that are specific to my preferred programs and file locations. You can reference the default programs used that come included within `Dokter's Prescription.EXE` by reviewing the included `Dok's Rx Guide.xls` spreadsheet. You will most likely want to customize these shortcuts for your own specific programs. You can easily do this by editing the `Dok's Rx Script (Raw).AHK` script. (See "Editing the `Dok's Rx Script (Raw).AHK`script" section below for more info.)
+**NOTE:** By default, `Dokter's Prescription.EXE` includes program launch/toggle shortcuts that are specific to my preferred programs and file locations. You can reference the default programs used that come included within `Dokter's Prescription.EXE` by reviewing the included `Dok's Rx Guide.xls` spreadsheet. You will most likely want to customize these shortcuts for your own specific programs. You can easily do this by editing the `Dok's Rx Script (Raw).AHK` script. (See "Editing the `Dok's Rx Script (Raw).AHK`script" section below for more info.)
 
 Once you have customized the launch/toggle program shortcuts within `Dok's Rx Script (Raw).AHK`, you can compile it into a .EXE file by right-clicking the .AHK file and selecting "Compile Script." 
 
