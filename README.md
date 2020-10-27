@@ -39,7 +39,7 @@ You can **Exit** this script by pressing **`[CTRL+ALT+SHIFT+END]`**
 
 The `Dok's Rx Cabinet` folder contains the associated files and scripts that are reference by the `Dokter's Prescription.EXE` script.
 
-The `Dok's Rx Cabinet` folder includes the following scripts that can be launched with hotkeys while running the **Dokter's Prescription** script:
+The `Dok's Rx Cabinet` folder includes the following scripts that can be launched by hotkeys while running the **Dokter's Prescription** script:
 
 - **Launch "Ableton Takeover" script: `[CTRL+ALT+SHIFT+A]`**
 
@@ -49,9 +49,9 @@ The `Dok's Rx Cabinet` folder includes the following scripts that can be launche
 
 - **Launch "Research Chemicals" script: `[CTRL+ALT+SHIFT+R]`**
 
-These additional packaged scripts can of course be launched manually from `Dok's Rx Cabinet` without using these hotkeys and independently used without the "Dokter's Prescription" script running.
+These additional packaged scripts can of course be launched manually from `Dok's Rx Cabinet` without hotkeys and used independently without the "Dokter's Prescription" script running.
 
-If the “Dok’s Rx Cabinet” folder is not kept within the same location that you are running the `Dokter’s Prescription.EXE` script from, the script may run into a harmless error when a hotkey is pressed and is unable to locate the associated file stored within the `Dok’s Rx Cabinet` folder. If the `Dok's Rx Cabinet` folder gets deleted or moved you can simply recreate it by launching the “Dokter’s Prescription.EXE” file again. Re-launching the `Dokter's Prescription.EXE` script will not overwrite any packaged files in `Dok's Rx Cabinet` if they already exist. In other words, any changes that you have made to the .AHK scripts within `Dok's Rx Cabinet` will not be lost when re-launching `Dokter's Prescription.EXE`
+*If the “Dok’s Rx Cabinet” folder is not kept within the same location that you are running the `Dokter’s Prescription.EXE` script from, the script may run into a harmless error when a hotkey is pressed and is unable to locate the associated file stored within the `Dok’s Rx Cabinet` folder. If the `Dok's Rx Cabinet` folder gets deleted or moved you can simply recreate it by launching the “Dokter’s Prescription.EXE” file again. Re-launching the `Dokter's Prescription.EXE` script will not overwrite any packaged files in `Dok's Rx Cabinet` if they already exist. In other words, any changes that you have made to the .AHK scripts within `Dok's Rx Cabinet` will not be lost when re-launching `Dokter's Prescription.EXE`*
 
 
 
@@ -70,10 +70,10 @@ The `Dok’s Rx` folder contains the following items related to  **`Dokter's Pre
 
 *For example, programs that are downloaded from the Microsoft Store are not located in the standard program location. These programs are usually nested within `C:\Program Files\WindowsApps`. Typically, if you attempt the run the programs directly from their native file location, they will not launch properly. For these instances, you can create a program shortcut for these applications and move it into the `App Launch Shortcuts` folder.*
 
-i.e. Using the filepath: 
+*i.e. Using the filepath:* 
 - `"%A_WorkingDir%\Dok's Rx\App Launch Shortcuts\Microsoft To Do"`
 
-instead of: 
+*instead of:* 
 
 - `"C:\Program Files\WindowsApps\Microsoft.Todos_2.28.32802.0_x64__8wekyb3d8bbwe\ToDo.exe"`
 
@@ -81,26 +81,24 @@ instead of:
 
 #	The `Over The Counter` folder
 
-The `Over The Counter` folder is used to store additional scripts referenced by **`Dokter's Prescription.EXE`** and **`Dok's Rx (Raw).AHK`**. These scripts can also be launched and used separately without the **`Dokter's Prescription.EXE`** or **`Dok's Rx (Raw).AHK`** running. This folder contains:
-
-This folder contains the following optional scripts:
+The `Over The Counter` folder contains additional scripts referenced by **`Dokter's Prescription.EXE`** and **`Dok's Rx (Raw).AHK`**. These scripts can also be launched and used independently without the **`Dokter's Prescription.EXE`** or **`Dok's Rx (Raw).AHK`** running. This folder contains:
 
 - The **`Ableton Takeover.EXE`** script:
-  - You can launch this script while running **Dokter's Prescription** by pressing **`[CTRL+ALT+SHIFT+A]`**
   - **`Ableton Takeover.EXE`** suspends certain program processes for specified programs while the Ableton Live window is active and resumes the program processes once the Ableton Live window is no longer active.
-  
- - The **`Ableton Takeover.AHK`** script:
-  - A raw copy of this AHK script is included for editing 
+  - You can launch this script while running **Dokter's Prescription** by pressing **`[CTRL+ALT+SHIFT+A]`**
  
 - The **`Power & Sleep Hotkeys.EXE`** script:
   - Launch while running **Dokter's Prescription** with **`[CTRL+ALT+SHIFT+P]`**
   
+  
+ - The **`Ableton Takeover.AHK`** script:
+  - A raw copy of this AHK script is included for editing 
 
-The .EXE version of **Ableton Takeover** includes a "decent" list of "common" programs but should be edited to list specific programs based on which programs you typically have running specifically.
+The .EXE version of **Ableton Takeover** includes a *decent* list of *common* programs but can be edited to include the program processes that are typically running while you are using Ableton Live. (See the **`Ableton Takeover.AHK`** bullet section below)
 
-It is recommended that the raw .AHK version of **Ableton Takeover** is edited for customization. The .AHK version will require Autohotkey to be installed on your computer to run. However, once Autohotkey is installed on your computer, you can right-click the .AHK file and select “Compile Script” to create a .EXE version for use on all computers.
+You can edit the raw .AHK version, **`Ableton Takeover.AHK`** to include the program processes of your choice. The .AHK version will require Autohotkey to be installed on your computer to run. However, once Autohotkey is installed on your computer, you can right-click the .AHK file and select “Compile Script” to create an .EXE version for use on all PC computers.
 
-Reference the `“Ableton Takeover README.txt”` for more information and a specific list of the default programs included in the .EXE version of this script.
+Reference the included `“Ableton Takeover README.txt”` for more information and a specific list of the default programs included in the .EXE version of this script.
 
 
 - The **“Power & Sleep Hotkeys”** script assigns hotkeys to sleep, hibernate, or shutdown your PC.  
