@@ -26,7 +26,7 @@ Once you have customized the **Launch/Toggle Program** shortcuts within `Dok's R
 
 Finally, you can replace the original `Dokter's Prescription.EXE` file with your new customized/compiled .EXE script. (Make sure your new compiled script is kept in the same folder location of the original `Dokter's Prescription.EXE` and launched from there - this will ensure that the new .EXE script will link to the associated files in `Dok's Rx Cabinet` appropriately.
 
-- **Suspend/Resume `Dokter's Prescription.EXE`** - **`[CTRL+ALT+SHIFT+PAUSE]`**
+You can **Suspend / Resume** `Dokter's Prescription.EXE` by pressing **`[CTRL+ALT+SHIFT+PAUSE]`**.
 
 
 
