@@ -86,43 +86,37 @@ An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Cou
 Reference the included `“Ableton Takeover README.txt”` for more info and a list of the default program processes included in the .EXE version of this script.
  
 - The **`Power & Sleep Hotkeys.EXE`** script:
-  - **Launch Script** while running **Dokter's Prescription** - **`[CTRL+ALT+SHIFT+P]`**
   
   - **Sleep PC** - **`CTRL+ALT+SHIFT+ESC`**
   - **Resart PC** - **`CTRL+ALT+SHIFT+F5`**
   - **Hibernate PC** - **`CTRL+ALT+SHIFT+F9`**
   - **Shutdown PC** - **`CTRL+ALT+SHIFT+F12`**
-  
+  - **Launch Script** while running **Dokter's Prescription** - **`[CTRL+ALT+SHIFT+P]`**
   - **Exit Script** this script by pressing **`CTRL+ALT+SHIFT+HOME`**
 
-An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Counter\Power & Sleep` for optional customizing. Although the .EXE version of **Power & Sleep Hotkeys** includes specific hotkey functions, you can edit this script to adjust the specific hotkeys used  that are typically running while you are using Ableton Live. (See "Customizing the scripts" section below.)
+An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Counter\Power & Sleep` for optional customizing. Although the .EXE version of **Power & Sleep Hotkeys** includes the hotkeys shown above, you can edit this script to adjust the hotkeys for your preference. (See the "**Customizing the scripts**" section below.)
 
 Reference the included `“Ableton Takeover README.txt”` for more information and a specific list of the default programs included in the .EXE version of this script.
 
 
-- The **“Power & Sleep Hotkeys”** script assigns hotkeys to sleep, hibernate, or shutdown your PC.  
-See the `Power & Sleep Hotkeys README.txt` for more information.
-
+- The **“Power & Sleep Hotkeys”** script assigns hotkeys to sleep, hibernate, restart, or shutdown your PC.  
 
 
 
 # The `Research Chemicals` folder
 
-The `The Research Chemicals` folder within the `Dok’s Rx Cabinet` folder contains the `Research Chemicals.AHK` script and associated icons.
+The `The Research Chemicals` folder within the contains the `Research Chemicals.AHK` script and associated tray icons.
 
-- **Research Chemicals** - ** Launch while running **"Dokter's Prescription"** with `**[CTRL+ALT+SHIFT+R]**`
+- The **`Research Chemicals.AHK`** script:
+  - The `Research Chemicals.AHK` script is an Autohotkey “testing script” for Autohotkey script development. You can edit this script with functions that you would like to test but do not want to incorporate into your main script.
+  - **Display test message - `[CTRL+ALT+SHIFT+T]`**
+  - **Identify mouse cursor coordinates - `[CTRL+ALT+SHIFT+C]`**
+  - **Launch Script** while running **Dokter's Prescription** - `**[CTRL+ALT+SHIFT+R]**`
+  - **Exit Script - `[CTRL+ALT+SHIFT+DEL]`**
+  - **Save and Reload Script - `[CTRL+S]`**
 
-The purpose of the `Research Chemicals.AHK` script is to have a “test script” readily available for Autohotkey script development/testing. Autohotkey will need to be installed on your computer to run this script. You can edit this script with Autohotkey functions that you would like to test but do not want to commit into your main running script.
+*The Autohotkey software will need to be installed on your computer to run this script, as there is no compiled .EXE version included due to the nature of it's intended usage.*
 
-By default, the only functions included in the Research Chemicals script are:
-
-**LAUNCH  A TEST MESSAGE BOX: `[CTRL+ALT+SHIFT+T]`**
-
-**IDENTIFY CURSOR POSITION: `[CTRL+ALT+SHIFT+C]`**
-
-**EXIT SCRIPT: `[CTRL+ALT+SHIFT+DEL]`**
-
-**SAVE AND RELOAD SCRIPT: `[CTRL+S]`**
 
 
 
