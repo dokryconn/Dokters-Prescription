@@ -12,9 +12,9 @@ A script suite to make life easier for Windows and **Ableton Live** users.
   - **Brave Browser** - 5 custom shortcuts
   - **Windows** - 15 custom shortcuts
 
-  - **Suspend/Resume Script** - **`[CTRL+ALT+SHIFT+PAUSE]`**.
+- **Suspend/Resume Script** - **`[CTRL+ALT+SHIFT+PAUSE]`**.
 
-  - **Exit Script** - **`[CTRL+ALT+SHIFT+END]`**
+- **Exit Script** - **`[CTRL+ALT+SHIFT+END]`**
 
 **Reference the `Dok's Rx Guide.xls` spreadsheet for the complete list of keyboard shortcuts included in `Dokter's Prescription.EXE`.**
 
