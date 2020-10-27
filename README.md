@@ -23,7 +23,25 @@ A script suite to make life easier for Windows and **Ableton Live** users.
 _*See the **"Customizing Scripts"** section below, for instructions on customizing all default shortcuts included in this script._
 
 ### Ableton Live shortcuts
+- Please reference the **"Dok's Rx Guide.xls"** spreadsheet to review the 47 different keyboard shortcuts included in this script for Abeton Live.
 
+### Windows shortcuts
+- Launch File Explorer ("C:\Users") - `[CTRL+TILDE]`
+- Capture Screenshot - `[PRINTSCREEN]`
+- Quit Program - `[WIN+Q]`
+- Close Window/Tab - `[WIN+W]`
+- Minimize Window - `[WIN+DOWN]`
+- Maximize Window - `[WIN+UP]`
+- "Menu Key" remapped as `[WIN]` key
+- Uppercase Selected Text - `[CTRL+SHIFT+U]`
+- Lowercase Selected Text - `[CTRL+SHIFT+L]`
+- Invert Case of Selected Text - `[CTRL+SHIFT+I]`
+- Play / Pause Media - `[ALT+P]`
+- Previous Track - `[ALT+>]`
+- Next Track - `[ALT+<]`
+- Mute Media - `[ALT+M]`
+- Volume Up - `[ALT+ +]`
+- Volume Down - `[ALT+ -]`
 ## Optional* "Dokter’s Prescription" shortcuts
 
 _*See the **"Customizing Scripts"** section below, for instructions on activating the following optional shortcuts:_
