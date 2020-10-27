@@ -12,23 +12,23 @@ An Autohotkey script suite to make life easier for Windows users with special fo
   - **Brave Browser** - 5 custom shortcuts
   - **Windows** - 15 custom shortcuts
 
-  - **NOTE:** The program-specific keyboard shortcuts are only enabled while the corresponding program window is active.
+**NOTE:** The program-specific keyboard shortcuts are only enabled while the corresponding program window is active.
 
 You can reference all default shortcuts that come with the `Dokter's Prescription.EXE` script in the `Dok's Rx Guide.xls` spreadsheet.
 
 - **Launch/Toggle Program** - These shortcuts allow you to launch/toggle specific programs using the following types of keyboard shortcuts:
 
-`WIN+(number key)` - (i.e. `WIN+1`, `WIN+2`, `WIN+3`, etc..)
+`WIN+(number key)` (i.e. `WIN+1`, `WIN+2`, `WIN+3`, etc..)
 
-`WIN+SHIFT+(letter key)` - (i.e. `WIN+SHIFT+A`, `WIN+SHIFT+B`, `WIN+SHIFT+C`)
+`WIN+SHIFT+(letter key)` (i.e. `WIN+SHIFT+A`, `WIN+SHIFT+B`, `WIN+SHIFT+C`)
 
-**NOTE:** By default, `Dokter's Prescription.EXE` includes **Launch/Toggle Program** shortcuts that are **specific for my preferred programs and file locations**. You can reference the default programs that come  with the `Dokter's Prescription.EXE` script in the `Dok's Rx Guide.xls` spreadsheet. You will most likely want to customize these shortcuts for ***your own specific programs***. You can easily do this by editing the `Dok's Rx (Raw).AHK` script located in the `Dok's Rx Cabinet\Dok's Rx` folder. 
+**NOTE:** *By default, `Dokter's Prescription.EXE` includes **Launch/Toggle Program** shortcuts that are **specific for my preferred programs and file locations**. You can reference the default programs that come  with the `Dokter's Prescription.EXE` script in the `Dok's Rx Guide.xls` spreadsheet. You will most likely want to customize these shortcuts for ***your own specific programs***. You can easily do this by editing the `Dok's Rx (Raw).AHK` script located in the `Dok's Rx Cabinet\Dok's Rx` folder.*
 
-Once you have customized the **Launch/Toggle Program** shortcuts in the `Dok's Rx (Raw).AHK` script, you can compile it into an .EXE file by right-clicking the .AHK file and selecting "Compile Script." This will create an .EXE version of the script that will be able to run on computers without the Autohotkey software installed. 
+*nce you have customized the **Launch/Toggle Program** shortcuts in the `Dok's Rx (Raw).AHK` script, you can compile it into an .EXE file by right-clicking the .AHK file and selecting "Compile Script." This will create an .EXE version of the script that will be able to run on computers without the Autohotkey software installed.*
 
-Finally, you can replace the original `Dokter's Prescription.EXE` file with your new customized/compiled .EXE script. Make sure that your new compiled .EXE script is moved into the same folder location of the original `Dokter's Prescription.EXE` to ensure that your new .EXE script can reference the associated files in the `Dok's Rx Cabinet` folder appropriately.
+*Finally, you can replace the original `Dokter's Prescription.EXE` file with your new customized/compiled .EXE script. Make sure that your new compiled .EXE script is moved into the same folder location of the original `Dokter's Prescription.EXE` to ensure that your new .EXE script can reference the associated files in the `Dok's Rx Cabinet` folder appropriately.*
 
-(See the section, "Editing the `Dok's Rx (Raw).AHK`script" below for more info on).
+*(See the section, "Customizing the .AHK scripts" below for more info on).*
 
 You can **Suspend/Resume** all features of `Dokter's Prescription.EXE` by toggling with **`[CTRL+ALT+SHIFT+PAUSE]`**.
 
@@ -135,7 +135,7 @@ This folder contains the `The Matrix.EXE` script package which is nearly identic
 
 
 
-#	Customizing the scripts with the raw .AHK files
+#	Customizing the .AHK scripts
 ## `Dok's Rx (Raw).AHK`, `Ableton Takeover.AHK`, and `Power & Sleep Hotkeys`scripts
 
 You can make changes to the default script functions, by editing the raw .AHK copies of these scripts:
