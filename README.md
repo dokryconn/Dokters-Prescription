@@ -8,12 +8,12 @@ A script suite to make life easier for Windows and **Ableton Live** users.
 
 **NOTE: For the complete list of keyboard shortcuts, reference the included `Dok's Rx Guide.xls` spreadsheet**
 
-  - **Windows** - 15 keyboard shortcuts
-  - **Ableton Live** - 47 keyboard shortcuts
-  - **Spotify** - 9 keyboard shortcuts
-  - **Google Chrome** - 5 keyboard shortcuts
-  - **Brave Browser** - 5 keyboard shortcuts
-  - **Run extra scripts** - 3 keyboard shortcuts
+  - **Windows** - **15** keyboard shortcuts
+  - **Ableton Live** - **47** keyboard shortcuts
+  - **Spotify** - **9** keyboard shortcuts
+  - **Google Chrome** - **5** keyboard shortcuts
+  - **Brave Browser** - **5** keyboard shortcuts
+  - **Run extra scripts** - **3** keyboard shortcuts
   
 *Program-specific shortcuts are only enabled while the corresponding program window is active.*
 
@@ -104,7 +104,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for i
 _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for instructions on activating the following optional shortcuts:_
 
 ### **A-Z LAUNCH/TOGGLE PROGRAMS:**
-- These shortcuts are __disabled by default__ but can be customized to your prefernce by editing the **`Dok's Rx (Raw).AHK`** script.
+- These shortcuts are __disabled by default__ but can be customized to your prefernce by editing the **`Dok's Rx Pad (Raw).AHK`** script.
 - These shortcuts will launch a specified program if it is not currently running, **OR** toggle the program window if the program is currently running, using the following hotkeys:
   - **`[WIN+SHIFT+** *letter key* **]`**
     - i.e. **`[WIN+SHIFT+A]`**; **`[WIN+SHIFT+B]`**; **`[WIN+SHIFT+C]`**; etc.
@@ -112,7 +112,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for i
 _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
 
 ### **0-9 LAUNCH/TOGGLE PROGRAMS:**
-- These shortcuts are __disabled by default__ but can be customized to your personal prefernce by editing the **`Dok's Rx (Raw).AHK`** script. 
+- These shortcuts are __disabled by default__ but can be customized to your personal prefernce by editing the **`Dok's Rx Pad (Raw).AHK`** script. 
 - These shortcuts will launch a specified program if it is not currently running, **OR** toggle the program window if the program is currently running, using the following hotkeys:
   - **`[WIN+** *number key* **]`**
     - i.e. **`[WIN+1]`**; **`[WIN+2]`**; **`[WIN+3]`**; etc.
@@ -120,7 +120,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for m
  _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
 
 ### **MOUSE CLICK HOTKEYS FOR `ABLETON LIVE` AND `SPOTIFY`:**
-- These shortcuts are __disabled by default__ but can be customized to your personal prefernce by editing the **`Dok's Rx (Raw).AHK`** script. 
+- These shortcuts are __disabled by default__ but can be customized to your personal prefernce by editing the **`Dok's Rx Pad (Raw).AHK`** script. 
 - These hotkeys will trigger mouse clicks on specified screen coordinates and return the mouse position to it's original position.
 
 #### OPTIONAL ABLETON LIVE SHORTCUTS:
@@ -149,10 +149,10 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for m
 
  _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
 
-### **HOTSTRINGS** - These shortcuts are used for auto-typing strings of text by typing an abbreviated "hotstring." There are a few examples included in the `Dok's Rx (Raw).AHK` script. These hotstrings are __disabled by default__ but can be customized to your personal prefernce by editing the **`Dok's Rx (Raw).AHK`** script. 
+### **HOTSTRINGS** - These shortcuts are used for auto-typing strings of text by typing an abbreviated "hotstring." There are a few examples included in the `Dok's Rx Pad (Raw).AHK` script. These hotstrings are __disabled by default__ but can be customized to your personal prefernce by editing the **`Dok's Rx Pad (Raw).AHK`** script. 
 
 #	The "Dok’s Rx Cabinet" folder
-The `Dok's Rx Cabinet` folder contains sub-folders for associated scripts/files referenced by the `Dokter's Prescription.EXE` and `Dok's Rx (Raw).AHK` scripts.
+The `Dok's Rx Cabinet` folder contains sub-folders for associated scripts/files referenced by the `Dokter's Prescription.EXE` and `Dok's Rx Pad (Raw).AHK` scripts.
 
 The following additional scripts are stored within the`Dok's Rx Cabinet` folders:
 
@@ -167,9 +167,9 @@ These additional packaged scripts can of course be launched manually from `Dok's
 
 
 ##	The "Dok’s Rx" folder
-The `Dok’s Rx` folder contains the following items referenced by the  **`Dokter's Prescription.EXE`** and **`Dok's Rx (Raw).AHK`** scripts:
+The `Dok’s Rx` folder contains the following items referenced by the  **`Dokter's Prescription.EXE`** and **`Dok's Rx Pad (Raw).AHK`** scripts:
 
-- **The "Dok's Rx (Raw).AHK" script:**
+- **The "Dok's Rx Pad (Raw).AHK" script:**
   - This .AHK script is included for customizing the **Dokter's Prescription** script to meet your desired preferences.
   - _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for more info about this._
 
@@ -191,12 +191,12 @@ The `Dok’s Rx` folder contains the following items referenced by the  **`Dokte
 
 `"C:\Program Files\WindowsApps\Microsoft.Todos_2.28.32802.0_x64__8wekyb3d8bbwe\ToDo.exe"`
 
-- **Icon files referenced by the the "Dok's Rx (Raw).AHK" script.**
+- **Icon files referenced by the the "Dok's Rx Pad (Raw).AHK" script.**
 
 
 
 ##	The "Over The Counter" folder
-The `Over The Counter` folder contains additional scripts referenced by **`Dokter's Prescription.EXE`** and **`Dok's Rx (Raw).AHK`**. These scripts can also be launched and used independently without the **`Dokter's Prescription.EXE`** or **`Dok's Rx (Raw).AHK`** running. This folder contains:
+The `Over The Counter` folder contains additional scripts referenced by **`Dokter's Prescription.EXE`** and **`Dok's Rx Pad (Raw).AHK`**. These scripts can also be launched and used independently without the **`Dokter's Prescription.EXE`** or **`Dok's Rx Pad (Raw).AHK`** running. This folder contains:
 
 ### THE "ABLETON TAKEOVER.EXE" SCRIPT:
  - **Suspends program processes of specified programs while the Ableton Live window is active and resumes the program processes once the Ableton Live window is not active.**
@@ -264,16 +264,16 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for mo
 ## Customizing the **Dokter's Prescription** script
 
 1. Ensure that the Autohotkey software is installed on your computer - https://autohotkey.com/
-2. Open the **`Dok's Rx (Raw).AHK`** file in the `Dok's Rx Cabinet\Dok's Rx`folder with any text editor such as "Notepad"; or a script editor such as "SciTE4Autohotkey."
+2. Open the **`Dok's Rx Pad (Raw).AHK`** file in the `Dok's Rx Cabinet\Dok's Rx`folder with any text editor such as "Notepad"; or a script editor such as "SciTE4Autohotkey."
 3. Edit the script text for each shortcut feature as desired, following the instruction comments embedded within the script.
 4. Save your customized changes to the .AHK script file.
 5. Use your customized script by simply launching your saved .AHK file or alternatively, you can compile it into an .EXE file by right-clicking the saved .AHK file and selecting **"Compile Script"**.
     - *This will create an .EXE version of the script that will be able to run on computers that do not have the Autohotkey software installed.*
 6. Move your new custom .EXE or .AHK script file into the same folder as the original `Dokter's Prescription.EXE` script file location.
 
-### Customizing the **LAUNCH/TOGGLE PROGRAMS** shortcuts within `Dok's Rx (Raw).AHK`:
+### Customizing the **LAUNCH/TOGGLE PROGRAMS** shortcuts within `Dok's Rx Pad (Raw).AHK`:
 
-**NOTE:** By default, the **Launch/Toggle Programs** shortcuts in **`Dok's Rx (Raw),AHK`** are deactivated to keep this portion of the script in a clean, "template code" format. There are detailed instruction comments within the **`Dok's Rx (Raw).AHK`** script file to guide you through customizing the script.
+**NOTE:** By default, the **Launch/Toggle Programs** shortcuts in **`Dok's Rx Pad (Raw),AHK`** are deactivated to keep this portion of the script in a clean, "template code" format. There are detailed instruction comments within the **`Dok's Rx Pad (Raw).AHK`** script file to guide you through customizing the script.
 
   - The deactivated blocks of code can be activated by removing the `/*`and `*/` brackets for each **Launch/Toggle Programs** hotkey shortcut. 
 
@@ -281,9 +281,9 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for mo
 
 Once these blocks of code are activated and edited to your personal preference, they will allow you to Launch/Toggle Programs windows using `WIN+(number key)` and/or `WIN+SHIFT+(letter key)` as described previosuly above.
 
-### Calibrating the **MOUSE CLICK HOTKEYS** within `Dok's Rx (Raw).AHK`:
+### Calibrating the **MOUSE CLICK HOTKEYS** within `Dok's Rx Pad (Raw).AHK`:
 
-**NOTE:** By default, the **MOUSE CLICK HOTKEYS** in **`Dok's Rx (Raw),AHK`** are deactivated to keep this portion of the script in a "template code" format. There are detailed instruction comments within the **`Dok's Rx (Raw).AHK`** script file to guide you through customizing the script.
+**NOTE:** By default, the **MOUSE CLICK HOTKEYS** in **`Dok's Rx Pad (Raw),AHK`** are deactivated to keep this portion of the script in a "template code" format. There are detailed instruction comments within the **`Dok's Rx Pad (Raw).AHK`** script file to guide you through customizing the script.
 
  - The deactivated blocks of code can be activated by removing the `/*`and `*/` brackets surrounding the block of code for each deactivated block.
  
@@ -301,15 +301,15 @@ The default shortcuts for **Ableton Live** and **Spotify** use a few hotkeys tha
 3.) INSERT EACH SPECIFIC SET OF COORDINATES INTO THE "MouseClick" line of code for each MOUSE CLICK HOTKEY LISTED BELOW
 4.) YOU HAVE SUCCESSFULLY CUSTOMIZED THE MOUSE CLICK HOTKEYS FOR YOUR OWN SCREEN RESOLUTION. YOU'RE DONE!
 
-### Customizing the **Hotstrings** shortcuts within `Dok's Rx (Raw).AHK`:
+### Customizing the **Hotstrings** shortcuts within `Dok's Rx Pad (Raw).AHK`:
 
-**NOTE:** By default, the **Hotstrings** in **`Dok's Rx (Raw),AHK`** are deactivated to keep this portion of the script in a clean, "template code" format.
+**NOTE:** By default, the **Hotstrings** in **`Dok's Rx Pad (Raw),AHK`** are deactivated to keep this portion of the script in a clean, "template code" format.
 
 - The deactivated blocks of code can be activated by removing the `/*`and `*/` brackets for each **Hotstring** shortcut.
 
 Once these blocks of code are activated and edited to your personal preference, you can trigger specific strings of text with the abbrevated "hotstring" that you have configured.
 
-*Make sure that your customized version of **`Dok's Rx (Raw).AHK`** script is moved into the same folder location of the original `Dokter's Prescription.EXE` script to ensure that it will be able to reference the associated files in the `Dok's Rx Cabinet` folder appropriately.*
+*Make sure that your customized version of **`Dok's Rx Pad (Raw).AHK`** script is moved into the same folder location of the original `Dokter's Prescription.EXE` script to ensure that it will be able to reference the associated files in the `Dok's Rx Cabinet` folder appropriately.*
 
 **NOTE:** *The `Dok’s Rx (Raw).AHK` copy of the script does not include the sections of code that install the `Dok's Rx Cabinet` folder. You can always launch the original `Dokter's Prescription.EXE` file to re-install  the `Dok's Rx Cabinet` folder if needed. If you need to re-install a single file or folder to `Dok's Rx Cabinet`, re-installing the `Dok's Rx Cabinet` folder will never overwrite any existing files within `Dok's Rx Cabinet` and should never harm any files that have saved changes.*
 
