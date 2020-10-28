@@ -223,7 +223,7 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below for mor
 ##	The "Over The Counter" folder
 The `Over The Counter` folder contains additional scripts referenced by **`Dokter's Prescription.EXE`** and **Dok's Rx Pad.AHK**. These scripts can also be launched and used independently without the **`Dokter's Prescription.EXE`** or **Dok's Rx Pad.AHK** running. This folder contains:
 
-### THE "ABLETON TAKEOVER.EXE" SCRIPT:
+### The "Ableton Takeover.EXE" script:
  - **Suspends program processes of specified programs while the Ableton Live window is active and resumes the program processes once the Ableton Live window is not active.**
  - **LAUNCH SCRIPT WHILE RUNNING Dokter's Prescription**
     - `[CTRL+ALT+SHIFT+A]`
@@ -238,7 +238,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for mo
 
 
 
-### THE "POWER & SLEEP HOTKEYS.EXE" SCRIPT:
+### The "Power & Sleep Hotkeys.EXE" script:
  - Enables hotkeys to sleep, hibernate, restart, or shutdown your PC. 
  - **SLEEP PC**
   - **`[CTRL+ALT+SHIFT+ESC]`**
@@ -286,7 +286,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for mo
 
 #	Customizing Scripts
 
-## Customizing the **Dokter's Prescription** script ("Dok's Rx Pad.AHK")
+## Customizing the Dokter's Prescription script - "Dok's Rx Pad.AHK"
 
 - The **Dok's Rx Pad.AHK** is included in the `Dok's Rx Cabinet\Dok's Rx` folder to allow you to make changes to default hotkeys and add optional Autohotkey features.
 
