@@ -2,11 +2,11 @@
 A script suite to make life easier for Windows and **Ableton Live** users.
 
 
-##	Default "Dokter’s Prescription" shortcuts
+##	Default "Dokter’s Prescription" hotkeys
 
-- The "Dokter’s Prescription.EXE" script enables several shortcuts for Windows, Ableton Live, and other specific programs:
+- The "Dokter’s Prescription.EXE" script enables several hotkeys for Windows, Ableton Live, and other specific programs:
 
-**NOTE: For the complete list of keyboard shortcuts, reference the included `Dok's Rx Guide.xls` spreadsheet**
+**NOTE: For the complete list of keyboard hotkeys, reference the included `Dok's Rx Guide.xls` spreadsheet**
 
   - **Windows** - **15** custom hotkeys
   - **Ableton Live*** - **47** custom hotkeys
@@ -15,7 +15,7 @@ A script suite to make life easier for Windows and **Ableton Live** users.
   - **Brave Browser*** - **5** custom hotkeys
   - **Run extra scripts** - **3** custom hotkeys
   
-_*Program-specific shortcuts are only enabled while the corresponding program window is active._
+_*Program-specific hotkeys are only enabled while the corresponding program window is active._
 
 - **Suspend / Resume Script**
 	- `[CTRL+ALT+SHIFT+PAUSE]`
@@ -23,9 +23,9 @@ _*Program-specific shortcuts are only enabled while the corresponding program wi
 - **Exit Script**
 	- `[CTRL+ALT+SHIFT+END]`
 
-_[Go to the **Customizing Scripts** section](#customizing-scripts) below, for instructions on how to customize or remove any default shortcuts included in this script._
+_[Go to the **Customizing Scripts** section](#customizing-scripts) below, for instructions on how to customize or remove any default hotkeys included in this script._
 
-### **Windows Shortcuts**
+### **Windows Hotkeys**
 
 - **2ND `[WIN]` KEYBOARD KEY:**
   - `[Menu Key]`
@@ -60,11 +60,11 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below, for in
 - **VOLUME DOWN:**
   - `[ALT+ -]`
 
-### **Ableton Live Shortcuts**
+### **Ableton Live Hotkeys**
 - 
 
 
-### **Spotify Shortcuts**
+### **Spotify Hotkeys**
 - **PLAY / PAUSE:**
   - `[ALT+P]`
 - **PREVIOUS TRACK:**
@@ -75,7 +75,7 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below, for in
   - `[ALT+I]`
 
 
-### **Chrome Shortcuts**
+### **Chrome Hotkeys**
 - **NEW WINDOW:**
   - `[ALT+N]`
 - **NEW TAB:**
@@ -87,7 +87,7 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below, for in
 - **INCOGNITO WINDOW:**
   - `[ALT+I]`
   
-### **Brave Browser Shortcuts**
+### **Brave Browser Hotkeys**
 - **NEW WINDOW:**
   - `[ALT+N]`
 - **NEW TAB:**
@@ -103,33 +103,33 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below, for in
 
 ## Optional* "Dokter’s Prescription" Hotkeys
 
-The optional hotkey shortcuts listed below can be added to the script by editing **`Dok's Rx Pad.AHK`**.
+The optional hotkey hotkeys listed below can be added to the script by editing "**Dok's Rx Pad.AHK**" script located in `Dok's Rx Cabinet\Dok's Rx`.
 
-_*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for instructions on how to activate the following optional shortcuts:_
+_*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for instructions on how to activate the following optional hotkeys:_
 
 ### A-Z Launch/Toggle Programs:
-- These shortcuts are __disabled by default__ but can be customized to your preference by editing the **`Dok's Rx Pad.AHK`** script.
-- These shortcuts will launch a specified program if it is not currently running, **OR** toggle the program window if the program is currently running, using the following hotkeys:
+- These hotkeys are __disabled by default__ but can be customized to your preference by editing the **`Dok's Rx Pad.AHK`** script.
+- These hotkeys will launch a specified program if it is not currently running, **OR** toggle the program window if the program is currently running, using the following hotkeys:
   - **`[WIN+SHIFT+** *letter key* **]`**
     - i.e. **`[WIN+SHIFT+A]`**; **`[WIN+SHIFT+B]`**; **`[WIN+SHIFT+C]`**; etc.
 
 _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
 
 ### 0-9 Launch/Toggle Programs
-- These shortcuts are __disabled by default__ but can be customized to your personal preference by editing the **`Dok's Rx Pad.AHK`** script. 
-- These shortcuts will launch a specified program if it is not currently running, **OR** toggle the program window if the program is currently running, using the following hotkeys:
+- These hotkeys are __disabled by default__ but can be customized to your personal preference by editing the **`Dok's Rx Pad.AHK`** script. 
+- These hotkeys will launch a specified program if it is not currently running, **OR** toggle the program window if the program is currently running, using the following hotkeys:
   - **`[WIN+** *number key* **]`**
     - i.e. **`[WIN+1]`**; **`[WIN+2]`**; **`[WIN+3]`**; etc.
     
  _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
 
 ### Mouse Click Hotkeys
-- These shortcuts are __disabled by default__ but can be customized to your personal preference by editing the **`Dok's Rx Pad.AHK`** script. 
+- These hotkeys are __disabled by default__ but can be customized to your personal preference by editing the **`Dok's Rx Pad.AHK`** script. 
 - These hotkeys will trigger mouse clicks on specified screen coordinates and return the mouse position to it's original position.
 
  _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
 
-##### OPTIONAL ABLETON LIVE SHORTCUTS:
+##### OPTIONAL ABLETON LIVE HOTKEYS:
 - **MIDI ARRANGEMENT OVERDUB BUTTON**
   - `ALT+O`
 - **AUTOMATION ARM BUTTON**
@@ -141,7 +141,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for m
 - **SESSION RECORD ENABLE**
   - `ALT+\` 
 
-#### OPTIONAL SPOTIFY SHORTCUTS:
+#### OPTIONAL SPOTIFY HOTKEYS:
 - **HOME:**
   - `[ALT+H]`
 - **BROWSE:**
@@ -157,7 +157,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for m
 
 ### Hotstrings
 - These hotstrings are __disabled by default__ but can be customized to your personal preference by editing the **`Dok's Rx Pad.AHK`** script. 
-- These shortcuts are used for auto-typing strings of text by typing an abbreviated "hotstring."
+- These hotkeys are used for auto-typing strings of text by typing an abbreviated "hotstring."
 
 #### The Hotstring examples included in the `Dok's Rx Pad.AHK` script are:
 - "YOUR_EMAIL_ADDRESS@EMAIL.com"
@@ -201,7 +201,7 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below for mor
 - **The "App Launch Shortcuts" folder**
   - Used for storing created program shortcut files for launching/toggling apps that were installed by Microsoft Store.
   
-*The `App Launch Shortcuts` sub-folder within `Dok’s Rx Cabinet\Dok’s Rx` is a location to keep program shortcuts for the "program launch/toggle" optional template code within the **Dokter's Prescription** script.*
+*The `App Launch Shortcuts` sub-folder within `Dok’s Rx Cabinet\Dok’s Rx` is a location to keep program hotkeys for the "program launch/toggle" optional template code within the **Dokter's Prescription** script.*
 
 *For example, programs that are downloaded from the Microsoft Store are not located in the standard program location. These programs are usually nested within `C:\Program Files\WindowsApps`. Typically, if you attempt the run the programs directly from their native file location, they will not launch properly. For these instances, you can create a program shortcut for these applications and move it into the `App Launch Shortcuts` folder.*
 
@@ -297,9 +297,9 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for mo
     - *This will create an .EXE version of the script that will be able to run on computers that do not have the Autohotkey software installed.*
 6. Move your new custom .EXE or .AHK script file into the same folder as the original `Dokter's Prescription.EXE` script file location.
 
-### Customizing the **LAUNCH/TOGGLE PROGRAMS** shortcuts within "Dok's Rx Pad.AHK":
+### Customizing the **LAUNCH/TOGGLE PROGRAMS** hotkeys within "Dok's Rx Pad.AHK":
 
-**NOTE:** By default, the **Launch/Toggle Programs** shortcuts in **`Dok's Rx Pad,AHK`** are deactivated to keep this portion of the script in a clean, "template code" format. There are detailed instruction comments within the **`Dok's Rx Pad.AHK`** script file to guide you through customizing the script.
+**NOTE:** By default, the **Launch/Toggle Programs** hotkeys in **`Dok's Rx Pad,AHK`** are deactivated to keep this portion of the script in a clean, "template code" format. There are detailed instruction comments within the **`Dok's Rx Pad.AHK`** script file to guide you through customizing the script.
 
   - The deactivated blocks of code can be activated by removing the `/*`and `*/` brackets for each **Launch/Toggle Programs** hotkey shortcut. 
 
@@ -317,7 +317,7 @@ Once these blocks of code are activated and edited to your personal preference, 
 
 Once these blocks of code are activated and edited to your personal preference, they will allow you to click on your specified screen coordinates by using a hotkey.
 
-_[Go to the "Optional* "Dokter’s Prescription" shortcuts section](#Optional*-"Dokter’s-Prescription"-shortcuts) above, to reference the keyboard shortcuts for this feature.
+_[Go to the "Optional* "Dokter’s Prescription" hotkeys section](#Optional*-"Dokter’s-Prescription"-hotkeys) above, to reference the keyboard hotkeys for this feature.
 
 
 #### Follow these steps to calibrate the "Mouse Click Hotkeys" for Spotify and Ableton Live:
@@ -327,7 +327,7 @@ _[Go to the "Optional* "Dokter’s Prescription" shortcuts section](#Optional*-"
 3.) INSERT EACH SPECIFIC SET OF COORDINATES INTO THE "MouseClick" line of code for each MOUSE CLICK HOTKEY LISTED BELOW
 4.) YOU HAVE SUCCESSFULLY CUSTOMIZED THE MOUSE CLICK HOTKEYS FOR YOUR OWN SCREEN RESOLUTION. YOU'RE DONE!
 
-### Customizing the **HOTSTRINGS** shortcuts within `Dok's Rx Pad.AHK`:
+### Customizing the **HOTSTRINGS** hotkeys within `Dok's Rx Pad.AHK`:
 
 **NOTE:** By default, the **Hotstrings** in **`Dok's Rx Pad,AHK`** are deactivated to keep this portion of the script in a clean, "template code" format.
 
