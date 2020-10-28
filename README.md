@@ -280,9 +280,11 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for mo
 
 #	Customizing Scripts
 
-## Customizing the **Dokter's Prescription** script
+## Customizing the **Dokter's Prescription** script ("Dok's Rx Pad.AHK")
 
+- The **`Dok's Rx Pad.AHK`** is included in the `Dok's Rx Cabinet\Dok's Rx` folder to allow you to make changes to default hotkeys and add optional Autohotkey features.
 
+### Follow these steps to customize the "Dok's Rx Pad.AHK" script:
 
 1. Ensure that the Autohotkey software is installed on your computer - https://autohotkey.com/
 2. Open the **`Dok's Rx Pad.AHK`** file in the `Dok's Rx Cabinet\Dok's Rx`folder with any text editor such as "Notepad"; or a script editor such as "SciTE4Autohotkey."
@@ -292,7 +294,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for mo
     - *This will create an .EXE version of the script that will be able to run on computers that do not have the Autohotkey software installed.*
 6. Move your new custom .EXE or .AHK script file into the same folder as the original `Dokter's Prescription.EXE` script file location.
 
-### Customizing the **LAUNCH/TOGGLE PROGRAMS** shortcuts within `Dok's Rx Pad.AHK`:
+### Customizing the **LAUNCH/TOGGLE PROGRAMS** shortcuts within "Dok's Rx Pad.AHK":
 
 **NOTE:** By default, the **Launch/Toggle Programs** shortcuts in **`Dok's Rx Pad,AHK`** are deactivated to keep this portion of the script in a clean, "template code" format. There are detailed instruction comments within the **`Dok's Rx Pad.AHK`** script file to guide you through customizing the script.
 
@@ -302,7 +304,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for mo
 
 Once these blocks of code are activated and edited to your personal preference, they will allow you to Launch/Toggle Programs windows using `WIN+(number key)` and/or `WIN+SHIFT+(letter key)` as described previosuly above.
 
-### Calibrating the **MOUSE CLICK HOTKEYS** within `Dok's Rx Pad.AHK`:
+### Calibrating the **MOUSE CLICK HOTKEYS** within "Dok's Rx Pad.AHK":
 
 **NOTE:** By default, the **MOUSE CLICK HOTKEYS** in **`Dok's Rx Pad,AHK`** are deactivated to keep this portion of the script in a "template code" format. There are detailed instruction comments within the **`Dok's Rx Pad.AHK`** script file to guide you through customizing the script.
 
