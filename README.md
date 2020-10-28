@@ -108,7 +108,7 @@ The optional hotkeys listed below are __disabled by default__ but can be added t
 _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for instructions on how to activate the following optional hotkeys:_
 
 ### A-Z Launch/Toggle Programs - Optional*
-- These hotkeys are __disabled by default__ but can be customized to your preference by editing the **`Dok's Rx Pad.AHK`** script.
+- These hotkeys are __disabled by default__ but can be customized to your preference by editing the **Dok's Rx Pad.AHK** script.
 - These hotkeys will launch a specified program if it is not currently running, **OR** toggle the program window if the program is currently running, using the following hotkeys:
   - **`[WIN + SHIFT + letter key]`**
     - i.e. **`[WIN+SHIFT+A]`**; **`[WIN+SHIFT+B]`**; **`[WIN+SHIFT+C]`**; etc.
@@ -116,7 +116,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for i
 _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
 
 ### 0-9 Launch/Toggle Programs - Optional*
-- These hotkeys are __disabled by default__ but can be customized to your personal preference by editing the **`Dok's Rx Pad.AHK`** script. 
+- These hotkeys are __disabled by default__ but can be customized to your personal preference by editing the **Dok's Rx Pad.AHK** script. 
 - These hotkeys will launch a specified program if it is not currently running, **OR** toggle the program window if the program is currently running, using the following hotkeys:
   - **`[WIN + number key]`**
     - i.e. **`[WIN+1]`**; **`[WIN+2]`**; **`[WIN+3]`**; etc.
@@ -124,7 +124,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for m
  _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
 
 ### Mouse Click Hotkeys - Optional*
-- These hotkeys are __disabled by default__ but can be customized to your personal preference by editing the **`Dok's Rx Pad.AHK`** script. 
+- These hotkeys are __disabled by default__ but can be customized to your personal preference by editing the **Dok's Rx Pad.AHK** script. 
 - These hotkeys will trigger mouse clicks on specified screen coordinates and return the mouse position to it's original position.
 
  _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
@@ -156,10 +156,10 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for m
  _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
 
 ### Hotstrings - Optional*
-- These hotstrings are __disabled by default__ but can be customized to your personal preference by editing the **`Dok's Rx Pad.AHK`** script. 
+- These hotstrings are __disabled by default__ but can be customized to your personal preference by editing the **Dok's Rx Pad.AHK** script. 
 - These hotkeys are used for auto-typing strings of text by typing an abbreviated "hotstring."
 
-#### The Hotstring examples included in the `Dok's Rx Pad.AHK` script are:
+#### The Hotstring examples included in the Dok's Rx Pad.AHK script are:
 - "YOUR_EMAIL_ADDRESS@EMAIL.com"
 	- `[abc.]`
 		- This converts typing "abc." into "YOUR_EMAIL_ADDRESS@EMAIL.com"
@@ -176,7 +176,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for m
 
 
 #	The "Dok’s Rx Cabinet" folder
-The `Dok's Rx Cabinet` folder contains sub-folders for associated scripts/files referenced by the `Dokter's Prescription.EXE` and `Dok's Rx Pad.AHK` scripts.
+The `Dok's Rx Cabinet` folder contains sub-folders for associated scripts/files referenced by the `Dokter's Prescription.EXE` and Dok's Rx Pad.AHK scripts.
 
 The following additional scripts are stored within the`Dok's Rx Cabinet` folders:
 
@@ -191,7 +191,7 @@ These additional packaged scripts can of course be launched manually from `Dok's
 
 
 ##	The "Dok’s Rx" folder
-The `Dok’s Rx` folder contains the following items referenced by the  **`Dokter's Prescription.EXE`** and **`Dok's Rx Pad.AHK`** scripts:
+The `Dok’s Rx` folder contains the following items referenced by the  **`Dokter's Prescription.EXE`** and **Dok's Rx Pad.AHK** scripts:
 
 - **The "Dok's Rx Pad.AHK" script:**
   - This .AHK script is included for customizing the **Dokter's Prescription** script to meet your desired preferences.
@@ -221,7 +221,7 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below for mor
 
 
 ##	The "Over The Counter" folder
-The `Over The Counter` folder contains additional scripts referenced by **`Dokter's Prescription.EXE`** and **`Dok's Rx Pad.AHK`**. These scripts can also be launched and used independently without the **`Dokter's Prescription.EXE`** or **`Dok's Rx Pad.AHK`** running. This folder contains:
+The `Over The Counter` folder contains additional scripts referenced by **`Dokter's Prescription.EXE`** and **Dok's Rx Pad.AHK**. These scripts can also be launched and used independently without the **`Dokter's Prescription.EXE`** or **Dok's Rx Pad.AHK** running. This folder contains:
 
 ### THE "ABLETON TAKEOVER.EXE" SCRIPT:
  - **Suspends program processes of specified programs while the Ableton Live window is active and resumes the program processes once the Ableton Live window is not active.**
@@ -288,12 +288,12 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for mo
 
 ## Customizing the **Dokter's Prescription** script ("Dok's Rx Pad.AHK")
 
-- The **`Dok's Rx Pad.AHK`** is included in the `Dok's Rx Cabinet\Dok's Rx` folder to allow you to make changes to default hotkeys and add optional Autohotkey features.
+- The **Dok's Rx Pad.AHK** is included in the `Dok's Rx Cabinet\Dok's Rx` folder to allow you to make changes to default hotkeys and add optional Autohotkey features.
 
 ### Follow these steps to customize the "Dok's Rx Pad.AHK" script:
 
 1. Ensure that the Autohotkey software is installed on your computer - https://autohotkey.com/
-2. Open the **`Dok's Rx Pad.AHK`** file in the `Dok's Rx Cabinet\Dok's Rx`folder with any text editor such as "Notepad"; or a script editor such as "SciTE4Autohotkey."
+2. Open the **Dok's Rx Pad.AHK** file in the `Dok's Rx Cabinet\Dok's Rx`folder with any text editor such as "Notepad"; or a script editor such as "SciTE4Autohotkey."
 3. Edit the script text for each hotkey feature as desired, following the instruction comments embedded within the script.
 4. Save your customized changes to the .AHK script file.
 5. Use your customized script by simply launching your saved .AHK file or alternatively, you can compile it into an .EXE file by right-clicking the saved .AHK file and selecting **"Compile Script"**.
@@ -302,7 +302,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for mo
 
 ### Customizing the **LAUNCH/TOGGLE PROGRAMS** hotkeys within "Dok's Rx Pad.AHK":
 
-**NOTE:** By default, the **Launch/Toggle Programs** hotkeys in **`Dok's Rx Pad,AHK`** are deactivated to keep this portion of the script in a clean, "template code" format. There are detailed instruction comments within the **`Dok's Rx Pad.AHK`** script file to guide you through customizing the script.
+**NOTE:** By default, the **Launch/Toggle Programs** hotkeys in **`Dok's Rx Pad,AHK`** are deactivated to keep this portion of the script in a clean, "template code" format. There are detailed instruction comments within the **Dok's Rx Pad.AHK** script file to guide you through customizing the script.
 
   - The deactivated blocks of code can be activated by removing the `/*`and `*/` brackets for each **Launch/Toggle Programs** hotkey shortcut. 
 
@@ -312,7 +312,7 @@ Once these blocks of code are activated and edited to your personal preference, 
 
 ### Calibrating the **MOUSE CLICK HOTKEYS** within "Dok's Rx Pad.AHK":
 
-**NOTE:** By default, the **MOUSE CLICK HOTKEYS** in **`Dok's Rx Pad,AHK`** are deactivated to keep this portion of the script in a "template code" format. There are detailed instruction comments within the **`Dok's Rx Pad.AHK`** script file to guide you through customizing the script.
+**NOTE:** By default, the **MOUSE CLICK HOTKEYS** in **`Dok's Rx Pad,AHK`** are deactivated to keep this portion of the script in a "template code" format. There are detailed instruction comments within the **Dok's Rx Pad.AHK** script file to guide you through customizing the script.
 
 #### Follow these steps to calibrate the "Mouse Click Hotkeys":
 
@@ -330,7 +330,7 @@ _[Go to the "Optional* "Dokter’s Prescription" hotkeys section](#Optional*-"Do
 
 
 
-### Customizing the **HOTSTRINGS** within `Dok's Rx Pad.AHK`:
+### Customizing the **HOTSTRINGS** within Dok's Rx Pad.AHK:
 
 **NOTE:** By default, the **Hotstrings** in **`Dok's Rx Pad,AHK`** are deactivated to keep this portion of the script in a clean, "template code" format.
 
@@ -374,7 +374,7 @@ Once these blocks of code are activated and edited to your personal preference, 
 
 #
 
-*Make sure that your customized version of **`Dok's Rx Pad.AHK`** script is moved into the same folder location of the original `Dokter's Prescription.EXE` script to ensure that it will be able to reference the associated files in the `Dok's Rx Cabinet` folder appropriately.*
+*Make sure that your customized version of **Dok's Rx Pad.AHK** script is moved into the same folder location of the original `Dokter's Prescription.EXE` script to ensure that it will be able to reference the associated files in the `Dok's Rx Cabinet` folder appropriately.*
 
 **NOTE:** *The `Dok’s Rx (Raw).AHK` copy of the script does not include the sections of code that install the `Dok's Rx Cabinet` folder. You can always launch the original `Dokter's Prescription.EXE` file to re-install  the `Dok's Rx Cabinet` folder if needed. If you need to re-install a single file or folder to `Dok's Rx Cabinet`, re-installing the `Dok's Rx Cabinet` folder will never overwrite any existing files within `Dok's Rx Cabinet` and should never harm any files that have saved changes.*
 
