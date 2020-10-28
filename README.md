@@ -21,7 +21,7 @@ A script suite to make life easier for Windows and **Ableton Live** users.
 
 - **Exit Script** - **`[CTRL+ALT+SHIFT+END]`**
 
-_*[See the **"Customizing Scripts"** section](#customizing-scripts) below, for instructions on how to customize or remove any default shortcuts included in this script._
+_*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for instructions on how to customize or remove any default shortcuts included in this script._
 
 ### **WINDOWS SHORTCUTS**
 
