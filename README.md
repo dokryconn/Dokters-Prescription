@@ -299,7 +299,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for mo
 5. Use your customized script by simply launching your saved .AHK file or alternatively, you can compile it into an .EXE file by right-clicking the saved .AHK file and selecting **"Compile Script"**. - _This will create an .EXE version of the script that will be able to run on computers that do not have the Autohotkey software installed._
 6. Move your new custom .EXE or .AHK script file into the same folder as the original `Dokter's Prescription.EXE` script file location.
 
-### Customizing the LAUNCH/TOGGLE PROGRAMS hotkeys in "Dok's Rx Pad.AHK":
+### Customizing the "Launch/Toggle Programs" hotkeys in "Dok's Rx Pad.AHK":
 
 **NOTE:** By default, the **Launch/Toggle Programs** hotkeys in **`Dok's Rx Pad,AHK`** are deactivated to keep this portion of the script in a clean, "template code" format. There are detailed instruction comments within the **Dok's Rx Pad.AHK** script file to guide you through customizing the script.
 
@@ -309,7 +309,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for mo
 
 Once these blocks of code are activated and edited to your personal preference, they will allow you to Launch/Toggle Programs windows using `WIN+(number key)` and/or `WIN+SHIFT+(letter key)` as described previosuly above.
 
-### Calibrating the MOUSE CLICK HOTKEYS in "Dok's Rx Pad.AHK":
+### Calibrating the "Mouse Click Hotkeys" in "Dok's Rx Pad.AHK":
 
 **NOTE:** By default, the **MOUSE CLICK HOTKEYS** in **`Dok's Rx Pad,AHK`** are deactivated to keep this portion of the script in a "template code" format. There are detailed instruction comments within the **Dok's Rx Pad.AHK** script file to guide you through customizing the script.
 
@@ -329,7 +329,7 @@ _[Go to the "Optional* "Dokter’s Prescription" hotkeys section](#Optional*-"Do
 
 
 
-### Customizing the HOTSTRINGS in Dok's Rx Pad.AHK:
+### Customizing the "Hotstrings" in "Dok's Rx Pad.AHK":
 
 **NOTE:** By default, the **Hotstrings** in **`Dok's Rx Pad,AHK`** are deactivated to keep this portion of the script in a clean, "template code" format.
 
