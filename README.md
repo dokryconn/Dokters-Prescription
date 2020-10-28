@@ -296,8 +296,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for mo
 2. Open the **Dok's Rx Pad.AHK** file in the `Dok's Rx Cabinet\Dok's Rx`folder with any text editor such as "Notepad"; or a script editor such as "SciTE4Autohotkey."
 3. Edit the script text for each hotkey feature as desired, following the instruction comments embedded within the script.
 4. Save your customized changes to the .AHK script file.
-5. Use your customized script by simply launching your saved .AHK file or alternatively, you can compile it into an .EXE file by right-clicking the saved .AHK file and selecting **"Compile Script"**.
-    - *This will create an .EXE version of the script that will be able to run on computers that do not have the Autohotkey software installed.*
+5. Use your customized script by simply launching your saved .AHK file or alternatively, you can compile it into an .EXE file by right-clicking the saved .AHK file and selecting **"Compile Script"**. - _This will create an .EXE version of the script that will be able to run on computers that do not have the Autohotkey software installed._
 6. Move your new custom .EXE or .AHK script file into the same folder as the original `Dokter's Prescription.EXE` script file location.
 
 ### Customizing the **LAUNCH/TOGGLE PROGRAMS** hotkeys within "Dok's Rx Pad.AHK":
@@ -348,8 +347,7 @@ Once these blocks of code are activated and edited to your personal preference, 
 2. Open the **`Ableton Takeover.AHK`** file in the `Dok's Rx Cabinet\Over The Counter\Ableton Takeover`folder with any text editor such as "Notepad"; or a script editor such as "SciTE4Autohotkey."
 3. Edit the script text to include/exclude any specific program process names, following the instructions within the `Ableton Takeover README.txt` file.
 4. Save your customized changes to the .AHK script file.
-5. Use your customized script by simply launching your saved .AHK file or alternatively, you can compile it into an .EXE file by right-clicking the saved .AHK file and selecting **"Compile Script"**.
-  - *This will create an .EXE version of the script that will be able to run on computers that do not have the Autohotkey software installed.*
+5. Use your customized script by simply launching your saved .AHK file or alternatively, you can compile it into an .EXE file by right-clicking the saved .AHK file and selecting **"Compile Script"**. - _This will create an .EXE version of the script that will be able to run on computers that do not have the Autohotkey software installed._
 6. Move your new custom .EXE or .AHK script file into the same folder as the original `Ableton Takeover.EXE` script file location.
 
 ## Customizing the **Power & Sleep Hotkeys** script
@@ -359,8 +357,7 @@ Once these blocks of code are activated and edited to your personal preference, 
 2. Open the **`Power & Sleep Hotkeys.AHK`** file in the `Dok's Rx Cabinet\Over The Counter\Power & Sleep` folder with any text editor such as "Notepad"; or a script editor such as "SciTE4Autohotkey."
 3. Edit the script text to adjust the hotkey commands to meet your desired preferences, following the instructions within the `Power & Sleep Hotkeys README.txt` file.
 4. Save your customized changes to the .AHK script file.
-5. Use your customized script by simply launching your saved .AHK file or alternatively, you can compile it into an .EXE file by right-clicking the saved .AHK file and selecting **"Compile Script"**.
-  - *This will create an .EXE version of the script that will be able to run on computers that do not have the Autohotkey software installed.*
+5. Use your customized script by simply launching your saved .AHK file or alternatively, you can compile it into an .EXE file by right-clicking the saved .AHK file and selecting **"Compile Script"**. - _This will create an .EXE version of the script that will be able to run on computers that do not have the Autohotkey software installed._
 6. Move your new custom .EXE or .AHK script file into the same folder as the original `Power & Sleep Hotkeys.EXE` script file location.
 
 ## Customizing the **Research Chemicals** script
