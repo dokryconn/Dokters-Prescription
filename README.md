@@ -110,7 +110,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for i
 
 ## Optional* "Dokter’s Prescription" shortcuts
 
-_*See the **"Customizing Scripts"** section below, for instructions on activating the following optional shortcuts:_
+_*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for instructions on activating the following optional shortcuts:_
 
 - **A-Z Launch/Toggle Programs** - These shortcuts are __disabled by default__ but can be customized to your prefernce by editing the **`Dok's Rx (Raw).AHK`** script. These shortcuts will launch a specified program if it is not currently running, **OR** toggle the program window if the program is currently running, using the following hotkeys:
   - **`[WIN+SHIFT+** *letter key* **]`**
@@ -160,7 +160,7 @@ The `Dok’s Rx` folder contains the following items referenced by the  **`Dokte
 
 - **The "Dok's Rx (Raw).AHK" script:**
   - This .AHK script is included for customizing the **Dokter's Prescription** script to meet your desired preferences.
-  - See the "**Customizing Scripts**" section below for more info about this.
+  - _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for more info about this.
 
 - **Icon files referenced by the the "Dok's Rx (Raw).AHK" script.**
 
@@ -176,7 +176,7 @@ The `Over The Counter` folder contains additional scripts referenced by **`Dokte
 
 Reference the `Ableton Takeover README.txt` for more info and the complete list of default program processes included in the .EXE version of this script.
 
-An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Counter\Ableton Takeover` for optional customizing. Although the .EXE version of **Ableton Takeover** includes a *decent* list of *common* programs, you can edit this script to include the program processes that are typically running while you are using Ableton Live. (See "Customizing Scripts" section below.)
+An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Counter\Ableton Takeover` for optional customizing. Although the .EXE version of **Ableton Takeover** includes a *decent* list of *common* programs, you can edit this script to include your own program processes that are commonly running while you are using Ableton Live. (_*[Go to the **Customizing Scripts** section](###customizing-the-ableton-takeovertscript) below for more info on this.)
 
 
 
@@ -189,7 +189,9 @@ An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Cou
  - **Launch Script** while running **Dokter's Prescription** - **`[CTRL+ALT+SHIFT+P]`**
  - **Exit Script** this script by pressing **`[CTRL+ALT+SHIFT+HOME]`**
 
-An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Counter\Power & Sleep` for optional customizing. Although the .EXE version of **Power & Sleep Hotkeys** includes the hotkeys shown above, you can edit this script to adjust the hotkeys for your personal preference. (See the "**Customizing Scripts**" section below.)
+An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Counter\Power & Sleep` for optional customizing. Although the .EXE version of **Power & Sleep Hotkeys** includes the hotkeys shown above, you can edit this script to adjust the hotkeys for your personal preference. 
+
+_*[Go to the **Customizing the Power & Sleep Hotkeys script** section](###customizing-the-power-&-sleep-hotkeys-script) below for more info on this
 
 
 
