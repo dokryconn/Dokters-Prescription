@@ -35,13 +35,13 @@ _*See the **"Customizing Scripts"** section below, for instructions on customizi
   - `[PRINTSCREEN]`
 - Quit Program:
   - `[WIN+Q]`
-  - Close Window/Tab:
+- Close Window/Tab:
   - `[WIN+W]`
-  - Minimize Window
+- Minimize Window
   - `[WIN+DOWN]`
-  - Maximize Window
+- Maximize Window
   - `[WIN+UP]`
-  - Convert selected text to uppercase:
+- Convert selected text to uppercase:
   - `[CTRL+SHIFT+U]`
 - Convert selected text to lowercase:
   - `[CTRL+SHIFT+L]`
