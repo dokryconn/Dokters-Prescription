@@ -23,7 +23,7 @@ A script suite to make life easier for Windows and **Ableton Live** users.
 
 _*See the **"Customizing Scripts"** section below, for instructions on how to customize or remove any default shortcuts included in this script._
 
-### **`WINDOWS SHORTCUTS`**
+### **WINDOWS SHORTCUTS**
 
 - **2ND `[WIN]` KEYBOARD KEY:**
   - `[Menu Key]`
@@ -58,11 +58,11 @@ _*See the **"Customizing Scripts"** section below, for instructions on how to cu
 - **VOLUME DOWN:**
   - `[ALT+ -]`
 
-### **`ABLETON LIVE SHORTCUTS`**
+### **ABLETON LIVE SHORTCUTS**
 - 
 
 
-### Spotify shortcuts
+### **SPOTIFY SHORTCUTS**
 - **PLAY / PAUSE:**
   - `[ALT+P]`
 - **PREVIOUS TRACK:**
@@ -82,7 +82,7 @@ _*See the **"Customizing Scripts"** section below, for instructions on how to cu
 - **SKIP FORWARD 15 SECONDS:**
   - `[ALT+APOSTROPHE]`
 
-### Chrome shortcuts
+### **CHROME SHORTCUTS**
 - **NEW WINDOW:**
   - `[ALT+N]`
 - **NEW TAB:**
@@ -94,7 +94,7 @@ _*See the **"Customizing Scripts"** section below, for instructions on how to cu
 - **INCOGNITO WINDOW:**
   - `[ALT+I]`
   
-### Brave Browser shortcuts
+### **BRAVE BROWSER SHORTCUTS**
 - **NEW WINDOW:**
   - `[ALT+N]`
 - **NEW TAB:**
@@ -220,31 +220,31 @@ The `Research Chemicals` folder contains the `Research Chemicals.AHK` script and
     - *This will create an .EXE version of the script that will be able to run on computers that do not have the Autohotkey software installed.*
 6. Move your new custom .EXE or .AHK script file into the same folder as the original `Dokter's Prescription.EXE` script file location.
 
-- Customizing the **Launch/Toggle Programs** shortcuts within `Dok's Rx (Raw).AHK`:
+### Customizing the **Launch/Toggle Programs** shortcuts within `Dok's Rx (Raw).AHK`:
 
 **NOTE:** By default, the **Launch/Toggle Programs** shortcuts in **`Dok's Rx (Raw),AHK`** are deactivated to keep this portion of the script in a clean, "template code" format. There are detailed instruction comments within the **`Dok's Rx (Raw).AHK`** file to guide you through customizing the script for your personal needs.
 
-  - These deactivated blocks of code can be activated by removing the `/*`and `*/` brackets for each **Launch/Toggle Programs** hotkey shortcut. 
+  - The deactivated blocks of code can be activated by removing the `/*`and `*/` brackets for each **Launch/Toggle Programs** hotkey shortcut. 
 
   - In addition to removing the comment block brackets, you will need to replace portions of the "template code" with the **program name** and **file path** for each desired program. There are detailed instructions on how to customizing these features located in the actual script file via comments labled under: "PLEASE READ - ADJUST FOR YOUR OWN PROGRAMS:""
 
 Once these blocks of code are activated and edited to your personal preference, they will allow you to Launch/Toggle Programs windows using `WIN+(number key)` and/or `WIN+SHIFT+(letter key)` as described previosuly above.
 
-- Calibrating the **mouse clicks** within `Dok's Rx (Raw).AHK`:
+### Calibrating the **mouse clicks** within `Dok's Rx (Raw).AHK`:
 
 Within the **Ableton Live** and **Spotify** shortcuts are various hotkeys that send mouse clicks to specified screen coordinates. These will most likely need to be adjusted for your screen size/resolution. There are instruction comments within the script to guide you through calibrating these mouse click coordinates:
 
-`TO EDIT THESE MOUSE CLICK HOTKEYS:
+- Follow these instructions to calibrate the mouse click hotkeys:
 1.) PRESS [CTRL+ALT+SHIFT+C] WHILE RUNNING THE "Research Chemicals.AHK" SCRIPT TO IDENTIFY A SPECIFIC MOUSE COORDINATE POSITION TO EDIT THESE HOTKEYS
 2.) NOTE THE MOUSE COORDINATES FOR THE X AND Y POSITIONS THAT ARE DISPLAYED IN THE POP-UP MESSAGE BOX
 3.) INSERT EACH SPECIFIC SET OF COORDINATES INTO THE "MouseClick" line of code for each MOUSE CLICK HOTKEY LISTED BELOW
-4.) YOU HAVE SUCCESSFULLY CUSTOMIZED THE MOUSE CLICK HOTKEYS FOR YOUR OWN SCREEN RESOLUTION. YOU'RE DONE!`
+4.) YOU HAVE SUCCESSFULLY CUSTOMIZED THE MOUSE CLICK HOTKEYS FOR YOUR OWN SCREEN RESOLUTION. YOU'RE DONE!
 
-- Customizing the **Hotstrings** shortcuts within `Dok's Rx (Raw).AHK`:
+### Customizing the **Hotstrings** shortcuts within `Dok's Rx (Raw).AHK`:
 
 **NOTE:** By default, the **Hotstrings** in **`Dok's Rx (Raw),AHK`** are deactivated to keep this portion of the script in a clean, "template code" format.
 
-  - These deactivated blocks of code can be activated by removing the `/*`and `*/` brackets for each **Hotstring** shortcut.
+- The deactivated blocks of code can be activated by removing the `/*`and `*/` brackets for each **Hotstring** shortcut.
 
 Once these blocks of code are activated and edited to your personal preference, you can trigger specific strings of text with the abbrevated "hotstring" that you have configured.
 
