@@ -103,19 +103,23 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for i
 
 _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for instructions on activating the following optional shortcuts:_
 
-### **A-Z LAUNCH/TOGGLE PROGRAMS** - These shortcuts are __disabled by default__ but can be customized to your prefernce by editing the **`Dok's Rx (Raw).AHK`** script. These shortcuts will launch a specified program if it is not currently running, **OR** toggle the program window if the program is currently running, using the following hotkeys:
+### **A-Z LAUNCH/TOGGLE PROGRAMS:**
+- These shortcuts are __disabled by default__ but can be customized to your prefernce by editing the **`Dok's Rx (Raw).AHK`** script.
+- These shortcuts will launch a specified program if it is not currently running, **OR** toggle the program window if the program is currently running, using the following hotkeys:
   - **`[WIN+SHIFT+** *letter key* **]`**
     - i.e. **`[WIN+SHIFT+A]`**; **`[WIN+SHIFT+B]`**; **`[WIN+SHIFT+C]`**; etc.
 
 _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
 
-### **0-9 LAUNCH/TOGGLE PROGRAMS** - These shortcuts are __disabled by default__ but can be customized to your personal prefernce by editing the **`Dok's Rx (Raw).AHK`** script. These shortcuts will launch a specified program if it is not currently running, **OR** toggle the program window if the program is currently running, using the following hotkeys:
+### **0-9 LAUNCH/TOGGLE PROGRAMS:**
+- These shortcuts are __disabled by default__ but can be customized to your personal prefernce by editing the **`Dok's Rx (Raw).AHK`** script. 
+- These shortcuts will launch a specified program if it is not currently running, **OR** toggle the program window if the program is currently running, using the following hotkeys:
   - **`[WIN+** *number key* **]`**
     - i.e. **`[WIN+1]`**; **`[WIN+2]`**; **`[WIN+3]`**; etc.
     
  _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
 
-### **MOUSE CLICK HOTKEYS FOR ABLETON LIVE AND SPOTIFY**
+### **MOUSE CLICK HOTKEYS FOR `ABLETON LIVE` AND `SPOTIFY`:**
 - These shortcuts are __disabled by default__ but can be customized to your personal prefernce by editing the **`Dok's Rx (Raw).AHK`** script. 
 - These hotkeys will trigger mouse clicks on specified screen coordinates and return the mouse position to it's original position.
 
@@ -267,9 +271,9 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for mo
     - *This will create an .EXE version of the script that will be able to run on computers that do not have the Autohotkey software installed.*
 6. Move your new custom .EXE or .AHK script file into the same folder as the original `Dokter's Prescription.EXE` script file location.
 
-### Customizing the **Launch/Toggle Programs** shortcuts within `Dok's Rx (Raw).AHK`:
+### Customizing the **LAUNCH/TOGGLE PROGRAMS** shortcuts within `Dok's Rx (Raw).AHK`:
 
-**NOTE:** By default, the **Launch/Toggle Programs** shortcuts in **`Dok's Rx (Raw),AHK`** are deactivated to keep this portion of the script in a clean, "template code" format. There are detailed instruction comments within the **`Dok's Rx (Raw).AHK`** file to guide you through customizing the script for your personal needs.
+**NOTE:** By default, the **Launch/Toggle Programs** shortcuts in **`Dok's Rx (Raw),AHK`** are deactivated to keep this portion of the script in a clean, "template code" format. There are detailed instruction comments within the **`Dok's Rx (Raw).AHK`** script file to guide you through customizing the script.
 
   - The deactivated blocks of code can be activated by removing the `/*`and `*/` brackets for each **Launch/Toggle Programs** hotkey shortcut. 
 
@@ -278,6 +282,16 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for mo
 Once these blocks of code are activated and edited to your personal preference, they will allow you to Launch/Toggle Programs windows using `WIN+(number key)` and/or `WIN+SHIFT+(letter key)` as described previosuly above.
 
 ### Calibrating the **MOUSE CLICK HOTKEYS** within `Dok's Rx (Raw).AHK`:
+
+**NOTE:** By default, the **MOUSE CLICK HOTKEYS** in **`Dok's Rx (Raw),AHK`** are deactivated to keep this portion of the script in a "template code" format. There are detailed instruction comments within the **`Dok's Rx (Raw).AHK`** script file to guide you through customizing the script.
+
+ - The deactivated blocks of code can be activated by removing the `/*`and `*/` brackets surrounding the block of code for each deactivated block.
+ 
+ - In addition to removing the comment block brackets, you will need to replace portions of the "template code" with the **program name** and **file path** for each desired program. There are detailed instructions on how to customizing these features located in the actual script file via comments labled under: "PLEASE READ - ADJUST FOR YOUR OWN PROGRAMS:""
+
+Once these blocks of code are activated and edited to your personal preference, they will allow you to click on your specified screen coordinates by using a hotkey.
+
+_[Go to the "Optional* "Dokter’s Prescription" shortcuts section](#Optional*-"Dokter’s-Prescription"-shortcuts) above, to reference the keyboard shortcuts for this feature.
 
 The default shortcuts for **Ableton Live** and **Spotify** use a few hotkeys that send mouse clicks to specified screen coordinates. These will need to be adjusted for your screen size/resolution. There are instruction comments within the script to guide you through calibrating these mouse click coordinates:
 
