@@ -8,11 +8,11 @@ A script suite to make life easier for Windows and **Ableton Live** users.
 
 **NOTE: For the complete list of keyboard shortcuts, reference the included `Dok's Rx Guide.xls` spreadsheet**
 
+  - **Windows** - 15 keyboard shortcuts
   - **Ableton Live** - 47 keyboard shortcuts
   - **Spotify** - 9 keyboard shortcuts
   - **Google Chrome** - 5 keyboard shortcuts
   - **Brave Browser** - 5 keyboard shortcuts
-  - **Windows** - 15 keyboard shortcuts
   - **Run extra scripts** - 3 keyboard shortcuts
   
 *Program-specific shortcuts are only enabled while the corresponding program window is active.*
@@ -170,7 +170,7 @@ The `Dok’s Rx` folder contains the following items referenced by the  **`Dokte
 The `Over The Counter` folder contains additional scripts referenced by **`Dokter's Prescription.EXE`** and **`Dok's Rx (Raw).AHK`**. These scripts can also be launched and used independently without the **`Dokter's Prescription.EXE`** or **`Dok's Rx (Raw).AHK`** running. This folder contains:
 
 ### THE "ABLETON TAKEOVER.EXE" SCRIPT:
- - Suspends program processes of specified programs while the Ableton Live window is active and resumes the program processes once the Ableton Live window is not active.
+ - **Suspends program processes of specified programs while the Ableton Live window is active and resumes the program processes once the Ableton Live window is not active.**
  - **LAUNCH SCRIPT WHILE RUNNING Dokter's Prescription**
     - `[CTRL+ALT+SHIFT+A]`
  - **EXIT SCRIPT**
