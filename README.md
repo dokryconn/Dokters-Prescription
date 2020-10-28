@@ -176,7 +176,9 @@ The `Over The Counter` folder contains additional scripts referenced by **`Dokte
 
 Reference the `Ableton Takeover README.txt` for more info and the complete list of default program processes included in the .EXE version of this script.
 
-An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Counter\Ableton Takeover` for optional customizing. Although the .EXE version of **Ableton Takeover** includes a *decent* list of *common* programs, you can edit this script to include your own program processes that are commonly running while you are using Ableton Live. (_*[Go to the **Customizing Scripts** section](###customizing-the-ableton-takeovertscript) below for more info on this.)
+An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Counter\Ableton Takeover` for optional customizing. Although the .EXE version of **Ableton Takeover** includes a *decent* list of *common* programs, you can edit this script to include your own program processes that are commonly running while you are using Ableton Live. 
+
+_*[Go to the **Customizing Scripts** section](#customizing-scripts) below for more info on this.
 
 
 
@@ -191,7 +193,7 @@ An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Cou
 
 An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Counter\Power & Sleep` for optional customizing. Although the .EXE version of **Power & Sleep Hotkeys** includes the hotkeys shown above, you can edit this script to adjust the hotkeys for your personal preference. 
 
-_*[Go to the **Customizing the Power & Sleep Hotkeys script** section](###customizing-the-power-&-sleep-hotkeys-script) below for more info on this
+_*[Go to the **Customizing Scripts** section](#customizing-scripts) below for more info on this.
 
 
 
