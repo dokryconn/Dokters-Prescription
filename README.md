@@ -75,7 +75,7 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below, for in
   - `[ALT+I]`
 
 
-### **Chrome Hotkeys**
+### **Google Chrome Hotkeys**
 - **NEW WINDOW:**
   - `[ALT+N]`
 - **NEW TAB:**
@@ -103,14 +103,14 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below, for in
 
 ## Optional* "Dokter’s Prescription" Hotkeys
 
-The optional hotkey hotkeys listed below can be added to the script by editing "**Dok's Rx Pad.AHK**" script located in `Dok's Rx Cabinet\Dok's Rx`.
+The optional hotkeys listed below are __disabled by default__ can be added to the script by editing "**Dok's Rx Pad.AHK**" script located in `Dok's Rx Cabinet\Dok's Rx`.
 
 _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for instructions on how to activate the following optional hotkeys:_
 
 ### A-Z Launch/Toggle Programs:
 - These hotkeys are __disabled by default__ but can be customized to your preference by editing the **`Dok's Rx Pad.AHK`** script.
 - These hotkeys will launch a specified program if it is not currently running, **OR** toggle the program window if the program is currently running, using the following hotkeys:
-  - **`[WIN+SHIFT+** *letter key* **]`**
+  - **`[WIN + SHIFT + letter key]`**
     - i.e. **`[WIN+SHIFT+A]`**; **`[WIN+SHIFT+B]`**; **`[WIN+SHIFT+C]`**; etc.
 
 _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
@@ -118,7 +118,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for m
 ### 0-9 Launch/Toggle Programs
 - These hotkeys are __disabled by default__ but can be customized to your personal preference by editing the **`Dok's Rx Pad.AHK`** script. 
 - These hotkeys will launch a specified program if it is not currently running, **OR** toggle the program window if the program is currently running, using the following hotkeys:
-  - **`[WIN+** *number key* **]`**
+  - **`[WIN + number key]`**
     - i.e. **`[WIN+1]`**; **`[WIN+2]`**; **`[WIN+3]`**; etc.
     
  _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
@@ -201,7 +201,7 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below for mor
 - **The "App Launch Shortcuts" folder**
   - Used for storing created program shortcut files for launching/toggling apps that were installed by Microsoft Store.
   
-*The `App Launch Shortcuts` sub-folder within `Dok’s Rx Cabinet\Dok’s Rx` is a location to keep program hotkeys for the "program launch/toggle" optional template code within the **Dokter's Prescription** script.*
+*The `App Launch Shortcuts` sub-folder within `Dok’s Rx Cabinet\Dok’s Rx` is a location to keep program shortcuts for the "Launch/Toggle Programs" optional template code within the "*Dok's Rx Pad**" script.*
 
 *For example, programs that are downloaded from the Microsoft Store are not located in the standard program location. These programs are usually nested within `C:\Program Files\WindowsApps`. Typically, if you attempt the run the programs directly from their native file location, they will not launch properly. For these instances, you can create a program shortcut for these applications and move it into the `App Launch Shortcuts` folder.*
 
@@ -291,7 +291,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for mo
 
 1. Ensure that the Autohotkey software is installed on your computer - https://autohotkey.com/
 2. Open the **`Dok's Rx Pad.AHK`** file in the `Dok's Rx Cabinet\Dok's Rx`folder with any text editor such as "Notepad"; or a script editor such as "SciTE4Autohotkey."
-3. Edit the script text for each shortcut feature as desired, following the instruction comments embedded within the script.
+3. Edit the script text for each hotkey feature as desired, following the instruction comments embedded within the script.
 4. Save your customized changes to the .AHK script file.
 5. Use your customized script by simply launching your saved .AHK file or alternatively, you can compile it into an .EXE file by right-clicking the saved .AHK file and selecting **"Compile Script"**.
     - *This will create an .EXE version of the script that will be able to run on computers that do not have the Autohotkey software installed.*
