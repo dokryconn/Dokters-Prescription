@@ -21,63 +21,63 @@ A script suite to make life easier for Windows and **Ableton Live** users.
 - **Exit Script** - **`[CTRL+ALT+SHIFT+END]`**
 
 _*See the **"Customizing Scripts"** section below, for instructions on customizing all default shortcuts included in this script._
-
 ### Ableton Live shortcuts
-- Please reference the **"Dok's Rx Guide.xls"** spreadsheet to review the 47 different keyboard shortcuts included in this script for Abeton Live.
+
+
 
 ### Windows shortcuts
 
-- **2nd `[WIN]` keyboard key:**
+- **2ND `[WIN]` KEYBOARD KEY:**
   - `[Menu Key]`
-- **Launch File Explorer ("C:\Users"):**
+- **LAUNCH FILE EXPLORER ("C:\USERS"):**
   - `[CTRL+TILDE]`
-- **Capture Screenshot:**
+- **LAUNCH FILE EXPLORER ("C:\USERS"):**
   - `[PRINTSCREEN]`
-- **Quit Program:**
+- **QUIT PROGRAM:**
   - `[WIN+Q]`
-- **Close Window/Tab:**
+- **CLOSE WINDOW/TAB:**
   - `[WIN+W]`
-- **Minimize Window:**
+- **MINIMIZE WINDOW:**
   - `[WIN+DOWN]`
-- **Maximize Window:**
+- **MAXIMIZE WINDOW:**
   - `[WIN+UP]`
-- **Convert selected text to uppercase:**
+- **CONVERT SELECTED TEXT TO UPPERCASE:**
   - `[CTRL+SHIFT+U]`
-- **Convert selected text to lowercase:**
+- **CONVERT SELECTED TEXT TO LOWERCASE:**
   - `[CTRL+SHIFT+L]`
-- **Invert case of selected text:**
+- **INVERT CASE OF SELECTED TEXT:**
   - `[CTRL+SHIFT+I]`
-- **Play / Pause Media:**
+- **PLAY / PAUSE MEDIA:**
   - `[ALT+P]`
-- **Previous Track:**
+- **PREVIOUS TRACK:**
   - `[ALT+>]`
-- **Next Track:**
+- **NEXT TRACK:**
   - `[ALT+<]`
-- **Mute Media:**
+- **MUTE MEDIA:**
   - `[ALT+M]`
-- **Volume Up:**
+- **VOLUME UP:**
   - `[ALT+ +]`
-- **Volume Down:**
+- **VOLUME DOWN:**
   - `[ALT+ -]`
 
 ### Spotify shortcuts
-- **Play / Pause:**
+- **PLAY / PAUSE:**
   - `[ALT+P]`
-- **Previous Track:**
+- **PREVIOUS TRACK:**
   - `[ALT+<]`
-- **Next Track:**
+- **NEXT TRACK:**
   - `[ALT+>]`
-- **Private Session:**
+- **PRIVATE SESSION:**
   - `[ALT+I]`
-- **Home:**
+- **HOME:**
   - `[ALT+H]`
-- **Browse:**
+- **BROWSE:**
   - `[ALT+B]`
-- **Radio**
+- **RADIO**
   - `[ALT+R]`
-- **Skip back 15 seconds**
+- **SKIP BACK 15 SECONDS**
   - `[ALT+SEMICOLON]`
-- **Skip forward 15 seconds:**
+- **SKIP FORWARD 15 SECONDS:**
   - `[ALT+APOSTROPHE]`
 
 ### Chrome shortcuts
@@ -93,19 +93,19 @@ _*See the **"Customizing Scripts"** section below, for instructions on customizi
   - `[ALT+I]`
   
 ### Brave Browser shortcuts
-- **New Window:**
+- **NEW WINDOW:**
   - `[ALT+N]`
-- **New Tab:**
+- **NEW TAB:**
   - `[ALT+T]`
-- **Refresh:**
+- **REFRESH:**
   - `[ALT+R]`
-- **Close Tab:**
+- **CLOSE TAB:**
   - `[ALT+W]`
-- **Incognito Window:**
+- **INCOGNITO WINDOW:**
   - `[ALT+I]`
 
 
-  
+
 ## Optional* "Dokter’s Prescription" shortcuts
 
 _*See the **"Customizing Scripts"** section below, for instructions on activating the following optional shortcuts:_
