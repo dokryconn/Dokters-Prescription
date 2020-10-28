@@ -26,6 +26,9 @@ _*See the **"Customizing Scripts"** section below, for instructions on customizi
 - Please reference the **"Dok's Rx Guide.xls"** spreadsheet to review the 47 different keyboard shortcuts included in this script for Abeton Live.
 
 ### Windows shortcuts
+
+- "Men" keyboard key remapped as `[WIN]` key
+
 - Launch File Explorer ("C:\Users"):
 
   - `[CTRL+TILDE]`
@@ -34,10 +37,15 @@ _*See the **"Customizing Scripts"** section below, for instructions on customizi
 
   - `[PRINTSCREEN]`
 
-- Quit Program - `[WIN+Q]`
-- Close Window/Tab - `[WIN+W]`
-- Minimize Window - `[WIN+DOWN]`
-- Maximize Window - `[WIN+UP]`
+- Quit Program:
+  - `[WIN+Q]`
+  
+- Close Window/Tab
+  - `[WIN+W]`
+- Minimize Window
+  - `[WIN+DOWN]`
+- Maximize Window
+  - `[WIN+UP]`
 - "Menu Key" remapped as `[WIN]` key
 - Uppercase Selected Text - `[CTRL+SHIFT+U]`
 - Lowercase Selected Text - `[CTRL+SHIFT+L]`
