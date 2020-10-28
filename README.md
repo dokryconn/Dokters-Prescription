@@ -27,36 +27,85 @@ _*See the **"Customizing Scripts"** section below, for instructions on customizi
 
 ### Windows shortcuts
 
-- Second `[WIN]` key remapped from:
+- 2nd `[WIN]` keyboard key:
   - `[Menu Key]`
-
 - Launch File Explorer ("C:\Users"):
-
   - `[CTRL+TILDE]`
-
 - Capture Screenshot:
-
   - `[PRINTSCREEN]`
-
 - Quit Program:
   - `[WIN+Q]`
-  
-- Close Window/Tab:
+  - Close Window/Tab:
   - `[WIN+W]`
-- Minimize Window
+  - Minimize Window
   - `[WIN+DOWN]`
-- Maximize Window
+  - Maximize Window
   - `[WIN+UP]`
-- "Menu Key" remapped as `[WIN]` key
-- Uppercase Selected Text - `[CTRL+SHIFT+U]`
-- Lowercase Selected Text - `[CTRL+SHIFT+L]`
-- Invert Case of Selected Text - `[CTRL+SHIFT+I]`
-- Play / Pause Media - `[ALT+P]`
-- Previous Track - `[ALT+>]`
-- Next Track - `[ALT+<]`
-- Mute Media - `[ALT+M]`
-- Volume Up - `[ALT+ +]`
-- Volume Down - `[ALT+ -]`
+  - Convert selected text to uppercase:
+  - `[CTRL+SHIFT+U]`
+- Convert selected text to lowercase:
+  - `[CTRL+SHIFT+L]`
+- Invert case of selected text
+  - `[CTRL+SHIFT+I]`
+- Play / Pause Media
+  - `[ALT+P]`
+- Previous Track
+  - `[ALT+>]`
+- Next Track
+  - `[ALT+<]`
+- Mute Media
+  - `[ALT+M]`
+- Volume Up
+  - `[ALT+ +]`
+- Volume Down
+  - `[ALT+ -]`
+
+### Spotify shortcuts
+- Play / Pause:
+  - `[ALT+P]`
+- Previous Track:
+  - `[ALT+<]`
+- Next Track:
+  - `[ALT+>]`
+- Private Session:
+  - `[ALT+I]`
+- Home:
+  - `[ALT+H]`
+- Browse:
+  - `[ALT+B]`
+- Radio
+  - `[ALT+R]`
+- SKIP BACK 15 SECONDS
+  - `[ALT+SEMICOLON]`
+- SKIP FORWARD 15 SECONDS:
+  - `[ALT+APOSTROPHE]`
+
+### Chrome shortcuts
+- New Window:
+  - `[ALT+N]`
+- New Tab:
+  - `[ALT+T]`
+- Refresh:
+  - `[ALT+R]`
+- Close Tab:
+  - `[ALT+W]`
+- Incognito Window:
+  - `[ALT+I]`
+  
+### Brave Browser shortcuts
+- New Window:
+  - `[ALT+N]`
+- New Tab:
+  - `[ALT+T]`
+- Refresh:
+  - `[ALT+R]`
+- Close Tab:
+  - `[ALT+W]`
+- Incognito Window:
+  - `[ALT+I]`
+
+
+  
 ## Optional* "Dokter’s Prescription" shortcuts
 
 _*See the **"Customizing Scripts"** section below, for instructions on activating the following optional shortcuts:_
@@ -86,7 +135,7 @@ These additional packaged scripts can of course be launched manually from `Dok's
 
 
 
-#	The "Dok’s Rx" folder
+##	The "Dok’s Rx" folder
 The `Dok’s Rx` folder contains the following items referenced by the  **`Dokter's Prescription.EXE`** and **`Dok's Rx (Raw).AHK`** scripts:
 
 - **The "Dok’s Rx Guide.xls" spreadsheet**
@@ -115,10 +164,10 @@ The `Dok’s Rx` folder contains the following items referenced by the  **`Dokte
 
 
 
-#	The "Over The Counter" folder
+##	The "Over The Counter" folder
 The `Over The Counter` folder contains additional scripts referenced by **`Dokter's Prescription.EXE`** and **`Dok's Rx (Raw).AHK`**. These scripts can also be launched and used independently without the **`Dokter's Prescription.EXE`** or **`Dok's Rx (Raw).AHK`** running. This folder contains:
 
-## The "Ableton Takeover.EXE" script:
+### The "Ableton Takeover.EXE" script:
  - Suspends program processes of specified programs while the Ableton Live window is active and resumes the program processes once the Ableton Live window is not active.
  - **Launch Script** while running **Dokter's Prescription** - **`[CTRL+ALT+SHIFT+A]`**
  - **Exit Script** - **`[CTRL+ALT+SHIFT+DEL]`**
@@ -129,7 +178,7 @@ An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Cou
 
 
 
-## The "Power & Sleep Hotkeys.EXE" script:
+### The "Power & Sleep Hotkeys.EXE" script:
  - Enables hotkeys to sleep, hibernate, restart, or shutdown your PC. 
  - **Sleep PC** - **`[CTRL+ALT+SHIFT+ESC]`**
  - **Resart PC** - **`[CTRL+ALT+SHIFT+F5]`**
@@ -145,7 +194,7 @@ An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Cou
 # The "Research Chemicals" folder
 The `Research Chemicals` folder contains the `Research Chemicals.AHK` script and associated tray icons. The `Research Chemicals.AHK` script is a “testing script” to be used for Autohotkey script development. (Includes Autohotkey's "Window Spy" tool in the tray menu)
 
-## The "Research Chemicals.AHK" script:
+### The "Research Chemicals.AHK" script:
  - You can edit this script with functions that you would like to test but do not want to incorporate into your main Autohotkey script.
  - **Display test message - `[CTRL+ALT+SHIFT+T]`**
  - **Identify mouse cursor coordinates - `[CTRL+ALT+SHIFT+C]`**
@@ -178,6 +227,16 @@ The `Research Chemicals` folder contains the `Research Chemicals.AHK` script and
   - In addition to removing the comment block brackets, you will need to replace portions of the "template code" with the **program name** and **file path** for each desired program. There are detailed instructions on how to customizing these features located in the actual script file via comments labled under: "PLEASE READ - ADJUST FOR YOUR OWN PROGRAMS:""
 
 Once these blocks of code are activated and edited to your personal preference, they will allow you to Launch/Toggle Programs windows using `WIN+(number key)` and/or `WIN+SHIFT+(letter key)` as described previosuly above.
+
+- Calibrating the **mouse clicks** within `Dok's Rx (Raw).AHK`:
+
+Within the **Ableton Live** and **Spotify** shortcuts are various hotkeys that send mouse clicks to specified screen coordinates. These will most likely need to be adjusted for your screen size/resolution. There are instruction comments within the script to guide you through calibrating these mouse click coordinates:
+
+`TO EDIT THESE MOUSE CLICK HOTKEYS:
+1.) PRESS [CTRL+ALT+SHIFT+C] WHILE RUNNING THE "Research Chemicals.AHK" SCRIPT TO IDENTIFY A SPECIFIC MOUSE COORDINATE POSITION TO EDIT THESE HOTKEYS
+2.) NOTE THE MOUSE COORDINATES FOR THE X AND Y POSITIONS THAT ARE DISPLAYED IN THE POP-UP MESSAGE BOX
+3.) INSERT EACH SPECIFIC SET OF COORDINATES INTO THE "MouseClick" line of code for each MOUSE CLICK HOTKEY LISTED BELOW
+4.) YOU HAVE SUCCESSFULLY CUSTOMIZED THE MOUSE CLICK HOTKEYS FOR YOUR OWN SCREEN RESOLUTION. YOU'RE DONE!`
 
 - Customizing the **Hotstrings** shortcuts within `Dok's Rx (Raw).AHK`:
 
