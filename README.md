@@ -169,10 +169,12 @@ The `Dok’s Rx` folder contains the following items referenced by the  **`Dokte
 ##	The "Over The Counter" folder
 The `Over The Counter` folder contains additional scripts referenced by **`Dokter's Prescription.EXE`** and **`Dok's Rx (Raw).AHK`**. These scripts can also be launched and used independently without the **`Dokter's Prescription.EXE`** or **`Dok's Rx (Raw).AHK`** running. This folder contains:
 
-### The "Ableton Takeover.EXE" script:
+### THE "ABLETON TAKEOVER.EXE" SCRIPT:
  - Suspends program processes of specified programs while the Ableton Live window is active and resumes the program processes once the Ableton Live window is not active.
- - **Launch Script** while running **Dokter's Prescription** - **`[CTRL+ALT+SHIFT+A]`**
- - **Exit Script** - **`[CTRL+ALT+SHIFT+DEL]`**
+ - **LAUNCH SCRIPT WHILE RUNNING Dokter's Prescription**
+    - `[CTRL+ALT+SHIFT+A]`
+ - **EXIT SCRIPT**
+    - `[CTRL+ALT+SHIFT+DEL]`
 
 Reference the `Ableton Takeover README.txt` for more info and the complete list of default program processes included in the .EXE version of this script.
 
@@ -182,7 +184,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for mo
 
 
 
-### The "Power & Sleep Hotkeys.EXE" script:
+### THE "POWER & SLEEP HOTKEYS.EXE" SCRIPT:
  - Enables hotkeys to sleep, hibernate, restart, or shutdown your PC. 
  - **SLEEP PC**
   - **`[CTRL+ALT+SHIFT+ESC]`**
@@ -192,7 +194,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for mo
   - **`[CTRL+ALT+SHIFT+F9]`**
  - **SHUTDOWN PC**
   - **`[CTRL+ALT+SHIFT+F12]`**
- - **LAUNCH SCRIPT WHILE RUNNING DOKTER'S PRESCRIPTION:**
+ - **LAUNCH SCRIPT WHILE RUNNING Dokter's Prescription:**
   - **`[CTRL+ALT+SHIFT+P]`**
  - **EXIT SCRIPT:**
   - **`[CTRL+ALT+SHIFT+HOME]`**
@@ -206,10 +208,15 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for mo
 # The "Research Chemicals" folder
 The `Research Chemicals` folder contains the `Research Chemicals.AHK` script and associated tray icons. The `Research Chemicals.AHK` script is a “testing script” to be used for Autohotkey script development. (Includes Autohotkey's "Window Spy" tool in the tray menu)
 
-### The "Research Chemicals.AHK" script:
+### THE "RESEARCH CHEMICALS.AHK" SCRIPT:
+This script can be used as a separate "tool box" script and for testing Autohotkey functions temporarily.
+
+**NOTE:** The included hotkey: "Identify Mouse Cursor Coordinates" - **`[CTRL+ALT+SHIT+C]`** in "Research Chemicals.AHK" should be used to calibrate the mouse click hotkeys within **Dokter's Prescription.** 
+
+_*[Go to the **Customizing Scripts** section](#customizing-scripts) below for more info on this._
+
 *The Autohotkey software will need to be installed on your computer to run this script, as there is no compiled .EXE version included due to the nature of it's intended usage.*
 
- - Used as a separate "tool box" script 
  - **IDENTIFY MOUSE CURSOR COORDINATES:**
     - `[CTRL+ALT+SHIFT+C]`
  - **DISPLAY TEST MESSAGE:**
@@ -220,10 +227,8 @@ The `Research Chemicals` folder contains the `Research Chemicals.AHK` script and
     - `[CTRL+ALT+SHIFT+DEL]`
  - **SAVE AND RELOAD SCRIPT:**
     - `[CTRL+S]`
- - You can use this script for Autohotkey functions that you would like to test but do not want to include in your main Autohotkey script.
 
-**NOTE:** You can use this script to help you calibrate the mouse click shortcuts within **Dokter's Prescription**
-_*[Go to the **Customizing Scripts** section](#customizing-scripts) below for more info on this._
+
 
 #	Customizing Scripts
 
@@ -247,11 +252,11 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for mo
 
 Once these blocks of code are activated and edited to your personal preference, they will allow you to Launch/Toggle Programs windows using `WIN+(number key)` and/or `WIN+SHIFT+(letter key)` as described previosuly above.
 
-### Calibrating the **mouse clicks** within `Dok's Rx (Raw).AHK`:
+### Calibrating the **MOUSE CLICK HOTKEYS** within `Dok's Rx (Raw).AHK`:
 
-Within the **Ableton Live** and **Spotify** shortcuts are various hotkeys that send mouse clicks to specified screen coordinates. These will most likely need to be adjusted for your screen size/resolution. There are instruction comments within the script to guide you through calibrating these mouse click coordinates:
+The default shortcuts for **Ableton Live** and **Spotify** use a few hotkeys that send mouse clicks to specified screen coordinates. These will need to be adjusted for your screen size/resolution. There are instruction comments within the script to guide you through calibrating these mouse click coordinates:
 
-- Follow these instructions to calibrate the mouse click hotkeys:
+- **FOLLOW THESE STEPS TO CALIBRATE THE MOUSE CLICK HOTKEYS FOR SPOTIFY AND ABLETON LIVE:**
 1.) PRESS [CTRL+ALT+SHIFT+C] WHILE RUNNING THE "Research Chemicals.AHK" SCRIPT TO IDENTIFY A SPECIFIC MOUSE COORDINATE POSITION TO EDIT THESE HOTKEYS
 2.) NOTE THE MOUSE COORDINATES FOR THE X AND Y POSITIONS THAT ARE DISPLAYED IN THE POP-UP MESSAGE BOX
 3.) INSERT EACH SPECIFIC SET OF COORDINATES INTO THE "MouseClick" line of code for each MOUSE CLICK HOTKEY LISTED BELOW
@@ -271,6 +276,7 @@ Once these blocks of code are activated and edited to your personal preference, 
 
 ## Customizing the **Ableton Takeover** script
 
+- FOLLOW THESE STEPS TO CUSTOMIZE THE "ABLETON TAKEOVER.AHK" SCRIPT:
 1. Ensure that the Autohotkey software is installed on your computer - https://autohotkey.com/
 2. Open the **`Ableton Takeover.AHK`** file in the `Dok's Rx Cabinet\Over The Counter\Ableton Takeover`folder with any text editor such as "Notepad"; or a script editor such as "SciTE4Autohotkey."
 3. Edit the script text to include/exclude any specific program process names, following the instructions within the `Ableton Takeover README.txt` file.
@@ -281,6 +287,7 @@ Once these blocks of code are activated and edited to your personal preference, 
 
 ## Customizing the **Power & Sleep Hotkeys** script
 
+### FOLLOW THESE STEPS TO CUSTOMIZE THE "POWER & SLEEP HOTKEYS.AHK" SCRIPT:
 1. Ensure that the Autohotkey software is installed on your computer - https://autohotkey.com/
 2. Open the **`Power & Sleep Hotkeys.AHK`** file in the `Dok's Rx Cabinet\Over The Counter\Power & Sleep` folder with any text editor such as "Notepad"; or a script editor such as "SciTE4Autohotkey."
 3. Edit the script text to adjust the hotkey commands to meet your desired preferences, following the instructions within the `Power & Sleep Hotkeys README.txt` file.
@@ -291,11 +298,14 @@ Once these blocks of code are activated and edited to your personal preference, 
 
 ## Customizing the **Research Chemicals** script
 
+### FOLLOW THESE STEPS TO CUSTOMIZE THE "RESEARCH CHEMICALS.AHK" SCRIPT:
 1. Ensure that the Autohotkey software is installed on your computer - https://autohotkey.com/
 2. Open the **`Research Chemicals.AHK`** file in the `Dok's Rx Cabinet\Research Chemicals` folder with any text editor such as "Notepad"; or a script editor such as "SciTE4Autohotkey."
 3. Edit the script text to include any Autohotkey functions that you would like to test.
 4. Save your customized changes to the original `Research Chemicals.AHK` script file.
 5. You're done. :)
+
+
 
 # Donate
 
