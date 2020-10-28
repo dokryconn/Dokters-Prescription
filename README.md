@@ -27,7 +27,8 @@ _*See the **"Customizing Scripts"** section below, for instructions on customizi
 
 ### Windows shortcuts
 
-- "Men" keyboard key remapped as `[WIN]` key
+- Second `[WIN]` key remapped from:
+  - `[Menu Key]`
 
 - Launch File Explorer ("C:\Users"):
 
@@ -40,7 +41,7 @@ _*See the **"Customizing Scripts"** section below, for instructions on customizi
 - Quit Program:
   - `[WIN+Q]`
   
-- Close Window/Tab
+- Close Window/Tab:
   - `[WIN+W]`
 - Minimize Window
   - `[WIN+DOWN]`
