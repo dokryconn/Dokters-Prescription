@@ -107,7 +107,7 @@ The optional hotkeys listed below are __disabled by default__ but can be added t
 
 _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for instructions on how to activate the following optional hotkeys:_
 
-### Optional: A-Z Launch/Toggle Programs:
+### Optional*: A-Z Launch/Toggle Programs:
 - These hotkeys are __disabled by default__ but can be customized to your preference by editing the **`Dok's Rx Pad.AHK`** script.
 - These hotkeys will launch a specified program if it is not currently running, **OR** toggle the program window if the program is currently running, using the following hotkeys:
   - **`[WIN + SHIFT + letter key]`**
@@ -115,7 +115,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for i
 
 _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
 
-### Optional: 0-9 Launch/Toggle Programs
+### Optional*: 0-9 Launch/Toggle Programs
 - These hotkeys are __disabled by default__ but can be customized to your personal preference by editing the **`Dok's Rx Pad.AHK`** script. 
 - These hotkeys will launch a specified program if it is not currently running, **OR** toggle the program window if the program is currently running, using the following hotkeys:
   - **`[WIN + number key]`**
@@ -123,13 +123,13 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for m
     
  _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
 
-### Optional: Mouse Click Hotkeys
+### Optional*: Mouse Click Hotkeys
 - These hotkeys are __disabled by default__ but can be customized to your personal preference by editing the **`Dok's Rx Pad.AHK`** script. 
 - These hotkeys will trigger mouse clicks on specified screen coordinates and return the mouse position to it's original position.
 
  _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
 
-##### Optional: ABLETON LIVE HOTKEYS:
+##### Optional*: ABLETON LIVE HOTKEYS:
 - **MIDI ARRANGEMENT OVERDUB BUTTON**
   - `ALT+O`
 - **AUTOMATION ARM BUTTON**
