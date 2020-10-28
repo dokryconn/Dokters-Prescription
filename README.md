@@ -160,13 +160,13 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for m
 - These hotkeys are used for auto-typing strings of text by typing an abbreviated "hotstring."
 
 #### The Hotstring examples included in the Dok's Rx Pad.AHK script are:
-- "YOUR_EMAIL_ADDRESS@EMAIL.com"
+- "**YOUR_EMAIL_ADDRESS@EMAIL.com**"
 	- `[abc.]`
 		- This converts typing "abc." into "YOUR_EMAIL_ADDRESS@EMAIL.com"
-- "YOUR_USERNAME"
+- "**YOUR_USERNAME**"
     - `[xyz.]`
     	- This converts typing "xyz." into "YOUR_USERNAME"
-- "Autohotkey"
+- "**Autohotkey**"
 	- `[ahk.]`
 		- This converts typing "ahk." into "Autohotkey"
 
