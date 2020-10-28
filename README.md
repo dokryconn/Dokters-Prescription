@@ -176,7 +176,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for m
 
 
 #	The "Dok’s Rx Cabinet" folder
-The `Dok's Rx Cabinet` folder contains sub-folders for associated scripts/files referenced by the `Dokter's Prescription.EXE` and Dok's Rx Pad.AHK scripts.
+The `Dok's Rx Cabinet` folder contains sub-folders for associated scripts/files referenced by the "Dokter's Prescription.EXE" and Dok's Rx Pad.AHK scripts.
 
 The following additional scripts are stored within the`Dok's Rx Cabinet` folders:
 
@@ -190,7 +190,7 @@ These additional packaged scripts can of course be launched manually from `Dok's
 
 
 
-##	The "Dok’s Rx" folder
+##	The "Dok’s Rx Pad" folder
 The `Dok’s Rx` folder contains the following items referenced by the  **`Dokter's Prescription.EXE`** and **Dok's Rx Pad.AHK** scripts:
 
 - **The "Dok's Rx Pad.AHK" script:**
