@@ -211,15 +211,15 @@ The `Research Chemicals` folder contains the `Research Chemicals.AHK` script and
 
  - Used as a separate "tool box" script 
  - **IDENTIFY MOUSE CURSOR COORDINATES:**
-  - `[CTRL+ALT+SHIFT+C]`
+    - `[CTRL+ALT+SHIFT+C]`
  - **DISPLAY TEST MESSAGE:**
-  - `[CTRL+ALT+SHIFT+T]`
+    - `[CTRL+ALT+SHIFT+T]`
  - **LAUNCH SCRIPT WHILE RUNNING Dokter's Prescription:**
-  - `[CTRL+ALT+SHIFT+R]`
+    - `[CTRL+ALT+SHIFT+R]`
  - **EXIT SCRIPT:**
-  - `[CTRL+ALT+SHIFT+DEL]`
+    - `[CTRL+ALT+SHIFT+DEL]`
  - **SAVE AND RELOAD SCRIPT:**
-  - `[CTRL+S]`
+    - `[CTRL+S]`
  - You can use this script for Autohotkey functions that you would like to test but do not want to include in your main Autohotkey script.
 
 **NOTE:** You can use this script to help you calibrate the mouse click shortcuts within **Dokter's Prescription**
