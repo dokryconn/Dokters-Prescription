@@ -9,19 +9,19 @@ A script suite to make life easier for Windows and **Ableton Live** users.
 **NOTE: For the complete list of keyboard shortcuts, reference the included `Dok's Rx Guide.xls` spreadsheet**
 
   - **Windows** - **15** custom hotkeys
-  - **Ableton Live** - **47** custom hotkeys
-  - **Spotify** - **9** custom hotkeys
-  - **Google Chrome** - **5** custom hotkeys
-  - **Brave Browser** - **5** custom hotkeys
+  - **Ableton Live*** - **47** custom hotkeys
+  - **Spotify*** - **9** custom hotkeys
+  - **Google Chrome*** - **5** custom hotkeys
+  - **Brave Browser*** - **5** custom hotkeys
   - **Run extra scripts** - **3** custom hotkeys
   
-*Program-specific shortcuts are only enabled while the corresponding program window is active.*
+_*Program-specific shortcuts are only enabled while the corresponding program window is active._
 
 - **Suspend / Resume Script** - **`[CTRL+ALT+SHIFT+PAUSE]`**
 
 - **Exit Script** - **`[CTRL+ALT+SHIFT+END]`**
 
-_*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for instructions on how to customize or remove any default shortcuts included in this script._
+_[Go to the **Customizing Scripts** section](#customizing-scripts) below, for instructions on how to customize or remove any default shortcuts included in this script._
 
 ### **Windows Shortcuts**
 
@@ -190,7 +190,8 @@ The `Dok’s Rx` folder contains the following items referenced by the  **`Dokte
 
 - **The "Dok's Rx Pad.AHK" script:**
   - This .AHK script is included for customizing the **Dokter's Prescription** script to meet your desired preferences.
-  - _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for more info about this._
+
+_[Go to the **Customizing Scripts** section](#customizing-scripts) below for more info on this._
 
 - **The "Dok’s Rx Guide.xls" spreadsheet**
   - Includes a full list of default script functions and includes additional workbook tabs for referencing native hotkeys for a few additional programs.
