@@ -17,9 +17,11 @@ A script suite to make life easier for Windows and **Ableton Live** users.
   
 _*Program-specific shortcuts are only enabled while the corresponding program window is active._
 
-- **Suspend / Resume Script** - **`[CTRL+ALT+SHIFT+PAUSE]`**
+- **Suspend / Resume Script**
+	- `[CTRL+ALT+SHIFT+PAUSE]`
 
-- **Exit Script** - **`[CTRL+ALT+SHIFT+END]`**
+- **Exit Script**
+	- `[CTRL+ALT+SHIFT+END]`
 
 _[Go to the **Customizing Scripts** section](#customizing-scripts) below, for instructions on how to customize or remove any default shortcuts included in this script._
 
