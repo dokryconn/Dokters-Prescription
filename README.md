@@ -107,7 +107,7 @@ The optional hotkeys listed below are __disabled by default__ but can be added t
 
 _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for instructions on how to activate the following optional hotkeys:_
 
-### Optional* - A-Z Launch/Toggle Programs:
+### A-Z Launch/Toggle Programs - Optional*
 - These hotkeys are __disabled by default__ but can be customized to your preference by editing the **`Dok's Rx Pad.AHK`** script.
 - These hotkeys will launch a specified program if it is not currently running, **OR** toggle the program window if the program is currently running, using the following hotkeys:
   - **`[WIN + SHIFT + letter key]`**
@@ -115,7 +115,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for i
 
 _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
 
-### Optional* - 0-9 Launch/Toggle Programs
+### 0-9 Launch/Toggle Programs - Optional*
 - These hotkeys are __disabled by default__ but can be customized to your personal preference by editing the **`Dok's Rx Pad.AHK`** script. 
 - These hotkeys will launch a specified program if it is not currently running, **OR** toggle the program window if the program is currently running, using the following hotkeys:
   - **`[WIN + number key]`**
@@ -123,13 +123,13 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for m
     
  _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
 
-### Optional* - Mouse Click Hotkeys
+### Mouse Click Hotkeys - Optional*
 - These hotkeys are __disabled by default__ but can be customized to your personal preference by editing the **`Dok's Rx Pad.AHK`** script. 
 - These hotkeys will trigger mouse clicks on specified screen coordinates and return the mouse position to it's original position.
 
  _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
 
-##### Optional* - ABLETON LIVE HOTKEYS:
+#### Ableton Live - Optional* Hotkeys:
 - **MIDI ARRANGEMENT OVERDUB BUTTON**
   - `ALT+O`
 - **AUTOMATION ARM BUTTON**
@@ -141,7 +141,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for m
 - **SESSION RECORD ENABLE**
   - `ALT+\` 
 
-#### Optional* - SPOTIFY HOTKEYS:
+#### Spotify - Optional* Hotkeys:
 - **HOME:**
   - `[ALT+H]`
 - **BROWSE:**
@@ -155,7 +155,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for m
 
  _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
 
-### Optional* - Hotstrings
+### Hotstrings - Optional*
 - These hotstrings are __disabled by default__ but can be customized to your personal preference by editing the **`Dok's Rx Pad.AHK`** script. 
 - These hotkeys are used for auto-typing strings of text by typing an abbreviated "hotstring."
 
@@ -171,6 +171,9 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for m
 		- This converts typing "ahk." into "Autohotkey"
 
  _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
+
+
+
 
 #	The "Dok’s Rx Cabinet" folder
 The `Dok's Rx Cabinet` folder contains sub-folders for associated scripts/files referenced by the `Dokter's Prescription.EXE` and `Dok's Rx Pad.AHK` scripts.
@@ -311,29 +314,31 @@ Once these blocks of code are activated and edited to your personal preference, 
 
 **NOTE:** By default, the **MOUSE CLICK HOTKEYS** in **`Dok's Rx Pad,AHK`** are deactivated to keep this portion of the script in a "template code" format. There are detailed instruction comments within the **`Dok's Rx Pad.AHK`** script file to guide you through customizing the script.
 
+#### Follow these steps to calibrate the "Mouse Click Hotkeys":
+
+1. Press [CTRL+ALT+SHIFT+C] while running the "Research Chemicals.AHK" script to identify a specific mouse coordinate position to edit these hotkeys
+2. Note the mouse coordinates for the X and Y positions that are displayed in the pop-up message box
+3. Insert each specific set of coordinates into the "MouseClick" line of code for each mouse click hotkey listed below
+4. You have successfully customized the mouse click hotkeys for your own screen resolution. You're done!
+
  - The deactivated blocks of code can be activated by removing the `/*`and `*/` brackets surrounding the block of code for each deactivated block.
  
- - In addition to removing the comment block brackets, you will need to replace portions of the "template code" with the **program name** and **file path** for each desired program. There are detailed instructions on how to customizing these features located in the actual script file via comments labled under: "PLEASE READ - ADJUST FOR YOUR OWN PROGRAMS:""
-
 Once these blocks of code are activated and edited to your personal preference, they will allow you to click on your specified screen coordinates by using a hotkey.
 
 _[Go to the "Optional* "Dokter’s Prescription" hotkeys section](#Optional*-"Dokter’s-Prescription"-hotkeys) above, to reference the keyboard hotkeys for this feature.
 
 
-#### Follow these steps to calibrate the "Mouse Click Hotkeys" for Spotify and Ableton Live:
 
-1.) PRESS [CTRL+ALT+SHIFT+C] WHILE RUNNING THE "Research Chemicals.AHK" SCRIPT TO IDENTIFY A SPECIFIC MOUSE COORDINATE POSITION TO EDIT THESE HOTKEYS
-2.) NOTE THE MOUSE COORDINATES FOR THE X AND Y POSITIONS THAT ARE DISPLAYED IN THE POP-UP MESSAGE BOX
-3.) INSERT EACH SPECIFIC SET OF COORDINATES INTO THE "MouseClick" line of code for each MOUSE CLICK HOTKEY LISTED BELOW
-4.) YOU HAVE SUCCESSFULLY CUSTOMIZED THE MOUSE CLICK HOTKEYS FOR YOUR OWN SCREEN RESOLUTION. YOU'RE DONE!
 
-### Customizing the **HOTSTRINGS** hotkeys within `Dok's Rx Pad.AHK`:
+### Customizing the **HOTSTRINGS** within `Dok's Rx Pad.AHK`:
 
 **NOTE:** By default, the **Hotstrings** in **`Dok's Rx Pad,AHK`** are deactivated to keep this portion of the script in a clean, "template code" format.
 
 - The deactivated blocks of code can be activated by removing the `/*`and `*/` brackets for each **Hotstring** shortcut.
 
 Once these blocks of code are activated and edited to your personal preference, you can trigger specific strings of text with the abbrevated "hotstring" that you have configured.
+
+
 
 
 ## Customizing the **Ableton Takeover** script
