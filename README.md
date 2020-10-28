@@ -140,6 +140,10 @@ These additional packaged scripts can of course be launched manually from `Dok's
 ##	The "Dok’s Rx" folder
 The `Dok’s Rx` folder contains the following items referenced by the  **`Dokter's Prescription.EXE`** and **`Dok's Rx (Raw).AHK`** scripts:
 
+- **The "Dok's Rx (Raw).AHK" script:**
+  - This .AHK script is included for customizing the **Dokter's Prescription** script to meet your desired preferences.
+  - _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for more info about this._
+
 - **The "Dok’s Rx Guide.xls" spreadsheet**
   - Includes a full list of default script functions and includes additional workbook tabs for referencing native hotkeys for a few additional programs.
 
@@ -158,10 +162,6 @@ The `Dok’s Rx` folder contains the following items referenced by the  **`Dokte
 
 `"C:\Program Files\WindowsApps\Microsoft.Todos_2.28.32802.0_x64__8wekyb3d8bbwe\ToDo.exe"`
 
-- **The "Dok's Rx (Raw).AHK" script:**
-  - This .AHK script is included for customizing the **Dokter's Prescription** script to meet your desired preferences.
-  - _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for more info about this.
-
 - **Icon files referenced by the the "Dok's Rx (Raw).AHK" script.**
 
 
@@ -178,22 +178,28 @@ Reference the `Ableton Takeover README.txt` for more info and the complete list 
 
 An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Counter\Ableton Takeover` for optional customizing. Although the .EXE version of **Ableton Takeover** includes a *decent* list of *common* programs, you can edit this script to include your own program processes that are commonly running while you are using Ableton Live. 
 
-_*[Go to the **Customizing Scripts** section](#customizing-scripts) below for more info on this.
+_*[Go to the **Customizing Scripts** section](#customizing-scripts) below for more info on this._
 
 
 
 ### The "Power & Sleep Hotkeys.EXE" script:
  - Enables hotkeys to sleep, hibernate, restart, or shutdown your PC. 
- - **Sleep PC** - **`[CTRL+ALT+SHIFT+ESC]`**
- - **Resart PC** - **`[CTRL+ALT+SHIFT+F5]`**
- - **Hibernate PC** - **`[CTRL+ALT+SHIFT+F9]`**
- - **Shutdown PC** - **`[CTRL+ALT+SHIFT+F12]`**
- - **Launch Script** while running **Dokter's Prescription** - **`[CTRL+ALT+SHIFT+P]`**
- - **Exit Script** this script by pressing **`[CTRL+ALT+SHIFT+HOME]`**
+ - **SLEEP PC**
+  - **`[CTRL+ALT+SHIFT+ESC]`**
+ - **RESART PC**
+  - **`[CTRL+ALT+SHIFT+F5]`**
+ - **HIBERNATE PC**
+  - **`[CTRL+ALT+SHIFT+F9]`**
+ - **SHUTDOWN PC**
+  - **`[CTRL+ALT+SHIFT+F12]`**
+ - **LAUNCH SCRIPT WHILE RUNNING DOKTER'S PRESCRIPTION:**
+  - **`[CTRL+ALT+SHIFT+P]`**
+ - **EXIT SCRIPT:**
+  - **`[CTRL+ALT+SHIFT+HOME]`**
 
 An .AHK version of this script is included within `Dok's Rx Cabinet\Over The Counter\Power & Sleep` for optional customizing. Although the .EXE version of **Power & Sleep Hotkeys** includes the hotkeys shown above, you can edit this script to adjust the hotkeys for your personal preference. 
 
-_*[Go to the **Customizing Scripts** section](#customizing-scripts) below for more info on this.
+_*[Go to the **Customizing Scripts** section](#customizing-scripts) below for more info on this._
 
 
 
@@ -201,16 +207,23 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for mo
 The `Research Chemicals` folder contains the `Research Chemicals.AHK` script and associated tray icons. The `Research Chemicals.AHK` script is a “testing script” to be used for Autohotkey script development. (Includes Autohotkey's "Window Spy" tool in the tray menu)
 
 ### The "Research Chemicals.AHK" script:
- - You can edit this script with functions that you would like to test but do not want to incorporate into your main Autohotkey script.
- - **Display test message - `[CTRL+ALT+SHIFT+T]`**
- - **Identify mouse cursor coordinates - `[CTRL+ALT+SHIFT+C]`**
- - **Launch Script** while running **Dokter's Prescription** - `**[CTRL+ALT+SHIFT+R]**`
- - **Exit Script - `[CTRL+ALT+SHIFT+DEL]`**
- - **Save and Reload Script - `[CTRL+S]`**
-
 *The Autohotkey software will need to be installed on your computer to run this script, as there is no compiled .EXE version included due to the nature of it's intended usage.*
 
+ - Used as a separate "tool box" script 
+ - **DISPLAY TEST MESSAGE
+  - `[CTRL+ALT+SHIFT+T]`**
+ - **IDENTIFY MOUSE CURSOR COORDINATES
+  - `[CTRL+ALT+SHIFT+C]`**
+ - **LAUNCH SCRIPT** WHILE RUNNING **DOKTER'S PRESCRIPTION**
+  - `**[CTRL+ALT+SHIFT+R]**`
+ - **Exit Script
+  - `[CTRL+ALT+SHIFT+DEL]`**
+ - **Save and Reload Script
+  - `[CTRL+S]`**
+ - You can use this script for Autohotkey functions that you would like to test but do not want to include in your main Autohotkey script.
 
+**NOTE:** You can use this script to help you calibrate the mouse click shortcuts within **Dokter's Prescription**
+_*[Go to the **Customizing Scripts** section](#customizing-scripts) below for more info on this._
 
 #	Customizing Scripts
 
