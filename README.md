@@ -103,11 +103,11 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below, for in
 
 ## Optional* "Dokter’s Prescription" Hotkeys
 
-The optional hotkeys listed below are __disabled by default__ can be added to the script by editing "**Dok's Rx Pad.AHK**" script located in `Dok's Rx Cabinet\Dok's Rx`.
+The optional hotkeys listed below are __disabled by default__ but can be added to the script by editing "**Dok's Rx Pad.AHK**" script located in the `Dok's Rx Cabinet\Dok's Rx` folder.
 
 _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for instructions on how to activate the following optional hotkeys:_
 
-### A-Z Launch/Toggle Programs:
+### Optional: A-Z Launch/Toggle Programs:
 - These hotkeys are __disabled by default__ but can be customized to your preference by editing the **`Dok's Rx Pad.AHK`** script.
 - These hotkeys will launch a specified program if it is not currently running, **OR** toggle the program window if the program is currently running, using the following hotkeys:
   - **`[WIN + SHIFT + letter key]`**
@@ -115,7 +115,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for i
 
 _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
 
-### 0-9 Launch/Toggle Programs
+### Optional: 0-9 Launch/Toggle Programs
 - These hotkeys are __disabled by default__ but can be customized to your personal preference by editing the **`Dok's Rx Pad.AHK`** script. 
 - These hotkeys will launch a specified program if it is not currently running, **OR** toggle the program window if the program is currently running, using the following hotkeys:
   - **`[WIN + number key]`**
@@ -123,13 +123,13 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for m
     
  _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
 
-### Mouse Click Hotkeys
+### Optional: Mouse Click Hotkeys
 - These hotkeys are __disabled by default__ but can be customized to your personal preference by editing the **`Dok's Rx Pad.AHK`** script. 
 - These hotkeys will trigger mouse clicks on specified screen coordinates and return the mouse position to it's original position.
 
  _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
 
-##### OPTIONAL ABLETON LIVE HOTKEYS:
+##### Optional: ABLETON LIVE HOTKEYS:
 - **MIDI ARRANGEMENT OVERDUB BUTTON**
   - `ALT+O`
 - **AUTOMATION ARM BUTTON**
@@ -141,7 +141,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for m
 - **SESSION RECORD ENABLE**
   - `ALT+\` 
 
-#### OPTIONAL SPOTIFY HOTKEYS:
+#### Optional*: SPOTIFY HOTKEYS:
 - **HOME:**
   - `[ALT+H]`
 - **BROWSE:**
@@ -155,7 +155,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for m
 
  _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
 
-### Hotstrings
+### Optional*: Hotstrings
 - These hotstrings are __disabled by default__ but can be customized to your personal preference by editing the **`Dok's Rx Pad.AHK`** script. 
 - These hotkeys are used for auto-typing strings of text by typing an abbreviated "hotstring."
 
