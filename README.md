@@ -21,7 +21,7 @@ A script suite to make life easier for Windows and **Ableton Live** users.
 
 - **Exit Script** - **`[CTRL+ALT+SHIFT+END]`**
 
-_*See the **"Customizing Scripts"** section below, for instructions on customizing all default shortcuts included in this script._
+_*See the **"Customizing Scripts"** section below, for instructions on how to customize or remove any default shortcuts included in this script._
 
 ### **`WINDOWS SHORTCUTS`**
 
@@ -159,7 +159,7 @@ The `Dok’s Rx` folder contains the following items referenced by the  **`Dokte
 `"C:\Program Files\WindowsApps\Microsoft.Todos_2.28.32802.0_x64__8wekyb3d8bbwe\ToDo.exe"`
 
 - **The "Dok's Rx (Raw).AHK" script:**
-  - This can be used for customizing the **Dokter's Prescription** script to meet your desired preferences.
+  - This .AHK script is included for customizing the **Dokter's Prescription** script to meet your desired preferences.
   - See the "**Customizing Scripts**" section below for more info about this.
 
 - **Icon files referenced by the the "Dok's Rx (Raw).AHK" script.**
