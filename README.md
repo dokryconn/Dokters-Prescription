@@ -27,9 +27,9 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for i
 
 - **2ND `[WIN]` KEYBOARD KEY:**
   - `[Menu Key]`
-- **LAUNCH FILE EXPLORER ("C:\USERS"):**
+- **LAUNCH FILE EXPLORER** ("C:\Users"):
   - `[CTRL+TILDE]`
-- **LAUNCH FILE EXPLORER ("C:\USERS"):**
+- **CAPTURE SCREENSHOT:**
   - `[PRINTSCREEN]`
 - **QUIT PROGRAM:**
   - `[WIN+Q]`
@@ -106,7 +106,7 @@ The optional hotkey shortcuts listed below can be added to the script by editing
 _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for instructions on how to activate the following optional shortcuts:_
 
 ### A-Z Launch/Toggle Programs:
-- These shortcuts are __disabled by default__ but can be customized to your prefernce by editing the **`Dok's Rx Pad.AHK`** script.
+- These shortcuts are __disabled by default__ but can be customized to your preference by editing the **`Dok's Rx Pad.AHK`** script.
 - These shortcuts will launch a specified program if it is not currently running, **OR** toggle the program window if the program is currently running, using the following hotkeys:
   - **`[WIN+SHIFT+** *letter key* **]`**
     - i.e. **`[WIN+SHIFT+A]`**; **`[WIN+SHIFT+B]`**; **`[WIN+SHIFT+C]`**; etc.
@@ -114,7 +114,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for i
 _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
 
 ### 0-9 Launch/Toggle Programs
-- These shortcuts are __disabled by default__ but can be customized to your personal prefernce by editing the **`Dok's Rx Pad.AHK`** script. 
+- These shortcuts are __disabled by default__ but can be customized to your personal preference by editing the **`Dok's Rx Pad.AHK`** script. 
 - These shortcuts will launch a specified program if it is not currently running, **OR** toggle the program window if the program is currently running, using the following hotkeys:
   - **`[WIN+** *number key* **]`**
     - i.e. **`[WIN+1]`**; **`[WIN+2]`**; **`[WIN+3]`**; etc.
@@ -122,7 +122,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for m
  _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
 
 ### Mouse Click Hotkeys
-- These shortcuts are __disabled by default__ but can be customized to your personal prefernce by editing the **`Dok's Rx Pad.AHK`** script. 
+- These shortcuts are __disabled by default__ but can be customized to your personal preference by editing the **`Dok's Rx Pad.AHK`** script. 
 - These hotkeys will trigger mouse clicks on specified screen coordinates and return the mouse position to it's original position.
 
  _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
@@ -154,9 +154,19 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for m
  _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
 
 ### Hotstrings
-- These hotstrings are __disabled by default__ but can be customized to your personal prefernce by editing the **`Dok's Rx Pad.AHK`** script. 
+- These hotstrings are __disabled by default__ but can be customized to your personal preference by editing the **`Dok's Rx Pad.AHK`** script. 
 - These shortcuts are used for auto-typing strings of text by typing an abbreviated "hotstring."
-- There are a few hotstring examples included in the `Dok's Rx Pad.AHK` script. 
+
+#### The Hotstring examples included in the `Dok's Rx Pad.AHK` script are:
+- "YOUR_EMAIL_ADDRESS@EMAIL.com"
+	- `[abc.]`
+		- This converts typing "abc." into "YOUR_EMAIL_ADDRESS@EMAIL.com"
+- "YOUR_USERNAME"
+    - `[xyz.]`
+    	- This converts typing "xyz." into "YOUR_USERNAME"
+- "Autohotkey"
+	- `[ahk.]`
+		- This converts typing "ahk." into "Autohotkey"
 
  _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
 
@@ -272,6 +282,8 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for mo
 
 ## Customizing the **Dokter's Prescription** script
 
+
+
 1. Ensure that the Autohotkey software is installed on your computer - https://autohotkey.com/
 2. Open the **`Dok's Rx Pad.AHK`** file in the `Dok's Rx Cabinet\Dok's Rx`folder with any text editor such as "Notepad"; or a script editor such as "SciTE4Autohotkey."
 3. Edit the script text for each shortcut feature as desired, following the instruction comments embedded within the script.
@@ -302,15 +314,15 @@ Once these blocks of code are activated and edited to your personal preference, 
 
 _[Go to the "Optional* "Dokter’s Prescription" shortcuts section](#Optional*-"Dokter’s-Prescription"-shortcuts) above, to reference the keyboard shortcuts for this feature.
 
-The default shortcuts for **Ableton Live** and **Spotify** use a few hotkeys that send mouse clicks to specified screen coordinates. These will need to be adjusted for your screen size/resolution. There are instruction comments within the script to guide you through calibrating these mouse click coordinates:
 
-- **FOLLOW THESE STEPS TO CALIBRATE THE MOUSE CLICK HOTKEYS FOR SPOTIFY AND ABLETON LIVE:**
+#### Follow these steps to calibrate the "Mouse Click Hotkeys" for Spotify and Ableton Live:
+
 1.) PRESS [CTRL+ALT+SHIFT+C] WHILE RUNNING THE "Research Chemicals.AHK" SCRIPT TO IDENTIFY A SPECIFIC MOUSE COORDINATE POSITION TO EDIT THESE HOTKEYS
 2.) NOTE THE MOUSE COORDINATES FOR THE X AND Y POSITIONS THAT ARE DISPLAYED IN THE POP-UP MESSAGE BOX
 3.) INSERT EACH SPECIFIC SET OF COORDINATES INTO THE "MouseClick" line of code for each MOUSE CLICK HOTKEY LISTED BELOW
 4.) YOU HAVE SUCCESSFULLY CUSTOMIZED THE MOUSE CLICK HOTKEYS FOR YOUR OWN SCREEN RESOLUTION. YOU'RE DONE!
 
-### Customizing the **Hotstrings** shortcuts within `Dok's Rx Pad.AHK`:
+### Customizing the **HOTSTRINGS** shortcuts within `Dok's Rx Pad.AHK`:
 
 **NOTE:** By default, the **Hotstrings** in **`Dok's Rx Pad,AHK`** are deactivated to keep this portion of the script in a clean, "template code" format.
 
@@ -318,13 +330,10 @@ The default shortcuts for **Ableton Live** and **Spotify** use a few hotkeys tha
 
 Once these blocks of code are activated and edited to your personal preference, you can trigger specific strings of text with the abbrevated "hotstring" that you have configured.
 
-*Make sure that your customized version of **`Dok's Rx Pad.AHK`** script is moved into the same folder location of the original `Dokter's Prescription.EXE` script to ensure that it will be able to reference the associated files in the `Dok's Rx Cabinet` folder appropriately.*
-
-**NOTE:** *The `Dok’s Rx (Raw).AHK` copy of the script does not include the sections of code that install the `Dok's Rx Cabinet` folder. You can always launch the original `Dokter's Prescription.EXE` file to re-install  the `Dok's Rx Cabinet` folder if needed. If you need to re-install a single file or folder to `Dok's Rx Cabinet`, re-installing the `Dok's Rx Cabinet` folder will never overwrite any existing files within `Dok's Rx Cabinet` and should never harm any files that have saved changes.*
 
 ## Customizing the **Ableton Takeover** script
 
-- FOLLOW THESE STEPS TO CUSTOMIZE THE "ABLETON TAKEOVER.AHK" SCRIPT:
+### Follow these steps to customize the "Ableton Takeover.ahk" script:
 1. Ensure that the Autohotkey software is installed on your computer - https://autohotkey.com/
 2. Open the **`Ableton Takeover.AHK`** file in the `Dok's Rx Cabinet\Over The Counter\Ableton Takeover`folder with any text editor such as "Notepad"; or a script editor such as "SciTE4Autohotkey."
 3. Edit the script text to include/exclude any specific program process names, following the instructions within the `Ableton Takeover README.txt` file.
@@ -335,7 +344,7 @@ Once these blocks of code are activated and edited to your personal preference, 
 
 ## Customizing the **Power & Sleep Hotkeys** script
 
-### FOLLOW THESE STEPS TO CUSTOMIZE THE "POWER & SLEEP HOTKEYS.AHK" SCRIPT:
+### Follow these steps to customize the "Power & Sleep Hotkeys.AHK" script:
 1. Ensure that the Autohotkey software is installed on your computer - https://autohotkey.com/
 2. Open the **`Power & Sleep Hotkeys.AHK`** file in the `Dok's Rx Cabinet\Over The Counter\Power & Sleep` folder with any text editor such as "Notepad"; or a script editor such as "SciTE4Autohotkey."
 3. Edit the script text to adjust the hotkey commands to meet your desired preferences, following the instructions within the `Power & Sleep Hotkeys README.txt` file.
@@ -346,14 +355,18 @@ Once these blocks of code are activated and edited to your personal preference, 
 
 ## Customizing the **Research Chemicals** script
 
-### FOLLOW THESE STEPS TO CUSTOMIZE THE "RESEARCH CHEMICALS.AHK" SCRIPT:
+### Follow these steps to customize the "Research Chemicals.AHK" script:
 1. Ensure that the Autohotkey software is installed on your computer - https://autohotkey.com/
 2. Open the **`Research Chemicals.AHK`** file in the `Dok's Rx Cabinet\Research Chemicals` folder with any text editor such as "Notepad"; or a script editor such as "SciTE4Autohotkey."
 3. Edit the script text to include any Autohotkey functions that you would like to test.
 4. Save your customized changes to the original `Research Chemicals.AHK` script file.
 5. You're done. :)
 
+#
 
+*Make sure that your customized version of **`Dok's Rx Pad.AHK`** script is moved into the same folder location of the original `Dokter's Prescription.EXE` script to ensure that it will be able to reference the associated files in the `Dok's Rx Cabinet` folder appropriately.*
+
+**NOTE:** *The `Dok’s Rx (Raw).AHK` copy of the script does not include the sections of code that install the `Dok's Rx Cabinet` folder. You can always launch the original `Dokter's Prescription.EXE` file to re-install  the `Dok's Rx Cabinet` folder if needed. If you need to re-install a single file or folder to `Dok's Rx Cabinet`, re-installing the `Dok's Rx Cabinet` folder will never overwrite any existing files within `Dok's Rx Cabinet` and should never harm any files that have saved changes.*
 
 # Donate
 
