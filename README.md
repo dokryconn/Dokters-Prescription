@@ -8,11 +8,12 @@ A script suite to make life easier for Windows and **Ableton Live** users.
 
 **NOTE: For the complete list of keyboard shortcuts, reference the included `Dok's Rx Guide.xls` spreadsheet**
 
-  - **Ableton Live** - 47 custom keyboard shortcuts
-  - **Spotify** - 9 custom keyboard shortcuts
-  - **Google Chrome** - 5 custom keyboard shortcuts
-  - **Brave Browser** - 5 custom keyboard shortcuts
-  - **Windows** - 15 custom keyboard shortcuts
+  - **Ableton Live** - 47 keyboard shortcuts
+  - **Spotify** - 9 keyboard shortcuts
+  - **Google Chrome** - 5 keyboard shortcuts
+  - **Brave Browser** - 5 keyboard shortcuts
+  - **Windows** - 15 keyboard shortcuts
+  - **Run extra scripts** - 3 keyboard shortcuts
   
 *Program-specific shortcuts are only enabled while the corresponding program window is active.*
 
@@ -21,11 +22,8 @@ A script suite to make life easier for Windows and **Ableton Live** users.
 - **Exit Script** - **`[CTRL+ALT+SHIFT+END]`**
 
 _*See the **"Customizing Scripts"** section below, for instructions on customizing all default shortcuts included in this script._
-### Ableton Live shortcuts
 
-
-
-### Windows shortcuts
+### **`WINDOWS SHORTCUTS`**
 
 - **2ND `[WIN]` KEYBOARD KEY:**
   - `[Menu Key]`
@@ -59,6 +57,10 @@ _*See the **"Customizing Scripts"** section below, for instructions on customizi
   - `[ALT+ +]`
 - **VOLUME DOWN:**
   - `[ALT+ -]`
+
+### **`ABLETON LIVE SHORTCUTS`**
+- 
+
 
 ### Spotify shortcuts
 - **PLAY / PAUSE:**
