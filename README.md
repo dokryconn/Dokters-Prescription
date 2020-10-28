@@ -71,16 +71,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for i
   - `[ALT+>]`
 - **PRIVATE SESSION:**
   - `[ALT+I]`
-- **HOME:**
-  - `[ALT+H]`
-- **BROWSE:**
-  - `[ALT+B]`
-- **RADIO**
-  - `[ALT+R]`
-- **SKIP BACK 15 SECONDS**
-  - `[ALT+SEMICOLON]`
-- **SKIP FORWARD 15 SECONDS:**
-  - `[ALT+APOSTROPHE]`
+
 
 ### **CHROME SHORTCUTS**
 - **NEW WINDOW:**
@@ -112,15 +103,49 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for i
 
 _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for instructions on activating the following optional shortcuts:_
 
-- **A-Z Launch/Toggle Programs** - These shortcuts are __disabled by default__ but can be customized to your prefernce by editing the **`Dok's Rx (Raw).AHK`** script. These shortcuts will launch a specified program if it is not currently running, **OR** toggle the program window if the program is currently running, using the following hotkeys:
+### **A-Z LAUNCH/TOGGLE PROGRAMS** - These shortcuts are __disabled by default__ but can be customized to your prefernce by editing the **`Dok's Rx (Raw).AHK`** script. These shortcuts will launch a specified program if it is not currently running, **OR** toggle the program window if the program is currently running, using the following hotkeys:
   - **`[WIN+SHIFT+** *letter key* **]`**
     - i.e. **`[WIN+SHIFT+A]`**; **`[WIN+SHIFT+B]`**; **`[WIN+SHIFT+C]`**; etc.
 
-- **0-9 Launch/Toggle Programs** - These shortcuts are __disabled by default__ but can be customized to your personal prefernce by editing the **`Dok's Rx (Raw).AHK`** script. These shortcuts will launch a specified program if it is not currently running, **OR** toggle the program window if the program is currently running, using the following hotkeys:
+_*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
+
+### **0-9 LAUNCH/TOGGLE PROGRAMS** - These shortcuts are __disabled by default__ but can be customized to your personal prefernce by editing the **`Dok's Rx (Raw).AHK`** script. These shortcuts will launch a specified program if it is not currently running, **OR** toggle the program window if the program is currently running, using the following hotkeys:
   - **`[WIN+** *number key* **]`**
     - i.e. **`[WIN+1]`**; **`[WIN+2]`**; **`[WIN+3]`**; etc.
+    
+ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
 
-- **Hotstrings** - These shortcuts are used for auto-typing strings of text by typing an abbreviated "hotstring." There are a few examples included in the `Dok's Rx (Raw).AHK` script. These hotstrings are __disabled by default__ but can be customized to your personal prefernce by editing the **`Dok's Rx (Raw).AHK`** script. 
+### **MOUSE CLICK HOTKEYS FOR ABLETON LIVE AND SPOTIFY**
+- These shortcuts are __disabled by default__ but can be customized to your personal prefernce by editing the **`Dok's Rx (Raw).AHK`** script. 
+- These hotkeys will trigger mouse clicks on specified screen coordinates and return the mouse position to it's original position.
+
+#### OPTIONAL ABLETON LIVE SHORTCUTS:
+- **MIDI ARRANGEMENT OVERDUB BUTTON**
+  - `ALT+O`
+- **AUTOMATION ARM BUTTON**
+  - `ALT+P`
+- **RE-ENABLE AUTOMATION**
+  - `ALT+[`
+- **CAPTURE MIDI**
+  - `ALT+]`
+- **SESSION RECORD ENABLE**
+  - `ALT+\` 
+
+### OPTIONAL SPOTIFY SHORTCUTS:
+- **HOME:**
+  - `[ALT+H]`
+- **BROWSE:**
+  - `[ALT+B]`
+- **RADIO**
+  - `[ALT+R]`
+- **SKIP BACK 15 SECONDS**
+  - `[ALT+SEMICOLON]`
+- **SKIP FORWARD 15 SECONDS:**
+  - `[ALT+APOSTROPHE]`
+
+ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
+
+### **HOTSTRINGS** - These shortcuts are used for auto-typing strings of text by typing an abbreviated "hotstring." There are a few examples included in the `Dok's Rx (Raw).AHK` script. These hotstrings are __disabled by default__ but can be customized to your personal prefernce by editing the **`Dok's Rx (Raw).AHK`** script. 
 
 #	The "Dok’s Rx Cabinet" folder
 The `Dok's Rx Cabinet` folder contains sub-folders for associated scripts/files referenced by the `Dokter's Prescription.EXE` and `Dok's Rx (Raw).AHK` scripts.
