@@ -27,81 +27,81 @@ _*See the **"Customizing Scripts"** section below, for instructions on customizi
 
 ### Windows shortcuts
 
-- 2nd `[WIN]` keyboard key:
+- **2nd `[WIN]` keyboard key:**
   - `[Menu Key]`
-- Launch File Explorer ("C:\Users"):
+- **Launch File Explorer ("C:\Users"):**
   - `[CTRL+TILDE]`
-- Capture Screenshot:
+- **Capture Screenshot:**
   - `[PRINTSCREEN]`
-- Quit Program:
+- **Quit Program:**
   - `[WIN+Q]`
-- Close Window/Tab:
+- **Close Window/Tab:**
   - `[WIN+W]`
-- Minimize Window
+- **Minimize Window:**
   - `[WIN+DOWN]`
-- Maximize Window
+- **Maximize Window:**
   - `[WIN+UP]`
-- Convert selected text to uppercase:
+- **Convert selected text to uppercase:**
   - `[CTRL+SHIFT+U]`
-- Convert selected text to lowercase:
+- **Convert selected text to lowercase:**
   - `[CTRL+SHIFT+L]`
-- Invert case of selected text
+- **Invert case of selected text:**
   - `[CTRL+SHIFT+I]`
-- Play / Pause Media
+- **Play / Pause Media:**
   - `[ALT+P]`
-- Previous Track
+- **Previous Track:**
   - `[ALT+>]`
-- Next Track
+- **Next Track:**
   - `[ALT+<]`
-- Mute Media
+- **Mute Media:**
   - `[ALT+M]`
-- Volume Up
+- **Volume Up:**
   - `[ALT+ +]`
-- Volume Down
+- **Volume Down:**
   - `[ALT+ -]`
 
 ### Spotify shortcuts
-- Play / Pause:
+- **Play / Pause:**
   - `[ALT+P]`
-- Previous Track:
+- **Previous Track:**
   - `[ALT+<]`
-- Next Track:
+- **Next Track:**
   - `[ALT+>]`
-- Private Session:
+- **Private Session:**
   - `[ALT+I]`
-- Home:
+- **Home:**
   - `[ALT+H]`
-- Browse:
+- **Browse:**
   - `[ALT+B]`
-- Radio
+- **Radio**
   - `[ALT+R]`
-- SKIP BACK 15 SECONDS
+- **Skip back 15 seconds**
   - `[ALT+SEMICOLON]`
-- SKIP FORWARD 15 SECONDS:
+- **Skip forward 15 seconds:**
   - `[ALT+APOSTROPHE]`
 
 ### Chrome shortcuts
-- New Window:
+- **NEW WINDOW:**
   - `[ALT+N]`
-- New Tab:
+- **NEW TAB:**
   - `[ALT+T]`
-- Refresh:
+- **REFRESH:**
   - `[ALT+R]`
-- Close Tab:
+- **CLOSE TAB:**
   - `[ALT+W]`
-- Incognito Window:
+- **INCOGNITO WINDOW:**
   - `[ALT+I]`
   
 ### Brave Browser shortcuts
-- New Window:
+- **New Window:**
   - `[ALT+N]`
-- New Tab:
+- **New Tab:**
   - `[ALT+T]`
-- Refresh:
+- **Refresh:**
   - `[ALT+R]`
-- Close Tab:
+- **Close Tab:**
   - `[ALT+W]`
-- Incognito Window:
+- **Incognito Window:**
   - `[ALT+I]`
 
 
