@@ -27,7 +27,7 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below, for in
 
 ### **Windows Hotkeys**
 
-- **2ND `[WIN]` KEYBOARD KEY:**
+- **SECOND `[WIN]` KEYBOARD KEY:**
   - `[Menu Key]`
 - **LAUNCH FILE EXPLORER** ("C:\Users"):
   - `[CTRL+TILDE]`
