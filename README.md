@@ -221,7 +221,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for m
 
  _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
 
-#### Ableton Live - Optional* Hotkeys:
+#### Ableton Live - Optional* Mouse Click Hotkeys:
 - **MIDI ARRANGEMENT OVERDUB BUTTON**
   - `ALT+O`
 - **AUTOMATION ARM BUTTON**
@@ -231,7 +231,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for m
 - **SESSION RECORD ENABLE**
   - `ALT+\` 
 
-#### Spotify - Optional* Hotkeys:
+#### Spotify - Optional* Mouse Click Hotkeys:
 - **HOME:**
   - `[ALT+H]`
 - **BROWSE:**
