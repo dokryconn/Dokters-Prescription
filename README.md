@@ -388,7 +388,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for mo
 3. Edit the script text for each hotkey feature as desired, following the instruction comments embedded within the script.
 4. Save your customized changes to the .AHK script file.
 5. Use your customized script by simply launching your saved .AHK file or alternatively, you can compile it into an .EXE file by right-clicking the saved .AHK file and selecting **"Compile Script"**. - _This will create an .EXE version of the script that will be able to run on computers that do not have the Autohotkey software installed._
-6. Move your new custom .EXE or .AHK script file into the same folder as the original `Dokter's Prescription.EXE` script file location.
+
 
 ### Customizing the "Launch/Toggle Programs" hotkeys in "Dok's Rx Pad.AHK":
 
@@ -439,7 +439,7 @@ Once these blocks of code are activated and edited to your personal preference, 
 3. Edit the script text to include/exclude any specific program process names, following the instructions within the `Ableton Takeover README.txt` file.
 4. Save your customized changes to the .AHK script file.
 5. Use your customized script by simply launching your saved .AHK file or alternatively, you can compile it into an .EXE file by right-clicking the saved .AHK file and selecting **"Compile Script"**. - _This will create an .EXE version of the script that will be able to run on computers that do not have the Autohotkey software installed._
-6. Move your new custom .EXE or .AHK script file into the same folder as the original `Ableton Takeover.EXE` script file location.
+
 
 ## Customizing the Power & Sleep Hotkeys script
 
@@ -449,7 +449,7 @@ Once these blocks of code are activated and edited to your personal preference, 
 3. Edit the script text to adjust the hotkey commands to meet your desired preferences, following the instructions within the `Power & Sleep Hotkeys README.txt` file.
 4. Save your customized changes to the .AHK script file.
 5. Use your customized script by simply launching your saved .AHK file or alternatively, you can compile it into an .EXE file by right-clicking the saved .AHK file and selecting **"Compile Script"**. - _This will create an .EXE version of the script that will be able to run on computers that do not have the Autohotkey software installed._
-6. Move your new custom .EXE or .AHK script file into the same folder as the original `Power & Sleep Hotkeys.EXE` script file location.
+
 
 ## Customizing the Research Chemicals script
 
@@ -460,11 +460,6 @@ Once these blocks of code are activated and edited to your personal preference, 
 4. Save your customized changes to the original `Research Chemicals.AHK` script file.
 5. You're done. :)
 
-#
-
-*Make sure that your customized version of **Dok's Rx Pad.AHK** script is moved into the same folder location of the original `Dokter's Prescription.EXE` script to ensure that it will be able to reference the associated files in the `Dok's Rx Cabinet` folder appropriately.*
-
-**NOTE:** *The `Dok’s Rx (Raw).AHK` copy of the script does not include the sections of code that install the `Dok's Rx Cabinet` folder. You can always launch the original `Dokter's Prescription.EXE` file to re-install  the `Dok's Rx Cabinet` folder if needed. If you need to re-install a single file or folder to `Dok's Rx Cabinet`, re-installing the `Dok's Rx Cabinet` folder will never overwrite any existing files within `Dok's Rx Cabinet` and should never harm any files that have saved changes.*
 
 # Donate
 
