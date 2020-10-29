@@ -1,8 +1,3 @@
-Visit 
-https://github.com/dokryconn/Dokters-Prescription/blob/main/README.md
-for the web version of this READ ME file.
-
-
 # Dokter's Prescription
 A script suite to make life easier for Windows and **Ableton Live** users.
 
@@ -32,7 +27,7 @@ A script suite to make life easier for Windows and **Ableton Live** users.
 		- [The "Power & Sleep Hotkeys.EXE" script](#the-power--sleep-hotkeysexe-script)
 	- [The "Research Chemicals" folder](#the-research-chemicals-folder)
 		- [The "Research Chemicals.AHK" script](#the-research-chemicalsahk-script)
-- [Customizing Script](#customizing-scripts)
+- [Customizing Scripts](#customizing-scripts)
 	- Customizing the Dokter's Prescription script - "Dok's Rx Pad.AHK"(#customizing-the-dokters-prescription-script---doks-rx-padahk)
 		- [Customizing the "Launch/Toggle Programs" hotkeys in "Dok's Rx Pad.AHK"](#customizing-the-launchtoggle-programs-hotkeys-in-doks-rx-padahk)
 		- [Calibrating the "Mouse Click Hotkeys" in "Dok's Rx Pad.AHK"](#calibrating-the-mouse-click-hotkeys-in-doks-rx-padahk)
