@@ -1,6 +1,7 @@
 # Dokter's Prescription
 A script suite to make life easier for Windows and **Ableton Live** users.
 
+
 ##	Default "Dokter’s Prescription" hotkeys
 
 - The "Dokter’s Prescription.EXE" script enables several hotkeys for Windows, Ableton Live, and other specific programs:
@@ -193,7 +194,7 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below, for in
 
 ## Optional* "Dokter’s Prescription" Hotkeys
 
-The optional hotkeys listed below are __disabled by default__ but can be added to the script by editing "**Dok's Rx Pad.AHK**" script located in the `Dok's Rx Cabinet\Dok's Rx` folder.
+The optional hotkeys listed below are __disabled by default__ but can be added to the script by editing "**Dok's Rx Pad.AHK**" script located in the `Dok's Rx Pad` folder.
 
 _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for instructions on how to activate the following optional hotkeys:_
 
@@ -378,12 +379,14 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for mo
 
 ## Customizing the Dokter's Prescription script - "Dok's Rx Pad.AHK"
 
-- The **Dok's Rx Pad.AHK** is included in the `Dok's Rx Cabinet\Dok's Rx` folder to allow you to make changes to default hotkeys and add optional Autohotkey features.
+- The **Dok's Rx Pad.AHK** script included in the `Dok's Rx Pad` folder will allow you to make changes to default hotkeys and add optional Autohotkey features.
+
+_[Go to the "Optional* - Dokter's Prescription Hotkeys" section](#Optional*-"Dokter’s-Prescription"-Hotkeys) below for the complete list of optional hotkey template code included in "Dok's Rx Pad.AHK"_
 
 ### Follow these steps to customize the "Dok's Rx Pad.AHK" script:
 
 1. Ensure that the Autohotkey software is installed on your computer - https://autohotkey.com/
-2. Open the **Dok's Rx Pad.AHK** file in the `Dok's Rx Cabinet\Dok's Rx`folder with any text editor such as "Notepad"; or a script editor such as "SciTE4Autohotkey."
+2. Open the **Dok's Rx Pad.AHK** file in the `Dok's Rx Pad`folder with any text editor such as "Notepad"; or a script editor such as "SciTE4Autohotkey."
 3. Edit the script text for each hotkey feature as desired, following the instruction comments embedded within the script.
 4. Save your customized changes to the .AHK script file.
 5. Use your customized script by simply launching your saved .AHK file or alternatively, you can compile it into an .EXE file by right-clicking the saved .AHK file and selecting **"Compile Script"**. - _This will create an .EXE version of the script that will be able to run on computers that do not have the Autohotkey software installed._
