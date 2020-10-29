@@ -20,6 +20,24 @@ A script suite to make life easier for Windows and **Ableton Live** users.
 		- [Spotify - Mouse Click Hotkeys (Optional)](#spotify---optional-mouse-click-hotkeys)
 	- [Hotstrings - Optional](#hotstrings---optional)
 - [The "Dok’s Rx Cabinet" folder](#the-doks-rx-cabinet-folder)
+	- [The "Dok’s Rx Pad" folder](#the-doks-rx-pad-folder)
+		- [The "Dok's Rx Pad.AHK" script](#the-doks-rx-padahk-script)
+		- The "Over The Counter" folder](#the-over-the-counter-folder)
+			- [The "Ableton Takeover.EXE" script](#the-ableton-takeoverexe-script)
+			- [The "Power & Sleep Hotkeys.EXE" script](#the-power--sleep-hotkeysexe-script)
+		- [The "Research Chemicals" folder](#the-research-chemicals-folder)
+			- [The "Research Chemicals.AHK" script](#the-research-chemicalsahk-script)
+- [Customizing Script](#customizing-scripts)
+	- Customizing the Dokter's Prescription script - "Dok's Rx Pad.AHK"(#customizing-the-dokters-prescription-script---doks-rx-padahk)
+		- [Customizing the "Launch/Toggle Programs" hotkeys in "Dok's Rx Pad.AHK"](#customizing-the-launchtoggle-programs-hotkeys-in-doks-rx-padahk)
+		- [Calibrating the "Mouse Click Hotkeys" in "Dok's Rx Pad.AHK"](#calibrating-the-mouse-click-hotkeys-in-doks-rx-padahk)
+		- [Customizing the "Hotstrings" in "Dok's Rx Pad.AHK"](#customizing-the-hotstrings-in-doks-rx-padahk)
+	- [Customizing the Ableton Takeover script](#customizing-the-ableton-takeover-script)
+	- [Customizing the Power & Sleep Hotkeys script](#customizing-the-power--sleep-hotkeys-script)
+	- [Customizing the Research Chemicals script](#customizing-the-research-chemicals-script)
+- [Donate](#donate)
+
+
 
 	
 ##	Default "Dokter’s Prescription" Hotkeys
