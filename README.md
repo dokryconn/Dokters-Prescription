@@ -1,3 +1,8 @@
+Visit 
+https://github.com/dokryconn/Dokters-Prescription/blob/main/README.md
+for the web version of this READ ME file.
+
+
 # Dokter's Prescription
 A script suite to make life easier for Windows and **Ableton Live** users.
 
@@ -323,9 +328,6 @@ The `Dok’s Rx` folder contains the following items referenced by the  **`Dokte
   - This .AHK script is included for customizing the **Dokter's Prescription** script to meet your desired preferences.
 
 _[Go to the **Customizing Scripts** section](#customizing-scripts) below for more info on this._
-
- **The "Dok’s Rx Guide.xls" spreadsheet**
-  - Includes a full list of default script functions and includes additional workbook tabs for referencing native hotkeys for a few additional programs.
 
 - **The "App Launch Shortcuts" folder**
   - Used for storing created program shortcut files for launching/toggling apps that were installed by Microsoft Store.
