@@ -78,7 +78,7 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below, for in
 - **CUT TIME**
 	- `[ALT+HOME]`
 - **PASTE TIME**
-	- `[ALT+PG DOWN]`
+	- `[ALT+PGDOWN]`
 - **DELETE TIME**
 	- `[ALT+DEL]`
 - **INSERT TIME SIGNATURE CHANGE**
@@ -110,7 +110,7 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below, for in
 - **VIEW RETURNS**
 	- `[ALT+SHIFT+R]`
 - **VIEW MIXER**
-	- `[ALT+SHIFT]`
+	- `[ALT+SHIFT+M]`
 - **VIEW DEVICE SLOTS**
 	- `[ALT+SHIFT+D]`
 - **VIEW FILE MANAGER**
