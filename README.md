@@ -233,7 +233,7 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below, for in
 
 ## Optional* "Dokter’s Prescription" Hotkeys
 
-The optional hotkeys listed below are __disabled by default__ but can be added to the script by editing "**Dok's Rx Pad.AHK**" script located in the `Dok's Rx Pad` folder.
+The optional hotkeys listed below are __disabled by default__ but can be enabled by editing the "**Dok's Rx Pad.AHK**" script located in the `Dok's Rx Pad` folder.
 
 _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for instructions on how to activate the following optional hotkeys:_
 
