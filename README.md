@@ -336,7 +336,7 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below for mor
 
 *i.e. Using the filepath:*
 
-`"%A_WorkingDir%\Dok's Rx\App Launch Shortcuts\Microsoft To Do"`
+`"%A_WorkingDir%\Dok's Rx Pad\App Launch Shortcuts\Microsoft To Do"`
 
 *instead of:* 
 
@@ -386,7 +386,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for mo
 
 
 # The "Research Chemicals" folder
-The `Research Chemicals` folder contains the `Research Chemicals.AHK` script and associated tray icons. The `Research Chemicals.AHK` script is a “testing script” to be used for Autohotkey script development. (Includes Autohotkey's "Window Spy" tool in the tray menu)
+The `Research Chemicals` folder contains the `Research Chemicals.AHK` script and associated tray icons.
 
 ### The "Research Chemicals.AHK" script:
 This script is used as a separate "tool box" script and for testing Autohotkey functions temporarily.
