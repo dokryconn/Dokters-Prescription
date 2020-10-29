@@ -2,7 +2,8 @@
 A script suite to make life easier for Windows and **Ableton Live** users.
 
 # Table of Contents
-
+- [Default "Dokter’s Prescription" Hotkeys](#Default-Dokters-Prescription-Hotkeys)
+	- [Windows Hotkeys](##Windows-Hotkeys)
 
 ##	Default "Dokter’s Prescription" Hotkeys
 
