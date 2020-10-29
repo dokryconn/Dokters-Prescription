@@ -1,4 +1,4 @@
-# Dokter's Prescription (Autohotkey script)
+# Dokter's Prescription
 A script suite to make life easier for Windows and **Ableton Live** users.
 
 ##	Default "Dokter’s Prescription" hotkeys
