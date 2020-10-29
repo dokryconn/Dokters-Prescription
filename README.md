@@ -153,7 +153,8 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below, for in
 	- `[ALT+L]`
 - **FOLLOW**
 	- `[ALT+F]`
-
+- **CAPTURE MIDI**
+  - `ALT+]`
 
 ### **Spotify Hotkeys**
 - **PLAY / PAUSE:**
@@ -227,8 +228,6 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for m
   - `ALT+P`
 - **RE-ENABLE AUTOMATION**
   - `ALT+[`
-- **CAPTURE MIDI**
-  - `ALT+]`
 - **SESSION RECORD ENABLE**
   - `ALT+\` 
 
