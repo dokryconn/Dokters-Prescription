@@ -4,7 +4,24 @@ A script suite to make life easier for Windows and **Ableton Live** users.
 # Table of Contents
 - [Default "Dokter’s Prescription" Hotkeys](#Default-Dokters-Prescription-Hotkeys)
 	- [Windows Hotkeys](#Windows-Hotkeys)
+	- [Ableton Live Hotkeys](#Ableton-Live-Hotkeys)
+		- [General Functions](#General-Functions-Ableton-Live-Hotkeys)
+		- [View Toggling](#View-Toggling-Ableton-Live-Hotkeys)
+		- [Quantization](#Quantization-Ableton-Live-Hotkeys)
+		- [Transport](#Transport-Ableton-Live-Hotkeys)
+	- [Spotify Hotkeys](#Spotify-Hotkeys)
+	- [Google Chrome Hotkeys](#Google-Chrome-Hotkeys)
+	- [Brave Browser Hotkeys](#Brave-Browser-Hotkeys)
+- [Optional* "Dokter's Prescription" Hotkeys](#Optional-Dokters-Prescription-Hotkeys)
+	- [A-Z Launch/Toggle Programs](#a-z-launchtoggle-programs---optional)
+	- [0-9 Launch/Toggle Programs](#0-9-launchtoggle-programs---optional)
+	- [Mouse Click Hotkeys](#mouse-click-hotkeys---optional)
+		- [Ableton Live - Mouse Click Hotkeys (Optional)](#ableton-live---optional-mouse-click-hotkeys)
+		- [Spotify - Mouse Click Hotkeys (Optional)](#spotify---optional-mouse-click-hotkeys)
+	- [Hotstrings - Optional](#hotstrings---optional)
+- [The "Dok’s Rx Cabinet" folder](#the-doks-rx-cabinet-folder)
 
+	
 ##	Default "Dokter’s Prescription" Hotkeys
 
 - The "Dokter’s Prescription.EXE" script enables several hotkeys for Windows, Ableton Live, and other specific programs:
@@ -224,7 +241,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for m
 
  _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
 
-#### Ableton Live - Optional* Mouse Click Hotkeys:
+#### Ableton Live - Mouse Click Hotkeys (Optional*):
 - **MIDI ARRANGEMENT OVERDUB BUTTON**
   - `ALT+O`
 - **AUTOMATION ARM BUTTON**
@@ -234,7 +251,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for m
 - **SESSION RECORD ENABLE**
   - `ALT+\` 
 
-#### Spotify - Optional* Mouse Click Hotkeys:
+#### Spotify - Mouse Click Hotkeys (Optional*):
 - **HOME:**
   - `[ALT+H]`
 - **BROWSE:**
@@ -284,12 +301,12 @@ _Running the `Dokter's Prescription.EXE` file installs the `Dok's Rx Cabinet` fo
 ##	The "Dok’s Rx Pad" folder
 The `Dok’s Rx` folder contains the following items referenced by the  **`Dokter's Prescription.EXE`** and **Dok's Rx Pad.AHK** scripts:
 
-- **The "Dok's Rx Pad.AHK" script:**
+### The "Dok's Rx Pad.AHK" script:
   - This .AHK script is included for customizing the **Dokter's Prescription** script to meet your desired preferences.
 
 _[Go to the **Customizing Scripts** section](#customizing-scripts) below for more info on this._
 
-- **The "Dok’s Rx Guide.xls" spreadsheet**
+ **The "Dok’s Rx Guide.xls" spreadsheet**
   - Includes a full list of default script functions and includes additional workbook tabs for referencing native hotkeys for a few additional programs.
 
 - **The "App Launch Shortcuts" folder**
