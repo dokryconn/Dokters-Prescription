@@ -61,7 +61,98 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below, for in
   - `[ALT+ -]`
 
 ### **Ableton Live Hotkeys**
-- 
+
+#### General Functions (Ableton Live Hotkeys):
+- **RENAME**
+	- `[ALT+R]`
+- **SPLIT CLIP**
+	- `[ALT+X]`
+- **FREEZE TRACK**
+	- `[WIN+F]`
+- **FLATTEN TRACK**
+	- `[WIN+-]`
+- **INSERT TIME**
+	- `[ALT+INSERT]`
+- **DUPLICATE TIME**
+	- `[ALT+END]`
+- **CUT TIME**
+	- `[ALT+HOME]`
+- **PASTE TIME**
+	- `[ALT+PG DOWN]`
+- **DELETE TIME**
+	- `[ALT+DEL]`
+- **INSERT TIME SIGNATURE CHANGE**
+	- `[ALT+SHIFT+INSERT]`
+- **ADD LOCATOR MARKER**
+	- `[ALT+SHIFT+L]`
+- **CHOP (SLICE) TO NEW MIDI TRACK**
+	- `[CTRL+ALT+C]`
+- **CONVERT HARMONY TO MIDI TRACK**
+	- `[CTRL+ALT+H]`
+- **CONVERT MELODY TO MIDI TRACK**
+	- `[CTRL+ALT+M]`
+- **CONVERT DRUMS TO MIDI TRACK**
+	- `[CTRL+ALT+D]`
+
+#### View Toggling (Ableton Live Hotkeys):
+- **INFO/HELP VIEW**
+	- `[?]`
+- **DETAIL VIEW**
+	- `[ALT+D]`
+- **BROWSER VIEW**
+	- `[ALT+S]`
+- **OVERVIEW**
+	- `[ALT+Z]`
+- **VIEW I/O**
+	- `[ALT+SHIFT+I]`
+- **VIEW SENDS**
+	- `[ALT+SHIFT+S]`
+- **VIEW RETURNS**
+	- `[ALT+SHIFT+R]`
+- **VIEW MIXER**
+	- `[ALT+SHIFT]`
+- **VIEW DEVICE SLOTS**
+	- `[ALT+SHIFT+D]`
+- **VIEW FILE MANAGER**
+	- `[ALT+M]`
+- **VIEW GROOVE POOL**
+	- `[ALT+G]`
+- **OPEN SECOND WINDOW**
+	- `[ALT+N]`
+
+#### Quantization (Ableton Live Hotkeys):
+
+- **QUANTIZE**
+	- `[ALT+Q]`
+- **QUANTIZE MENU**
+	- `[ALT+W]`
+- **GLOBAL QUANTIZATION - NONE**
+	- `[CTRL+ALT+NUMPAD 0]`
+- **GLOBAL QUANTIZATION - 1 BAR**
+	- `[CTRL+ALT+NUMPAD 1]`
+- **RECORD QUANTIZATION - 1/4**
+	- `[CTRL+SHIFT+NUMPAD 0]`
+- **RECORD QUANTIZATION - 1/8**
+	- `[CTRL+SHIFT+NUMPAD 8]`
+- **RECORD QUANTIZATION - 1/8 TRIPLETS**
+	- `[CTRL+SHIFT+NUMPAD 1]`
+- **RECORD QUANTIZATION - 1/8 & TRIPLETS**
+	- `[CTRL+SHIFT+NUMPAD 2]`
+- **RECORD QUANTIZATION - 1/16**
+	- `[CTRL+SHIFT+NUMPAD 6]`
+- **RECORD QUANTIZATION - 1/16 TRIPLETS**
+	- `[CTRL+SHIFT+NUMPAD 3]`
+- **RECORD QUANTIZATION - 1/16 & TRIPLETS**
+	- `[CTRL+SHIFT+NUMPAD 7]`
+- **RECORD QUANTIZATION - 1/32**
+	- `[CTRL+SHIFT+NUMPAD 9]`
+
+#### Transport (Ableton Live Hotkeys):
+
+- **LOOP**
+	- `[ALT+L]`
+- **FOLLOW**
+	- `[ALT+F]`
 
 
 ### **Spotify Hotkeys**
