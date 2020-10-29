@@ -381,7 +381,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for mo
 
 - The **Dok's Rx Pad.AHK** script included in the `Dok's Rx Pad` folder will allow you to make changes to default hotkeys and add optional Autohotkey features.
 
-_[Go to the "Optional* - Dokter's Prescription Hotkeys" section](#Optional-Dokters-Prescription-Hotkeys) below for the complete list of optional hotkey template code included in "Dok's Rx Pad.AHK"_
+_[Go to the **Optional* - Dokter's Prescription Hotkeys** section](#Optional-Dokters-Prescription-Hotkeys) below for the complete list of optional hotkey template code included in "Dok's Rx Pad.AHK"_
 
 ### Follow these steps to customize the "Dok's Rx Pad.AHK" script:
 
