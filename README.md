@@ -277,7 +277,7 @@ The following additional scripts are stored within the`Dok's Rx Cabinet` folders
 
 These additional packaged scripts can of course be launched manually from `Dok's Rx Cabinet` and used independently without the "Dokter's Prescription" script running.
 
-_Running the `Dokter's Prescription.EXE` file installs the `Dok's Rx Cabinet` folder and it's contents. Existing files within `Dok's Rx Cabinet` will **not** be overwritten when `Dokter's Prescription.EXE` is re-launched, ensuring any saved changes to the .AHK script files within the folder remain unharmed._
+_Running the `Dokter's Prescription.EXE` file installs the `Dok's Rx Cabinet` folder and it's contents. Existing files within `Dok's Rx Cabinet` will **not** be overwritten when `Dokter's Prescription.EXE` is re-launched, ensuring any saved changes to the .AHK script files within this folder remain unharmed._
 
 ##	The "Dok’s Rx Pad" folder
 The `Dok’s Rx` folder contains the following items referenced by the  **`Dokter's Prescription.EXE`** and **Dok's Rx Pad.AHK** scripts:
