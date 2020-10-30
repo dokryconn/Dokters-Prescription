@@ -1,0 +1,21 @@
+"Dok's Rx Cabinet\Dok's Rx Pad\App Launch Shortcuts"
+
+PLACE SHORTCUTS IN THIS FOLDER FOR PROGRAMS THAT DO NOT USE A STANDARD FILE PATH
+
+(Example: Programs downloaded from the Microsoft Store or other programs that are nested in obscure folder locations)
+
+i.e. Using the filepath:
+
+"%A_WorkingDir%\Dok's Rx Pad\App Launch Shortcuts\Microsoft To Do"
+
+instead of:
+
+"C:\Program Files\WindowsApps\Microsoft.Todos_2.28.32802.0_x64__8wekyb3d8bbwe\ToDo.exe"
+
+
+
+ADDITONIAL NOTES:
+- Reference the instruction comments within the "Dok's Rx Pad.AHK" script under:
+"4. RUN / TOGGLE PROGRAMS WITH [ WIN+ ] 0-9" 
+and
+"5. RUN / TOGGLE PROGRAMS WITH [ WIN+SHIFT+ ] A-Z "
