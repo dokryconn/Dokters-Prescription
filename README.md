@@ -401,7 +401,7 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below for mo
  - **LAUNCH SCRIPT WHILE RUNNING Dokter's Prescription:**
     - `[CTRL+ALT+SHIFT+R]`
  - **EXIT SCRIPT:**
-    - `[CTRL+ALT+SHIFT+DEL]`
+    - `[CTRL+ALT+SHIFT+PGDOWN]`
  - **SAVE AND RELOAD SCRIPT:**
     - `[CTRL+S]`
 
