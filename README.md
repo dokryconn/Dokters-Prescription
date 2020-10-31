@@ -3,8 +3,8 @@ A script suite to make life easier for Windows and **Ableton Live** users.
 
 # Table of Contents
 - [Default "Dokter’s Prescription" Hotkeys](#Default-Dokters-Prescription-Hotkeys)
-	- [Windows Hotkeys](#Windows-Hotkeys)
-	- [Ableton Live Hotkeys](#Ableton-Live-Hotkeys)
+	- [Windows 10 Hotkeys](#Windows-Hotkeys)
+	- [Ableton Live 10 Hotkeys](#Ableton-Live-Hotkeys)
 		- [General Functions](#General-Functions-Ableton-Live-Hotkeys)
 		- [View Toggling](#View-Toggling-Ableton-Live-Hotkeys)
 		- [Quantization](#Quantization-Ableton-Live-Hotkeys)
@@ -46,8 +46,8 @@ A script suite to make life easier for Windows and **Ableton Live** users.
 
 **NOTE: For the complete list of keyboard hotkeys, reference the included "Dok's Rx Guide.xls" spreadsheet**
 
-  - **Windows** - **15** custom hotkeys
-  - **Ableton Live*** - **47** custom hotkeys
+  - **Windows 10** - **15** custom hotkeys
+  - **Ableton Live 10*** - **47** custom hotkeys
   - **Spotify*** - **9** custom hotkeys
   - **Google Chrome*** - **5** custom hotkeys
   - **Brave Browser*** - **5** custom hotkeys
@@ -63,7 +63,7 @@ _*Program-specific hotkeys are only enabled while the corresponding program wind
 
 _[Go to the **Customizing Scripts** section](#customizing-scripts) below, for instructions on how to customize or remove any default hotkeys included in this script._
 
-### **Windows Hotkeys**
+### **Windows 10 Hotkeys**
 
 - **SECOND `[WIN]` KEYBOARD KEY:**
   - `[Menu Key]`
@@ -98,7 +98,7 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below, for in
 - **VOLUME DOWN:**
   - `[ALT+ -]`
 
-### **Ableton Live Hotkeys**
+### **Ableton Live 10 Hotkeys**
 
 #### General Functions (Ableton Live Hotkeys):
 - **RENAME**
