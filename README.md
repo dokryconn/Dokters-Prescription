@@ -319,11 +319,6 @@ _Running the `Dokter's Prescription.EXE` file installs the `Dok's Rx Cabinet` fo
 ##	The "Dok’s Rx Pad" folder
 The `Dok’s Rx` folder contains the following items referenced by the  **`Dokter's Prescription.EXE`** and **Dok's Rx Pad.AHK** scripts:
 
-### The "Dok's Rx Pad.AHK" script:
-  - This .AHK script is included for customizing the **Dokter's Prescription** script to meet your desired preferences.
-
-_[Go to the **Customizing Scripts** section](#customizing-scripts) below for more info on this._
-
 - **The "App Launch Shortcuts" folder**
   - Used for storing created program shortcut files for launching/toggling apps that were installed by Microsoft Store.
   
@@ -339,7 +334,10 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below for mor
 
 `"C:\Program Files\WindowsApps\Microsoft.Todos_2.28.32802.0_x64__8wekyb3d8bbwe\ToDo.exe"`
 
-- **Icon files referenced by the the "Dok's Rx Pad.AHK" script.**
+### The "Dok's Rx Pad.AHK" script:
+  - This .AHK script is included for customizing the **Dokter's Prescription** script to meet your desired preferences.
+
+_[Go to the **Customizing Scripts** section](#customizing-scripts) below for more info on this._
 
 
 
