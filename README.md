@@ -52,7 +52,7 @@ A script suite to make life easier for Windows and **Ableton Live** users.
   - **Spotify*** - **9** custom hotkeys
   - **Google Chrome*** - **5** custom hotkeys
   - **Brave Browser*** - **5** custom hotkeys
-  - **Run extra scripts** - **3** custom hotkeys
+  - **Run extra scripts** - **3** utility scripts
   
 _*Program-specific hotkeys are only enabled while the corresponding program window is active._
 
