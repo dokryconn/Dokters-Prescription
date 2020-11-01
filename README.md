@@ -21,6 +21,7 @@ A script suite to make life easier for Windows and **Ableton Live** users.
 	- [Hotstrings - Optional](#hotstrings---optional)
 - [The "Dok’s Rx Cabinet" folder](#the-doks-rx-cabinet-folder)
 	- [The "Dok’s Rx Pad" folder](#the-doks-rx-pad-folder)
+		- [The "App Launch Shortcuts folder](#the-app-launch-shortcuts-folder)
 		- [The "Dok's Rx Pad.AHK" script](#the-doks-rx-padahk-script)
 	- [The "Over The Counter" folder](#the-over-the-counter-folder)
 		- [The "Ableton Takeover.EXE" script](#the-ableton-takeoverexe-script)
