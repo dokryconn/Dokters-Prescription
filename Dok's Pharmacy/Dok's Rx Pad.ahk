@@ -14,8 +14,8 @@ ______ ______  _____  _____  _____ ______  _____ ______  _____  _____  _____  _ 
 
 
 LAST UPDATED: 
-10/29/20
-7:20a EST
+10/31/2020
+6:37p EST
 	- Dokter RyConn
 
 ;				MODIFIER KEY LEGEND FOR HOTKEYS
@@ -733,7 +733,7 @@ TO EDIT THESE MOUSE CLICK HOTKEYS:
 
 */
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	MIDI ARRANGEMENT OVERDUB
 ;
@@ -748,7 +748,7 @@ TO EDIT THESE MOUSE CLICK HOTKEYS:
 
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	AUTOMATION ARM
 ;
@@ -763,7 +763,7 @@ TO EDIT THESE MOUSE CLICK HOTKEYS:
 
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	RE-ENABLE AUTOMATION
 ;
@@ -778,7 +778,7 @@ TO EDIT THESE MOUSE CLICK HOTKEYS:
 
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	SESSION RECORD BUTTON
 ;
@@ -870,7 +870,7 @@ TO EDIT THESE MOUSE CLICK HOTKEYS:
 
 */
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	HOME
 ;
@@ -886,7 +886,7 @@ TO EDIT THESE MOUSE CLICK HOTKEYS:
 
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	BROWSE
 ;
@@ -902,7 +902,7 @@ TO EDIT THESE MOUSE CLICK HOTKEYS:
 
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	RADIO
 ;
@@ -918,7 +918,7 @@ TO EDIT THESE MOUSE CLICK HOTKEYS:
 
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	SKIP 15 SECONDS BACK
 ;
@@ -934,7 +934,7 @@ TO EDIT THESE MOUSE CLICK HOTKEYS:
 
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	SKIP 15 SECONDS FORWARD
 ;
@@ -1070,12 +1070,17 @@ PLEASE READ - ADJUST FOR YOUR OWN PROGRAMS:
 4.) You're done! Now [WIN+] number keys will launch/toggle your program.
 
 NOTE: PROGRAMS THAT WERE INSTALLED BY "Microsoft Store" REQUIRE CREATED SHORTCUTS TO BE MOVED WITHIN THE FOLDER:
+"Dok's Rx Cabinet\Dok's Rx Pad\App Launch Shortcuts"
 
-"Dok's Rx Cabinet\Dok's Rx\App Launch Shortcuts"
+THE FILEPATH FOR THESE SHORTCUTS CAN BE INDICATED BELOW AS:
+"%A_WorkingDir%\Dok's Rx Pad\App Launch Shortcuts\INSERT_SHORTCUT_NAME_HERE"
+Example: %A_WorkingDir%\Dok's Rx Pad\App Launch Shortcuts\MicrosoftToDo
 
+YOU CAN INDICATE ANY OTHER PROGRAMS USING THE NORMAL FILE PATH WITHOUT CREATING A SHORTCUT:
+Example: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
 */
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1098,7 +1103,7 @@ exit
 */
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1121,7 +1126,7 @@ exit
 */
 	
 	
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1144,7 +1149,7 @@ exit
 */
 	
 	
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1167,7 +1172,7 @@ exit
 */
 	
 	
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1190,7 +1195,7 @@ exit
 */
 	
 	
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1213,7 +1218,7 @@ exit
 */
 	
 	
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1236,7 +1241,7 @@ exit
 */
 	
 	
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1258,7 +1263,7 @@ run "INSERT_APP_FILEPATH_HERE"
 exit
 */
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1280,7 +1285,7 @@ run "INSERT_APP_FILEPATH_HERE"
 exit
 */
 	
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1291,6 +1296,211 @@ ifwinexist, INSERT_APP_NAME_HERE
 {
 ifwinactive, INSERT_APP_NAME_HERE
 {
+winminimize, INSERT_APP_NAME_HERE
+winactivate, ahk_class Shell_TrayWnd
+exit
+}
+winactivatebottom, INSERT_APP_NAME_HERE
+exit
+}
+run "INSERT_APP_FILEPATH_HERE"
+exit
+*/
+
+
+;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
+;
+;	[WIN+NUMPAD 1]
+;
+#Numpad1::
+ifwinexist, INSERT_APP_NAME_HERE
+{
+ifwinactive, INSERT_APP_NAME_HERE
+{	
+winminimize, INSERT_APP_NAME_HERE
+winactivate, ahk_class Shell_TrayWnd
+exit
+}
+winactivatebottom, INSERT_APP_NAME_HERE
+exit
+}
+run "INSERT_APP_FILEPATH_HERE"
+exit
+*/
+
+
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+
+;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
+;
+;	[WIN+NUMPAD 2]
+;
+#Numpad2::
+ifwinexist, INSERT_APP_NAME_HERE
+{
+ifwinactive, INSERT_APP_NAME_HERE
+{	
+winminimize, INSERT_APP_NAME_HERE
+winactivate, ahk_class Shell_TrayWnd
+exit
+}
+winactivatebottom, INSERT_APP_NAME_HERE
+exit
+}
+run "INSERT_APP_FILEPATH_HERE"
+exit
+*/
+
+
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+
+;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
+;
+;	[WIN+NUMPAD 3]
+;
+#Numpad3::
+ifwinexist, INSERT_APP_NAME_HERE
+{
+ifwinactive, INSERT_APP_NAME_HERE
+{	
+winminimize, INSERT_APP_NAME_HERE
+winactivate, ahk_class Shell_TrayWnd
+exit
+}
+winactivatebottom, INSERT_APP_NAME_HERE
+exit
+}
+run "INSERT_APP_FILEPATH_HERE"
+exit
+*/
+
+
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+
+;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
+;
+;	[WIN+NUMPAD 4]
+;
+#Numpad4::
+ifwinexist, INSERT_APP_NAME_HERE
+{
+ifwinactive, INSERT_APP_NAME_HERE
+{	
+winminimize, INSERT_APP_NAME_HERE
+winactivate, ahk_class Shell_TrayWnd
+exit
+}
+winactivatebottom, INSERT_APP_NAME_HERE
+exit
+}
+run "INSERT_APP_FILEPATH_HERE"
+exit
+*/
+
+
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+
+;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
+;
+;	[WIN+NUMPAD 5]
+;
+#Numpad5::
+ifwinexist, INSERT_APP_NAME_HERE
+{
+ifwinactive, INSERT_APP_NAME_HERE
+{	
+winminimize, INSERT_APP_NAME_HERE
+winactivate, ahk_class Shell_TrayWnd
+exit
+}
+winactivatebottom, INSERT_APP_NAME_HERE
+exit
+}
+run "INSERT_APP_FILEPATH_HERE"
+exit
+*/
+
+
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+
+;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
+;
+;	[WIN+NUMPAD 6]
+;
+#Numpad6::
+ifwinexist, INSERT_APP_NAME_HERE
+{
+ifwinactive, INSERT_APP_NAME_HERE
+{	
+winminimize, INSERT_APP_NAME_HERE
+winactivate, ahk_class Shell_TrayWnd
+exit
+}
+winactivatebottom, INSERT_APP_NAME_HERE
+exit
+}
+run "INSERT_APP_FILEPATH_HERE"
+exit
+*/
+
+
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+
+;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
+;
+;	[WIN+NUMPAD 7]
+;
+#Numpad7::
+ifwinexist, INSERT_APP_NAME_HERE
+{
+ifwinactive, INSERT_APP_NAME_HERE
+{	
+winminimize, INSERT_APP_NAME_HERE
+winactivate, ahk_class Shell_TrayWnd
+exit
+}
+winactivatebottom, INSERT_APP_NAME_HERE
+exit
+}
+run "INSERT_APP_FILEPATH_HERE"
+exit
+*/
+
+
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+
+;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
+;
+;	[WIN+NUMPAD 8]
+;
+#Numpad8::
+ifwinexist, INSERT_APP_NAME_HERE
+{
+ifwinactive, INSERT_APP_NAME_HERE
+{	
+winminimize, INSERT_APP_NAME_HERE
+winactivate, ahk_class Shell_TrayWnd
+exit
+}
+winactivatebottom, INSERT_APP_NAME_HERE
+exit
+}
+run "INSERT_APP_FILEPATH_HERE"
+exit
+*/
+
+
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+
+;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
+;
+;	[WIN+NUMPAD 9]
+;
+#Numpad9::
+ifwinexist, INSERT_APP_NAME_HERE
+{
+ifwinactive, INSERT_APP_NAME_HERE
+{	
 winminimize, INSERT_APP_NAME_HERE
 winactivate, ahk_class Shell_TrayWnd
 exit
@@ -1330,12 +1540,17 @@ PLEASE READ - ADJUST FOR YOUR OWN PROGRAMS:
 4.) You're done! Now [WIN+] number keys will launch/toggle your program.
 
 NOTE: PROGRAMS THAT WERE INSTALLED BY "Microsoft Store" REQUIRE CREATED SHORTCUTS TO BE MOVED WITHIN THE FOLDER:
+"Dok's Rx Cabinet\Dok's Rx Pad\App Launch Shortcuts"
 
-"Dok's Rx Cabinet\Dok's Rx\App Launch Shortcuts"
+THE FILEPATH FOR THESE SHORTCUTS CAN BE INDICATED BELOW AS:
+"%A_WorkingDir%\Dok's Rx Pad\App Launch Shortcuts\INSERT_SHORTCUT_NAME_HERE"
+Example: %A_WorkingDir%\Dok's Rx Pad\App Launch Shortcuts\MicrosoftToDo
 
+YOU CAN INDICATE ANY OTHER PROGRAMS USING THE NORMAL FILE PATH WITHOUT CREATING A SHORTCUT:
+Example: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
 */
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1358,7 +1573,7 @@ exit
 */
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1381,7 +1596,7 @@ exit
 */
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1404,7 +1619,7 @@ exit
 */
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1427,7 +1642,7 @@ exit
 */
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1450,7 +1665,7 @@ exit
 */
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1473,7 +1688,7 @@ exit
 */
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1496,7 +1711,7 @@ exit
 */
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1519,7 +1734,7 @@ exit
 */
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1542,7 +1757,7 @@ exit
 */
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1565,7 +1780,7 @@ exit
 */
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1588,7 +1803,7 @@ exit
 */
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1611,7 +1826,7 @@ exit
 */
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1634,7 +1849,7 @@ exit
 */
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1657,7 +1872,7 @@ exit
 */
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1680,7 +1895,7 @@ exit
 */
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1703,7 +1918,7 @@ exit
 */
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1725,7 +1940,7 @@ run "INSERT_APP_FILEPATH_HERE"
 exit
 */
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1748,7 +1963,7 @@ exit
 */
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1771,7 +1986,7 @@ exit
 */
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1794,7 +2009,7 @@ exit
 */
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1817,7 +2032,7 @@ exit
 */
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1840,7 +2055,7 @@ exit
 */
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
@@ -1863,13 +2078,13 @@ exit
 */
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
 ;	[WIN+SHIFT+X]
 ;
-#+x
+#+x::
 ifwinexist, INSERT_APP_NAME_HERE
 {
 ifwinactive, INSERT_APP_NAME_HERE
@@ -1886,13 +2101,13 @@ exit
 */
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;
 ;	[WIN+SHIFT+Y]
 ;
-#+y:
+#+y::
 ifwinexist, INSERT_APP_NAME_HERE
 {
 ifwinactive, INSERT_APP_NAME_HERE
@@ -1909,7 +2124,7 @@ exit
 */
 
 
-/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE FROM THE SCRIPT TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
+/* - !!!!!!!!!!!!!!!! REMOVE THIS COMMENT LINE TO ACTIVATE THE HOTKEY BELOW !!!!!!!!!!!!!!!!
 
 ;	LAUNCH & TOGGLE "INSERT APP NAME HERE" WINDOW
 ;

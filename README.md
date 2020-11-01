@@ -3,8 +3,8 @@ A script suite to make life easier for Windows and **Ableton Live** users.
 
 # Table of Contents
 - [Default "Dokter’s Prescription" Hotkeys](#Default-Dokters-Prescription-Hotkeys)
-	- [Windows Hotkeys](#Windows-Hotkeys)
-	- [Ableton Live Hotkeys](#Ableton-Live-Hotkeys)
+	- [Windows 10 Hotkeys](#Windows-Hotkeys)
+	- [Ableton Live 10 Hotkeys](#Ableton-Live-Hotkeys)
 		- [General Functions](#General-Functions-Ableton-Live-Hotkeys)
 		- [View Toggling](#View-Toggling-Ableton-Live-Hotkeys)
 		- [Quantization](#Quantization-Ableton-Live-Hotkeys)
@@ -16,11 +16,12 @@ A script suite to make life easier for Windows and **Ableton Live** users.
 	- [A-Z Launch/Toggle Programs](#a-z-launchtoggle-programs---optional)
 	- [0-9 Launch/Toggle Programs](#0-9-launchtoggle-programs---optional)
 	- [Mouse Click Hotkeys](#mouse-click-hotkeys---optional)
-		- [Ableton Live - Mouse Click Hotkeys (Optional)](#ableton-live---optional-mouse-click-hotkeys)
-		- [Spotify - Mouse Click Hotkeys (Optional)](#spotify---optional-mouse-click-hotkeys)
+		- [Ableton Live - Mouse Click Hotkeys (Optional)](#ableton-live---mouse-click-hotkeys-optional)
+		- [Spotify - Mouse Click Hotkeys (Optional)](#spotify---mouse-click-hotkeys-optional)
 	- [Hotstrings - Optional](#hotstrings---optional)
 - [The "Dok’s Rx Cabinet" folder](#the-doks-rx-cabinet-folder)
 	- [The "Dok’s Rx Pad" folder](#the-doks-rx-pad-folder)
+		- [The "App Launch Shortcuts folder](#the-app-launch-shortcuts-folder)
 		- [The "Dok's Rx Pad.AHK" script](#the-doks-rx-padahk-script)
 	- [The "Over The Counter" folder](#the-over-the-counter-folder)
 		- [The "Ableton Takeover.EXE" script](#the-ableton-takeoverexe-script)
@@ -46,8 +47,8 @@ A script suite to make life easier for Windows and **Ableton Live** users.
 
 **NOTE: For the complete list of keyboard hotkeys, reference the included "Dok's Rx Guide.xls" spreadsheet**
 
-  - **Windows** - **15** custom hotkeys
-  - **Ableton Live*** - **47** custom hotkeys
+  - **Windows 10** - **15** custom hotkeys
+  - **Ableton Live 10*** - **47** custom hotkeys
   - **Spotify*** - **9** custom hotkeys
   - **Google Chrome*** - **5** custom hotkeys
   - **Brave Browser*** - **5** custom hotkeys
@@ -63,7 +64,7 @@ _*Program-specific hotkeys are only enabled while the corresponding program wind
 
 _[Go to the **Customizing Scripts** section](#customizing-scripts) below, for instructions on how to customize or remove any default hotkeys included in this script._
 
-### **Windows Hotkeys**
+### **Windows 10 Hotkeys**
 
 - **SECOND `[WIN]` KEYBOARD KEY:**
   - `[Menu Key]`
@@ -98,7 +99,7 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below, for in
 - **VOLUME DOWN:**
   - `[ALT+ -]`
 
-### **Ableton Live Hotkeys**
+### **Ableton Live 10 Hotkeys**
 
 #### General Functions (Ableton Live Hotkeys):
 - **RENAME**
@@ -319,12 +320,7 @@ _Running the `Dokter's Prescription.EXE` file installs the `Dok's Rx Cabinet` fo
 ##	The "Dok’s Rx Pad" folder
 The `Dok’s Rx` folder contains the following items referenced by the  **`Dokter's Prescription.EXE`** and **Dok's Rx Pad.AHK** scripts:
 
-### The "Dok's Rx Pad.AHK" script:
-  - This .AHK script is included for customizing the **Dokter's Prescription** script to meet your desired preferences.
-
-_[Go to the **Customizing Scripts** section](#customizing-scripts) below for more info on this._
-
-- **The "App Launch Shortcuts" folder**
+### The "App Launch Shortcuts" folder
   - Used for storing created program shortcut files for launching/toggling apps that were installed by Microsoft Store.
   
 *The `App Launch Shortcuts` sub-folder within `Dok’s Rx Cabinet\Dok’s Rx` is a location to keep program shortcuts for the "Launch/Toggle Programs" optional template code within the "*Dok's Rx Pad**" script.*
@@ -339,7 +335,10 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below for mor
 
 `"C:\Program Files\WindowsApps\Microsoft.Todos_2.28.32802.0_x64__8wekyb3d8bbwe\ToDo.exe"`
 
-- **Icon files referenced by the the "Dok's Rx Pad.AHK" script.**
+### The "Dok's Rx Pad.AHK" script:
+  - This .AHK script is included for customizing the **Dokter's Prescription** script to meet your desired preferences.
+
+_[Go to the **Customizing Scripts** section](#customizing-scripts) below for more info on this._
 
 
 
