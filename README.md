@@ -319,7 +319,7 @@ _Running the `Dokter's Prescription.EXE` file installs the `Dok's Rx Cabinet` fo
 ##	The "Dok’s Rx Pad" folder
 The `Dok’s Rx` folder contains the following items referenced by the  **`Dokter's Prescription.EXE`** and **Dok's Rx Pad.AHK** scripts:
 
-- **The "App Launch Shortcuts" folder**
+### The "App Launch Shortcuts" folder
   - Used for storing created program shortcut files for launching/toggling apps that were installed by Microsoft Store.
   
 *The `App Launch Shortcuts` sub-folder within `Dok’s Rx Cabinet\Dok’s Rx` is a location to keep program shortcuts for the "Launch/Toggle Programs" optional template code within the "*Dok's Rx Pad**" script.*
