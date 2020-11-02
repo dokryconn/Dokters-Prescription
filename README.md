@@ -498,6 +498,20 @@ Once these blocks of code are activated and edited to your personal preference, 
 5. You're done. :)
 
 
+
+# Changelog
+
+## v1.2
+- Added "Scroll Left/Right Horizontally" with `[SHIFT+1]` and `[SHIFT+2]`
+- 
+- 
+
+## v1.1
+- Added "Dok's Rx Guide" option in Windows tray menu
+- Added "RxEAD ME" option in Windows tray menu
+- Added additional instruction comments in "Dok's Rx Pad.AHK" script for enabling "Launch/Toggle Programs" hotkeys
+- Updated README documentation
+
 # Donate
 
 This script is **100% free** to use, manipulate, distribute, or incinerate but I've included a link for **donations** below.
