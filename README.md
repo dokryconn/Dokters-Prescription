@@ -1,4 +1,4 @@
-# Dokter's Prescription V1.2
+# Dokter's Prescription v1.2
 A script suite to make life easier for Windows and **Ableton Live** users.
 
 # Table of Contents
