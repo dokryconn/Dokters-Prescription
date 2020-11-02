@@ -134,9 +134,9 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below, for in
 	- `[CTRL+ALT+D]`
 
 #### View Toggling (Ableton Live Hotkeys):
-- **SCROLL HORIZONTALLY LEFT**
+- **SCROLL LEFT HORIZONTALLY**
 	- `[SHIFT+1]`
-- **SCROLL HORIZONTALLY RIGHT**
+- **SCROLL RIGHT HORIZONTALLY**
 	- `[SHIFT+2]`
 - **INFO/HELP VIEW**
 	- `[?]`
