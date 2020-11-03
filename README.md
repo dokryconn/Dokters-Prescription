@@ -8,6 +8,7 @@ A script suite to make life easier for Windows and **Ableton Live** users.
 		- [General Functions](#General-Functions-Ableton-Live-Hotkeys)
 		- [View Toggling](#View-Toggling-Ableton-Live-Hotkeys)
 		- [Quantization](#Quantization-Ableton-Live-Hotkeys)
+		- [Piano Roll](#piano-roll-ableton-live-hotkeys)
 		- [Transport](#Transport-Ableton-Live-Hotkeys)
 	- [Spotify Hotkeys](#Spotify-Hotkeys)
 	- [Google Chrome Hotkeys](#Google-Chrome-Hotkeys)
