@@ -523,9 +523,9 @@ Once these blocks of code are activated and edited to your personal preference, 
 # Changelog
 
 ## v1.2
-- Added "Scroll Left/Right Horizontally" with `[SHIFT+1]` and `[SHIFT+2]`
-- 
-- 
+- Added 2 additional "View/Toggling" hotkeys for Ableton Live (scroll left/right)
+- Added 9 "Piano Roll" hotkeys for Ableton Live (various grid values and crop clip)
+- Added "Changelog" in README file
 
 ## v1.1
 - Added "Dok's Rx Guide" option in Windows tray menu
