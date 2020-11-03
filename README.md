@@ -48,7 +48,7 @@ A script suite to make life easier for Windows and **Ableton Live** users.
 **NOTE: For the complete list of keyboard hotkeys, reference the included "Dok's Rx Guide.xls" spreadsheet**
 
   - **Windows 10** - **15** custom hotkeys
-  - **Ableton Live 10*** - **49** custom hotkeys
+  - **Ableton Live 10*** - **58** custom hotkeys
   - **Spotify*** - **9** custom hotkeys
   - **Google Chrome*** - **5** custom hotkeys
   - **Brave Browser*** - **5** custom hotkeys
@@ -189,6 +189,26 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below, for in
 	- `[CTRL+SHIFT+NUMPAD 7]`
 - **RECORD QUANTIZATION - 1/32**
 	- `[CTRL+SHIFT+NUMPAD 9]`
+
+#### Piano Roll (Ableton Live Hotkeys):
+- **FIXED GRID - OFF**
+	- `[ALT+F1]`
+- **FIXED GRID - 1/2**
+	- `[ALT+F2]`
+- **FIXED GRID - TRIPLET**
+	- `[ALT+F3]`
+- **FIXED GRID - 1/4**
+	- `[ALT+F4]`
+- **FIXED GRID - 1/8**
+	- `[ALT+F5]`
+- **FIXED GRID - 1/16**
+	- `[ALT+F6]`
+- **FIXED GRID - 1/32**
+	- `[ALT+F7]`
+- **ADAPTIVE GRID - MEDIUM**
+	- `[ALT+F8]`
+- **CROP CLIP**
+	- `[ALT+F9]`
 
 #### Transport (Ableton Live Hotkeys):
 
