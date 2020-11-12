@@ -197,12 +197,13 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below, for in
 - **RECORD QUANTIZATION - 1/32**
 	- `[CTRL+SHIFT+NUMPAD 9]`
 
-#### Piano Roll (Ableton Live Hotkeys):
+#### Piano Roll* (Ableton Live Hotkeys):
+_*while mouse is hovering over empty section of the piano roll region._
 - **FIXED GRID - OFF**
 	- `[ALT+F1]`
 - **FIXED GRID - 1/2**
 	- `[ALT+F2]`
-- **FIXED GRID - TRIPLET**
+- **FIXED GRID - TRIPLET GRID ON/OFF**
 	- `[ALT+F3]`
 - **FIXED GRID - 1/4**
 	- `[ALT+F4]`
@@ -212,7 +213,7 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below, for in
 	- `[ALT+F6]`
 - **FIXED GRID - 1/32**
 	- `[ALT+F7]`
-- **ADAPTIVE GRID - MEDIUM**
+- **ADAPTIVE GRID - NARROWEST**
 	- `[ALT+F8]`
 - **CROP CLIP**
 	- `[ALT+F9]`
