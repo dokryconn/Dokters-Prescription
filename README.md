@@ -531,10 +531,11 @@ Once these blocks of code are activated and edited to your personal preference, 
 # Changelog
 
 ## v1.3
-- Changed Windows hotkeys for the uppercase/lowercase/invert case hotkeys to use **[CTRL+ALT+SHIFT]** modifier keys to avoid conflicts
-- Changed File Explorer launch hotkeys to use **[WIN+F1]** to open a new window and **[WIN+TILDE]** to either launch or toggle File Explorer depending on whether a File Explorer window is currently open
-- **[CTRL+HOME]** - Ableton Live 10 Added "Play From Beginning" hotkey
-- **[INSERT]** - Added Ableton Liver 10 "Select Arrangment Window Region" hotkey to quickly select the arrangment region for more hotkey madness!
+- **[CTRL+ALT+SHIFT]** - Changed the modifier keys of Windows 10 "uppercase/lowercase" hotkeys to [CTRL+ALT+SHIFT]
+- **[WIN+F1]** - Changed Windows 10 "File Explorer" hotkey to open a new window 
+- **[WIN+TILDE]** Changed Windows 10 "File Explorer" hotkey to only activate the window (will launch File Explorer  it's not already running)
+- **[CTRL+HOME]** - Added Ableton Live 10 "Play From Beginning" hotkey
+- **[INSERT]** - Added Ableton Live 10 "Select Arrangment Window Region" hotkey to quickly select the arrangment region for more hotkey madness!
 - **[ALT+A]** - Added Ableton Live 10 "Select All" hotkey
 
 
