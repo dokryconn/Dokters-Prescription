@@ -48,7 +48,7 @@ A script suite to make life easier for Windows and **Ableton Live** users.
 
 **NOTE: For the complete list of keyboard hotkeys, reference the included "Dok's Rx Guide.xls" spreadsheet**
 
-  - **Windows 10** - **16** custom hotkeys
+  - **Windows 10** - **17** custom hotkeys
   - **Ableton Live 10*** - **61** custom hotkeys
   - **Spotify*** - **9** custom hotkeys
   - **Google Chrome*** - **5** custom hotkeys
@@ -69,8 +69,10 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below, for in
 
 - **SECOND `[WIN]` KEYBOARD KEY:**
   - `[Menu Key]`
-- **LAUNCH FILE EXPLORER** ("C:\Users"):
-  - `[CTRL+TILDE]`
+- **LAUNCH NEW FILE EXPLORER:**
+  - `[WIN+F1]`
+- **LAUNCH OR TOGGLE FILE EXPLORER:**
+  - `[WIN+TILDE KEY]`
 - **CAPTURE SCREENSHOT:**
   - `[PRINTSCREEN]`
 - **QUIT PROGRAM:**
@@ -82,11 +84,11 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below, for in
 - **MAXIMIZE WINDOW:**
   - `[WIN+UP]`
 - **CONVERT SELECTED TEXT TO UPPERCASE:**
-  - `[CTRL+SHIFT+U]`
+  - `[CTRL+ALT+SHIFT+U]`
 - **CONVERT SELECTED TEXT TO LOWERCASE:**
-  - `[CTRL+SHIFT+L]`
+  - `[CTRL+ALT+SHIFT+L]`
 - **INVERT CASE OF SELECTED TEXT:**
-  - `[CTRL+SHIFT+I]`
+  - `[CTRL+ALT+SHIFT+I]`
 - **PLAY / PAUSE MEDIA:**
   - `[ALT+P]`
 - **PREVIOUS TRACK:**
@@ -103,6 +105,8 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below, for in
 ### **Ableton Live 10 Hotkeys**
 
 #### General Functions (Ableton Live Hotkeys):
+- **SELECT ALL**
+	- `[ALT+A]`
 - **RENAME**
 	- `[ALT+R]`
 - **SPLIT CLIP**
@@ -135,6 +139,8 @@ _[Go to the **Customizing Scripts** section](#customizing-scripts) below, for in
 	- `[CTRL+ALT+D]`
 
 #### View Toggling (Ableton Live Hotkeys):
+- **SELECT ARRANGEMENT WINDOW REGION**
+	- `[INSERT]`
 - **SCROLL LEFT HORIZONTALLY**
 	- `[SHIFT+1]`
 - **SCROLL RIGHT HORIZONTALLY**
@@ -286,6 +292,8 @@ _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for m
  _*[Go to the **Customizing Scripts** section](#customizing-scripts) below, for more info on this._
 
 #### Ableton Live - Mouse Click Hotkeys (Optional*):
+- **PLAY FROM BEGINNING**
+  - `CTRL+HOME`
 - **MIDI ARRANGEMENT OVERDUB BUTTON**
   - `ALT+O`
 - **AUTOMATION ARM BUTTON**
@@ -521,6 +529,14 @@ Once these blocks of code are activated and edited to your personal preference, 
 
 
 # Changelog
+
+## v1.3
+- Changed Windows hotkeys for the uppercase/lowercase/invert case hotkeys to use **[CTRL+ALT+SHIFT]** modifier keys to avoid conflicts
+- Changed File Explorer launch hotkeys to use **[WIN+F1]** to open a new window and **[WIN+TILDE]** to either launch or toggle File Explorer depending on whether a File Explorer window is currently open
+- **[CTRL+HOME]** - Ableton Live 10 Added "Play From Beginning" hotkey
+- **[INSERT]** - Added Ableton Liver 10 "Select Arrangment Window Region" hotkey to quickly select the arrangment region for more hotkey madness!
+- **[ALT+A]** - Added Ableton Live 10 "Select All" hotkey
+
 
 ## v1.2
 - Added 2 additional "View/Toggling" hotkeys for Ableton Live (scroll left/right)
