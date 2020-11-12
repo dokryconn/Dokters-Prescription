@@ -1,4 +1,4 @@
-# Dokter's Prescription v1.2
+# Dokter's Prescription v1.3
 A script suite to make life easier for Windows and **Ableton Live** users.
 
 # Table of Contents
@@ -48,8 +48,8 @@ A script suite to make life easier for Windows and **Ableton Live** users.
 
 **NOTE: For the complete list of keyboard hotkeys, reference the included "Dok's Rx Guide.xls" spreadsheet**
 
-  - **Windows 10** - **15** custom hotkeys
-  - **Ableton Live 10*** - **58** custom hotkeys
+  - **Windows 10** - **16** custom hotkeys
+  - **Ableton Live 10*** - **61** custom hotkeys
   - **Spotify*** - **9** custom hotkeys
   - **Google Chrome*** - **5** custom hotkeys
   - **Brave Browser*** - **5** custom hotkeys
