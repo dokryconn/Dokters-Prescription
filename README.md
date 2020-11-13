@@ -532,12 +532,12 @@ Once these blocks of code are activated and edited to your personal preference, 
 # Changelog
 
 ## v1.3
-- **[CTRL+ALT+SHIFT]** - Changed the modifier keys of Windows 10 "uppercase/lowercase" hotkeys to [CTRL+ALT+SHIFT]
-- **[WIN+F1]** - Changed Windows 10 "File Explorer" hotkey to open a new window 
-- **[WIN+TILDE]** Changed Windows 10 "File Explorer" hotkey to only activate the window (will launch File Explorer  it's not already running)
-- **[CTRL+HOME]** - Added Ableton Live 10 "Play From Beginning" hotkey
-- **[INSERT]** - Added Ableton Live 10 "Select Arrangment Window Region" hotkey to quickly select the arrangment region for more hotkey madness!
-- **[ALT+A]** - Added Ableton Live 10 "Select All" hotkey
+- **[CTRL+ALT+SHIFT]** - Windows 10: Changed the modifier keys for "uppercase/lowercase" hotkeys to [CTRL+ALT+SHIFT]
+- **[WIN+F1]** - Windows 10: Changed "File Explorer" hotkey to open a new window
+- **[WIN+TILDE]** Windows 10: Changed "File Explorer" hotkey to only activate the window (will launch File Explorer  it's not already running)
+- **[CTRL+HOME]** -  Ableton Live 10:  "Play From Beginning" hotkey
+- [INSERT] - Ableton Live 10: Added “Select Arrangment Window Region” hotkey to quickly select the arrangment region for seamless hotkey madness!
+- **[ALT+A]** - Ableton Live 10: Added "Select All" hotkey
 
 
 ## v1.2
