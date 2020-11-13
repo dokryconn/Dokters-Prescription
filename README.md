@@ -37,6 +37,7 @@ A script suite to make life easier for Windows and **Ableton Live** users.
 	- [Customizing the Ableton Takeover script](#customizing-the-ableton-takeover-script)
 	- [Customizing the Power & Sleep Hotkeys script](#customizing-the-power--sleep-hotkeys-script)
 	- [Customizing the Research Chemicals script](#customizing-the-research-chemicals-script)
+- [Changelog](#changelog)
 - [Donate](#donate)
 
 
